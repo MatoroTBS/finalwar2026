@@ -1,0 +1,105 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 225 110 }
+revolutionary_colors = { 9 16 1 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	naval_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_cavalry_archers
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abdul-Haleem #1" = 10
+	"Adiatorix #1" = 10
+	"Akzer #1" = 10
+	"Amulius #0" = 0
+	"Anca #0" = -1
+	"Aras #1" = 10
+	"Awdia #1" = 10
+	"Buwayh #1" = 10
+	"Camillus #1" = 10
+	"Camma #1" = 10
+	"Decimus #1" = 10
+	"Domneiu #1" = 10
+	"Drusus #1" = 10
+	"Gallus #1" = 10
+	"Gerbaal #1" = 10
+	"Gnaeus #1" = 10
+	"Juba #1" = 10
+	"Lucia #1" = -1
+	"Madidu #1" = 10
+	"Marcus #2" = 10
+	"Numerius #1" = 10
+	"Opiter #2" = 10
+	"Postumus #1" = 10
+	"Primus #2" = 10
+	"Procula #0" = -1
+	"Publia #0" = -1
+	"Publius #2" = 10
+	"Secundus #2" = 10
+	"Sexta #0" = -1
+	"Spuria #0" = -1
+	"Spurius #1" = 10
+	"Tabnit #1" = 10
+	"Tertius #1" = 10
+	"Tiberius #1" = 10
+	"Titus #1" = 10
+	"Vibius #1" = 10
+}
+leader_names = {
+	"Amara"
+	"Behar"
+	"Benzai"
+	"Benzine"
+	"Essaid"
+	"Hacini"
+	"Ilaes"
+	"Kelkal"
+	"Merah"
+	"Selmi"
+}
+ship_names = {
+	"Akhir"
+	"Awwal"
+	"Ba'ith"
+	"Barr"
+	"Batin"
+	"Hamid"
+	"Haqq"
+	"Hayy"
+	"Majid"
+	"Matin"
+	"Mu'akhkhir"
+	"Mu'id"
+	"Mubdi"
+	"Muhsi"
+	"Muhyi"
+	"Mumit"
+	"Muqaddim"
+	"Muqtadir"
+	"Muta'al"
+	"Qadir"
+	"Qawiyy"
+	"Qayyum"
+	"Samad"
+	"Shahid"
+	"Wahid"
+	"Wajed"
+	"Wakil"
+	"Wali"
+	"Waliyy"
+	"Zahir"
+}

@@ -1,0 +1,15 @@
+owner = SCO
+controller = SCO
+capital = "Lancaster"
+is_city = yes
+culture = dynamic-breton-culture-num9
+religion = converted_dynamic_faith_142
+trade_goods = wool
+base_tax = 1
+base_production = 3
+base_manpower = 1
+add_core = SCO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

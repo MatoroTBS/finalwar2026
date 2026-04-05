@@ -1,0 +1,13 @@
+owner = SWE
+controller = SWE
+capital = "Gävle"
+is_city = yes
+culture = dynamic-gothic-swedish-culture-num1
+religion = converted_dynamic_faith_142
+trade_goods = fish
+base_tax = 12
+base_production = 10
+base_manpower = 6
+add_core = SWE
+discovered_by = eastern
+discovered_by = western

@@ -1,0 +1,16 @@
+owner = Z1Y
+controller = Z1Y
+capital = "Walata"
+is_city = yes
+culture = senegambian
+religion = converted_dynamic_faith_142
+trade_goods = wool
+base_tax = 10
+base_production = 4
+base_manpower = 3
+add_core = Z1Y
+discovered_by = MOR
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

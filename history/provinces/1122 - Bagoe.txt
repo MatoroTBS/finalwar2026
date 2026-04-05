@@ -1,0 +1,15 @@
+owner = Z2A
+controller = Z2A
+capital = "Tingrela"
+is_city = yes
+culture = dynamic-dyola-culture-num1
+religion = converted_dynamic_faith_142
+trade_goods = dyes
+base_tax = 8
+base_production = 8
+base_manpower = 7
+add_core = Z2A
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

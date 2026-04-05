@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 102 128 52 }
+revolutionary_colors = { 1 5 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	durrani_dragoon
+	durrani_rifled_musketeer
+	durrani_swivel
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Altani #0" = -1
+	"Amrapali #0" = -1
+	"Amritakala #0" = -1
+	"Arxata #1" = 10
+	"Baxunash #1" = -1
+	"Begünütei #0" = 0
+	"Berke #1" = 10
+	"Bishwas Devi #0" = -1
+	"Camillus #0" = 0
+	"Exak #2" = 10
+	"Ganeshwar Singh #0" = 0
+	"Gitika Gujri #1" = -1
+	"Hira #0" = -1
+	"Hulyen #0" = 0
+	"Jaitra-Singh #1" = 10
+	"Jatakhadga #0" = 0
+	"Jeguredei #0" = 0
+	"Kalyana #0" = -1
+	"Kanchani #0" = -1
+	"Koshana #0" = -1
+	"Lakshmichandra #1" = 10
+	"Laxminath Singh Dev #1" = 10
+	"Mzhezh #0" = 0
+	"Narasingha #0" = 0
+	"Narayanapala #0" = 0
+	"Oghul #0" = -1
+	"Orbei #0" = -1
+	"Pratapnarayan #0" = 0
+	"Pushkaranadhipa #0" = 0
+	"Rajyapala #1" = 10
+	"Roce #0" = -1
+	"Roshan #1" = -1
+	"Roshanak #0" = -1
+	"Roxana #0" = -1
+	"Salahuddin #1" = 10
+	"Shanibhangar #1" = 10
+	"Shivanarayan #0" = 0
+	"Siyaka #1" = 10
+	"Udirnakhadga #0" = 0
+	"Uditanarayan #0" = 0
+	"Vapyata #1" = 10
+	"Vijaynarayan #0" = 0
+	"Vijnayavati #1" = -1
+	"Wamah #0" = 0
+	"Wiryamitre #0" = 0
+	"Šahram #0" = 0
+}
+leader_names = {
+	"Ahmad"
+	"Akhund"
+	"Amin"
+	"Ghazi"
+	"Hotaki"
+	"Karmal"
+	"Najibullah"
+	"Qadir"
+	"Rahman"
+	"Taraki"
+}
+ship_names = {
+	"Arghandab"
+	"Balkh"
+	"Dasht"
+	"Farah"
+	"Harirud"
+	"Harut"
+	"Hingol"
+	"Kabol"
+	"Kech"
+	"Khash"
+	"Kowkcheh"
+	"Murghab"
+	"Zhob"
+}

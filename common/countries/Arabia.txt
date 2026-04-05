@@ -1,0 +1,171 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 76 141 58 }
+revolutionary_colors = { 10 0 1 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abdul #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Adhid #1" = 10
+	"Aeluit #0" = -1
+	"Aghlab #0" = 0
+	"Ameny #1" = 10
+	"Antigona #1" = -1
+	"Argantguistl #0" = -1
+	"Awrala #0" = -1
+	"Ayasun #0" = -1
+	"Baeivvet #0" = 0
+	"Demaratos #0" = 0
+	"Devarakste #0" = 0
+	"Diodoros #1" = 10
+	"Eirotatouññlki #0" = -1
+	"Eponi #0" = 0
+	"Fadil #0" = 0
+	"Hadiya #0" = -1
+	"Hakam #0" = 0
+	"Halil #0" = 0
+	"Hasan #0" = 0
+	"Isa #0" = 0
+	"Jarji #1" = 10
+	"Jibril #0" = 0
+	"Kersiami #0" = -1
+	"Khalil #0" = 0
+	"Kineas #1" = 10
+	"Mahdi #0" = 0
+	"Mahwash #1" = -1
+	"Marca #0" = -1
+	"Mas'ud #1" = 10
+	"Maximos #0" = 0
+	"Menandros #1" = 10
+	"Mukhtar #0" = 0
+	"Muslihiddin #0" = 0
+	"Pantadienos #0" = 0
+	"Patrikia #0" = -1
+	"Phyromachos #1" = 10
+	"Prasamnake #0" = 0
+	"Qamara #1" = -1
+	"Ramadan #0" = 0
+	"Raphael #0" = 0
+	"Riguistl #0" = -1
+	"Romane #0" = -1
+	"Sadiq #1" = 10
+	"Sami #0" = 0
+	"Samir #1" = 10
+	"Sostrate #0" = -1
+	"Talib #0" = 0
+	"Themistios #1" = 10
+	"Theodote #0" = 0
+	"Uppalavarna #0" = -1
+	"Vosgi #0" = -1
+	"Yashhurmalik #1" = 10
+	"Zeuxis #0" = 0
+	"Áigesárri #0" = 0
+}
+leader_names = {
+	"Abbas"
+	"Ali"
+	"Aybak"
+	"Baibars"
+	"Bay"
+	"Bey"
+	"Bugha"
+	"Chammas"
+	"Farhat"
+	"Hammoud"
+	"Ibrahim"
+	"Inâl"
+	"Kansur"
+	"Khalil"
+	"Mansour"
+	"Saleh"
+	"Sayfuddin"
+	"Taleb"
+	"Youssef"
+	"Zangi"
+}
+ship_names = {
+	"Ad-Däkhilah"
+	"Adl"
+	"Ahmen Muyaid"
+	"Al-Ali"
+	"Al-Bahriyah"
+	"Al-Farafirah"
+	"Al-Kharijah"
+	"Alim"
+	"Ashraf Barsbay"
+	"Aziz"
+	"Aziz Gamal"
+	"Bari"
+	"Basir"
+	"Basit"
+	"Ben Barqooq"
+	"Farag Ben Barqooq"
+	"Fattah"
+	"Ghaffar"
+	"Hakam"
+	"Harrat Al-Buqum"
+	"Harrat Al-Kishb"
+	"Harrat Hadan"
+	"Harrat Khaybar"
+	"Harrat Kurama"
+	"Harrat Nawasif"
+	"Harrat Rahat"
+	"Harrat al-Unayyir"
+	"Hijaz"
+	"Jabal Abu Hasan"
+	"Jabal Baydan"
+	"Jabal Sawda"
+	"Jabal al-Jurayrah"
+	"Jabbar"
+	"Jeddah"
+	"Khafid"
+	"Khaliq"
+	"Malik"
+	"Mecca"
+	"Medina"
+	"Mu'izz"
+	"Mu'min"
+	"Mudhill"
+	"Muhaymin"
+	"Musawwir"
+	"Mutakabbir"
+	"Muyaid Sheikh"
+	"Nahr an-Nil"
+	"Nasser Muhamed"
+	"Qabid"
+	"Qahhar"
+	"Quddus"
+	"Rafi"
+	"Rahim"
+	"Rahman"
+	"Razzaq"
+	"Salam"
+	"Sami"
+	"Wahhab"
+	"Zaher Barqooq"
+	"Zaher Tatar"
+}
+army_names = {
+	"Jaish-al $PROVINCE$"
+}
+fleet_names = {
+	"Istawal-al $PROVINCE$"
+}

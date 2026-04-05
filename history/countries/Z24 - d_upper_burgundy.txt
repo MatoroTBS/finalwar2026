@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_143
+primary_culture = dynamic-breton-culture-num2
+capital = 193
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Tritto"
+		dynasty = "Zenti-Dole"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1387.4.13
+		female = yes
+		religion = converted_dynamic_faith_143
+		culture = dynamic-breton-culture-num2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Numerius"
+		dynasty = "Gallius-Cephalonia"
+		adm = 6
+		dip = 4
+		mil = 6
+		country_of_origin = Z24
+		birth_date = 1386.8.25
+		death_date = 1446.8.25
+		religion = converted_dynamic_faith_143
+		culture = roman
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Skilos"
+		monarch_name = "Skilos"
+		dynasty = "Zenti-Dole"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1406.5.7
+		death_date = 1471.5.7
+		claim = 89
+		religion = converted_dynamic_faith_143
+		culture = dynamic-albanian-illyrian-roman-culture-num1
+	}
+	add_heir_personality = drunkard_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 103
+	add_treasury = 61
+}

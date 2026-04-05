@@ -1,0 +1,16 @@
+owner = Z0E
+controller = Z0E
+capital = "Treviso"
+is_city = yes
+culture = dynamic-roman-culture-num4
+religion = converted_dynamic_faith_140
+trade_goods = paper
+base_tax = 5
+base_production = 3
+base_manpower = 3
+add_core = Z0E
+add_core = Z0W
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

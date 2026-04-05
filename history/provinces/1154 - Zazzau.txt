@@ -1,0 +1,12 @@
+owner = OYO
+controller = OYO
+capital = "Turunku"
+is_city = yes
+culture = dynamic-sidamo-culture-num2
+religion = converted_dynamic_faith_144
+trade_goods = slaves
+base_tax = 8
+base_production = 3
+base_manpower = 3
+add_core = OYO
+discovered_by = sub_saharan

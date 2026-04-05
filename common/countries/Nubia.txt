@@ -1,0 +1,92 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 81 58 223 }
+revolutionary_colors = { 1 0 1 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Alethia #1" = -1
+	"Andhave #1" = 10
+	"Apame #0" = -1
+	"Belistiche #1" = -1
+	"Christophoros #1" = 10
+	"Daizus #0" = 0
+	"Dayan #0" = 0
+	"Dimetheos #1" = 10
+	"Duomhild #1" = -1
+	"Eirene #1" = -1
+	"Elisabeth #0" = -1
+	"Eudocia #1" = -1
+	"Fasilidas #0" = 0
+	"Guiharan #0" = 0
+	"Hemene #2" = -1
+	"Hippalos #1" = 10
+	"Iôannês #0" = 0
+	"Lazaros #1" = 10
+	"Makarios #0" = 0
+	"Mariana #1" = 10
+	"Mariane #2" = -1
+	"Mašanñal #1" = 10
+	"Mouses #0" = 0
+	"Nagasene #1" = -1
+	"Nasteexo #1" = -1
+	"Octavia #1" = -1
+	"Penatti #1" = -1
+	"Procula #1" = -1
+	"Rhamis #1" = -1
+	"Satyaraksite #0" = 0
+	"Sentiko #1" = 10
+	"Sophia #0" = -1
+	"Theobronia #1" = -1
+	"Theognosta #1" = -1
+	"Theophania #1" = -1
+	"Theophilia #2" = -1
+	"Zosima #0" = 0
+	"Ñeššadena #0" = -1
+}
+leader_names = {
+	"Abboud"
+	"Fung"
+	"Garang"
+	"Kayra"
+	"Keira"
+	"Kelueljang"
+	"Lugor"
+	"Nuer"
+	"Shol"
+	"Taha"
+}
+ship_names = {
+	"Amenirdis"
+	"Amon"
+	"Apedemak"
+	"Arensnuphis"
+	"Bes"
+	"Dedwen"
+	"Khnum"
+	"Mandulis"
+	"Mut"
+	"Taweret"
+	"Tefnut"
+}

@@ -1,0 +1,11 @@
+owner = Z16
+controller = Z16
+capital = "The Azores"
+is_city = yes
+culture = dynamic-gaulish-roman-culture-num1
+religion = converted_dynamic_faith_142
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = Z16

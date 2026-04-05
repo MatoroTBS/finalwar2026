@@ -1,0 +1,14 @@
+owner = Z1U
+controller = Z1U
+capital = "Sylhet"
+is_city = yes
+culture = dynamic-bengali-culture-num8
+religion = converted_dynamic_faith_147
+trade_goods = cotton
+base_tax = 4
+base_production = 2
+base_manpower = 2
+add_core = Z1U
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

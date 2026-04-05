@@ -1,0 +1,13 @@
+owner = SWE
+controller = SWE
+capital = "Frösön"
+is_city = yes
+culture = sapmi
+religion = converted_dynamic_faith_142
+trade_goods = fur
+base_tax = 9
+base_production = 7
+base_manpower = 6
+add_core = SWE
+discovered_by = eastern
+discovered_by = western

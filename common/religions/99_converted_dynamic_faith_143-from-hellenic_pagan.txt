@@ -1,0 +1,37 @@
+pagan = {
+	converted_dynamic_faith_143 = {
+		color = { 191 66 132 }
+		icon =  184
+		country = {
+ 
+		discipline = 0.05
+	
+
+		diplomatic_reputation = 1
+	
+
+		prestige = 0.5
+	
+
+		female_advisor_chance = 0.5
+	
+}
+		country_as_secondary = {
+ 
+		discipline = 0.025
+	
+
+		diplomatic_reputation = 1
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+}
+		
+	heretic = { GOAT_SKULL }
+
+	}
+}
+

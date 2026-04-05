@@ -1,0 +1,15 @@
+owner = Z16
+controller = Z16
+capital = "Soria"
+is_city = yes
+culture = dynamic-gaulish-roman-culture-num1
+religion = converted_dynamic_faith_142
+trade_goods = wool
+base_tax = 10
+base_production = 6
+base_manpower = 6
+add_core = Z16
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

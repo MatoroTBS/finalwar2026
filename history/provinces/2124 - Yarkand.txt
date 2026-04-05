@@ -1,0 +1,16 @@
+owner = KAS
+controller = KAS
+capital = "Yarkant"
+is_city = yes
+culture = dynamic-bactrian-uyghur-culture-num1
+religion = hinduism
+trade_goods = wool
+base_tax = 16
+base_production = 7
+base_manpower = 6
+extra_cost = 8
+center_of_trade = 1
+add_core = KAS
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

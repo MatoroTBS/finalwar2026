@@ -1,0 +1,17 @@
+owner = Z18
+controller = Z18
+capital = "Bolgar"
+is_city = yes
+culture = kazani
+religion = zoroastrian
+trade_goods = iron
+fort_15th = yes
+base_tax = 13
+base_production = 10
+base_manpower = 6
+add_core = KAZ
+add_core = Z18
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = western

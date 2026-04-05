@@ -1,0 +1,56 @@
+union=
+{
+	first="Z2U"
+	second="Z2J"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="ENG"
+	second="DAN"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="POR"
+	second="Z0L"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z0F"
+	second="JOL"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z0F"
+	second="Z1W"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SAX"
+	second="Z0D"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="CHP"
+	second="BUR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+

@@ -1,0 +1,13 @@
+owner = SMI
+controller = SMI
+capital = "Maanselkä"
+is_city = yes
+culture = sapmi
+religion = zoroastrian
+trade_goods = fur
+base_tax = 5
+base_production = 7
+base_manpower = 3
+add_core = SMI
+discovered_by = eastern
+discovered_by = western

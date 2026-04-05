@@ -1,0 +1,14 @@
+owner = HAU
+controller = HAU
+capital = "Ngala"
+is_city = yes
+culture = kanuri
+religion = converted_dynamic_faith_137
+trade_goods = paper
+base_tax = 4
+base_production = 6
+base_manpower = 3
+extra_cost = 8
+center_of_trade = 1
+add_core = HAU
+discovered_by = sub_saharan

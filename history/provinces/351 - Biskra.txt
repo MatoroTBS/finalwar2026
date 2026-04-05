@@ -1,0 +1,15 @@
+owner = SAR
+controller = SAR
+capital = "Biskra"
+is_city = yes
+culture = algerian
+religion = converted_dynamic_faith_140
+trade_goods = wool
+base_tax = 1
+base_production = 9
+base_manpower = 1
+add_core = SAR
+discovered_by = TUR
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

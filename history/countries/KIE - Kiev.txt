@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = nomad_group
+religion = converted_dynamic_faith_141
+primary_culture = sarmatian
+capital = 280
+1444.11.11= {
+	monarch = {
+		name = "Samghatrate"
+		dynasty = "Krouaner-Chernigov"
+		adm = 2
+		dip = 5
+		mil = 3
+		birth_date = 1409.2.5
+		religion = converted_dynamic_faith_141
+		culture = sarmatian
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = infertile_personality
+	queen = {
+		name = "Amratasene"
+		dynasty = "Krouaner-Chernigov"
+		adm = 5
+		dip = 5
+		mil = 4
+		country_of_origin = KIE
+		birth_date = 1408.8.12
+		death_date = 1468.8.12
+		female = yes
+		religion = converted_dynamic_faith_141
+		culture = sarmatian
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Arelis"
+		monarch_name = "Arelis"
+		dynasty = "Krouaner-Chernigov"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 1426.2.20
+		death_date = 1491.2.20
+		claim = 89
+		religion = converted_dynamic_faith_141
+		culture = sarmatian
+	}
+	add_heir_personality = secretive_personality
+	add_heir_personality = silver_tongue_personality
+}
+1444.11.11= {
+	add_prestige = 83
+	add_treasury = 65
+}

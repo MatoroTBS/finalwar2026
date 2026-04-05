@@ -1,0 +1,15 @@
+owner = BNG
+controller = BNG
+capital = "Toungoo"
+is_city = yes
+culture = burmese
+religion = converted_dynamic_faith_140
+trade_goods = chinaware
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = AVA
+add_core = BNG
+add_core = TAU
+discovered_by = chinese
+discovered_by = indian

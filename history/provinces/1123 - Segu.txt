@@ -1,0 +1,14 @@
+owner = Z1M
+controller = Z1M
+capital = "Kirina"
+is_city = yes
+culture = mali
+religion = converted_dynamic_faith_142
+trade_goods = grain
+base_tax = 6
+base_production = 6
+base_manpower = 3
+add_core = Z1M
+discovered_by = sub_saharan
+native_ferocity = 4
+native_hostileness = 9

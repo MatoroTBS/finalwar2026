@@ -1,0 +1,12 @@
+owner = ZND
+controller = ZND
+capital = "Dori"
+is_city = yes
+culture = dynamic-mali-bozo-culture-num1
+religion = shamanism
+trade_goods = livestock
+base_tax = 5
+base_production = 1
+base_manpower = 1
+add_core = ZND
+discovered_by = sub_saharan

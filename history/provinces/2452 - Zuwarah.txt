@@ -1,0 +1,15 @@
+owner = AFR
+controller = AFR
+capital = "Zuwarah"
+is_city = yes
+culture = dynamic-berber-greek-carthaginian-roman-scythian-culture-num2
+religion = converted_dynamic_faith_141
+trade_goods = fish
+base_tax = 1
+base_production = 8
+base_manpower = 1
+add_core = AFR
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,126 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 192 5 24 }
+revolutionary_colors = { 0 5 0 }
+historical_idea_groups = {
+	economic_ideas
+	quantity_ideas
+	humanist_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Aparajita #0" = 0
+	"Asima #1" = -1
+	"Aspasia #0" = -1
+	"Azem #0" = 0
+	"Balabhata #1" = 10
+	"Bhagadatta #0" = 0
+	"Bindusara #1" = 10
+	"Cassander #0" = 0
+	"Cippatajayapida #0" = 0
+	"Dasmenos #0" = 0
+	"Devendranarayan #0" = 0
+	"Dharendranarayan #1" = 10
+	"Dhruvadevi #1" = -1
+	"Glande #0" = 0
+	"Gopal #1" = 10
+	"Hajo #0" = 0
+	"Hammir-Singh #1" = 10
+	"Indranarayan #0" = 0
+	"Jira #0" = -1
+	"Jitendranarayan #1" = 10
+	"Kakhopal #0" = 0
+	"Khadgodyama #1" = 10
+	"Krishnray #1" = 10
+	"Laikma #0" = -1
+	"Lakshmichandra #0" = 0
+	"Madanapala #1" = 10
+	"Maharshi #0" = 0
+	"Margdeva #1" = 10
+	"Mukundanarayan #0" = 0
+	"Nattadevi #1" = -1
+	"Padma Singh #1" = 10
+	"Prithvipal #1" = 10
+	"Raghudev #2" = 10
+	"Rajaganesha #0" = 0
+	"Ramnath #1" = 10
+	"Rameshwar #1" = 10
+	"Samudrasen #1" = 10
+	"Shashanka #1" = 10
+	"Sirçan #0" = 0
+	"Srichandra #0" = 0
+	"Sulakshanpal #1" = 10
+	"Syamadevi #0" = -1
+	"Vaitike #1" = 10
+	"Vijay Sen #0" = 0
+	"Vina #0" = -1
+}
+leader_names = {
+	"Bahadur"
+	"Bhilala"
+	"Changezi"
+	"Chattari"
+	"Chudasama"
+	"Farooqi"
+	"Gauri"
+	"Ghuri"
+	"Gilani"
+	"Haji"
+	"Jurjani"
+	"Kanjar"
+	"Khan"
+	"Khorasani"
+	"Latif"
+	"Malik"
+	"Mori"
+	"Naru"
+	"Pahore"
+	"Paramara"
+	"Solanki"
+	"Sultan"
+	"Tomara"
+	"Turani"
+	"Uzbek"
+}
+ship_names = {
+	"Alia"
+	"Betwa"
+	"Chambal"
+	"Dhasan"
+	"Fatimah"
+	"Ghambir"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Mahi"
+	"Narmada"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Salima"
+	"Shameena"
+	"Shipra"
+	"Suhalia"
+	"Yasmine"
+}

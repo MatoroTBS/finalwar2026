@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = zaghawa
+capital = 1133
+add_accepted_culture = dynamic-songhai-culture-num1
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Abdirahman"
+		dynasty = "Bhattid"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1413.5.8
+		religion = shamanism
+		culture = zaghawa
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = righteous_personality
+	queen = {
+		name = "Mounah"
+		dynasty = "Abdale"
+		adm = 4
+		dip = 5
+		mil = 3
+		country_of_origin = Z1N
+		birth_date = 1413.7.2
+		death_date = 1473.7.2
+		female = yes
+		religion = shamanism
+		culture = zaghawa
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Abakar"
+		monarch_name = "Abakar"
+		dynasty = "Bhattid"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1432.3.17
+		death_date = 1497.3.17
+		claim = 89
+		religion = shamanism
+		culture = zaghawa
+	}
+	add_heir_personality = righteous_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 73
+	add_treasury = 57
+}

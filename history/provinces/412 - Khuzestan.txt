@@ -1,0 +1,17 @@
+owner = YZD
+controller = YZD
+capital = "Ahvaz"
+is_city = yes
+culture = dynamic-babylonian-trojan-culture-num1
+religion = converted_dynamic_faith_143
+trade_goods = sugar
+fort_15th = yes
+base_tax = 17
+base_production = 15
+base_manpower = 15
+add_core = YZD
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman

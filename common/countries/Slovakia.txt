@@ -1,0 +1,97 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 34 131 193 }
+revolutionary_colors = { 0 15 16 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	germanized_pike
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	slavic_stradioti
+}
+monarch_names = {
+	"Agne #0" = -1
+	"Ancus #0" = 0
+	"Anthousa #0" = -1
+	"Arthadarsi #0" = 0
+	"Arunavati #1" = -1
+	"Athanasios #0" = 0
+	"Beidras #1" = 10
+	"Budo #1" = 10
+	"Dagonis #2" = 10
+	"Dardana #0" = -1
+	"Dasantos #1" = 10
+	"Eustratios #0" = 0
+	"Fausta #0" = -1
+	"Gerkus #2" = -1
+	"Glande #1" = 10
+	"Golding #1" = 10
+	"Grasus #2" = -1
+	"Hrauchild #1" = -1
+	"Isaias #0" = 0
+	"Kyrillos #0" = 0
+	"Maya #0" = -1
+	"Munkhare #0" = 0
+	"Nupura #0" = 0
+	"Padmakesar #0" = 0
+	"Prusas #1" = 10
+	"Rhamis #2" = -1
+	"Ulitis #1" = 10
+	"Weslikan #1" = -1
+	"Yonu #1" = 10
+	"Ziedas #2" = -1
+}
+leader_names = {
+	"Balaša"
+	"Beckovský"
+	"Bel"
+	"Benyovszky"
+	"Bosniak"
+	"Elefánthy"
+	"Hatnanský"
+	"Jesenský"
+	"Kollar"
+	"Podmanický"
+	"Pongrac"
+	"Pongrácz"
+	"Stibor"
+	"Veseléni"
+	"Wesselényi"
+}
+ship_names = {
+	"Bebrava"
+	"Belá"
+	"Blava"
+	"Bodrog"
+	"Bodva"
+	"Cierna voda"
+	"Dunajec"
+	"Hornád"
+	"Ipel"
+	"Latorica"
+	"Morava"
+	"Ondava"
+	"Poprad"
+	"Rimava"
+	"Slaná"
+	"Torysa"
+	"Žitava"
+}

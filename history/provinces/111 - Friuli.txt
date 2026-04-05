@@ -1,0 +1,15 @@
+owner = Z0N
+controller = Z0N
+capital = "Udine"
+is_city = yes
+culture = dynamic-albanian-illyrian-roman-romanian-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = wine
+base_tax = 6
+base_production = 4
+base_manpower = 4
+add_core = Z0N
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = Z13
+controller = Z13
+capital = "Massenya"
+is_city = yes
+culture = dynamic-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = ivory
+fort_15th = yes
+base_tax = 7
+base_production = 4
+base_manpower = 7
+add_core = Z13
+discovered_by = sub_saharan

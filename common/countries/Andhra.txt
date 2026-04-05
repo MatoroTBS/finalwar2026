@@ -1,0 +1,99 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 47 132 124 }
+revolutionary_colors = { 10 8 10 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Bhogavati #1" = -1
+	"Bhogishwar #0" = 0
+	"Bhumimitra #1" = 10
+	"Cassander #1" = 10
+	"Dana #0" = -1
+	"Elena #0" = -1
+	"Eshmounhilles #0" = 0
+	"Gajabahu #0" = 0
+	"Gopala #1" = 10
+	"Hari Singh #1" = 10
+	"Hiero #0" = -1
+	"Keshabsen #1" = 10
+	"Kirti Singh #1" = 10
+	"Lakshmansen #1" = 10
+	"Madanapala #2" = 10
+	"Marcus #0" = 0
+	"Maxak #0" = 0
+	"Numerius #0" = 0
+	"Opitera #0" = -1
+	"Pairisades #0" = 0
+	"Parikshitnayaran #1" = 10
+	"Pelkhorré #1" = 10
+	"Pritampal #1" = 10
+	"Prithviraj #1" = 10
+	"Pushkaranadhipa #1" = 10
+	"Pîroz #0" = 0
+	"Quinta #0" = -1
+	"Rajyapala #2" = 10
+	"Shashanka #1" = 10
+	"Susarman #1" = 10
+	"Themistios #0" = 0
+	"Traillokyachandra #1" = 10
+	"Vapyata #1" = 10
+	"Vina #1" = -1
+	"Virajdendranarayan #1" = 10
+	"Vishwasingha #1" = 10
+	"Xanthippos #0" = 0
+	"Zerî #0" = -1
+}
+leader_names = {
+	"Ambadeva"
+	"Gannaiah"
+	"Gona"
+	"Pandava"
+	"Racha"
+	"Rai"
+	"Reddy"
+	"Roy"
+	"Suryavamsa"
+	"Velama"
+}
+ship_names = {
+	"Anantavarman"
+	"Bishnupriya"
+	"Devarakonda"
+	"Godavari"
+	"Hidimba"
+	"Kataya"
+	"Konark"
+	"Krishnapriya"
+	"Kumar"
+	"Lakshmi"
+	"Masulipatnam"
+	"Naga"
+	"Paradeep"
+	"Parvati"
+	"Rachakonda"
+	"Radha"
+	"Rahu"
+	"Rajahmundry"
+	"Rakshasa"
+	"Sarasvati"
+	"Satapada"
+	"Vizianagaram"
+	"Warangal"
+}

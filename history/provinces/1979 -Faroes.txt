@@ -1,0 +1,13 @@
+owner = Z1T
+controller = Z1T
+capital = "Torshavn"
+is_city = yes
+culture = highland_scottish
+religion = converted_dynamic_faith_142
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = HSC
+add_core = Z1T
+discovered_by = western

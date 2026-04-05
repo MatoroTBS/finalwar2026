@@ -1,0 +1,15 @@
+owner = KAS
+controller = KAS
+capital = "Purang"
+is_city = yes
+culture = dynamic-bengali-culture-num3
+religion = hinduism
+trade_goods = wool
+base_tax = 8
+base_production = 5
+base_manpower = 7
+add_core = GUG
+add_core = KAS
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

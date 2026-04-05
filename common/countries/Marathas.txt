@@ -1,0 +1,143 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 67 124 181 }
+revolutionary_colors = { 6 8 6 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Aparajita #0" = 0
+	"Asima #2" = -1
+	"Aspasia #0" = -1
+	"Azem #0" = 0
+	"Bhagadatta #0" = 0
+	"Birnayaran #2" = 10
+	"Cassander #0" = 0
+	"Chandrasen #1" = 10
+	"Cippatajayapida #0" = 0
+	"Dasharathadeva #1" = 10
+	"Dasmenos #0" = 0
+	"Devendranarayan #0" = 0
+	"Dharendranarayan #1" = 10
+	"Dharmapala #1" = 10
+	"Glande #0" = 0
+	"Gopal #1" = 10
+	"Govishanaka #3" = 10
+	"Hajo #0" = 0
+	"Indranarayan #0" = 0
+	"Jira #0" = -1
+	"Jitendranarayan #1" = 10
+	"Kakhopal #0" = 0
+	"Kunwarpal #1" = 10
+	"Laikma #0" = -1
+	"Lakshmichandra #0" = 0
+	"Maharshi #0" = 0
+	"Mahendrapala #1" = 10
+	"Mahindranarayan #1" = 10
+	"Maurayadhwaj #2" = 10
+	"Mukundanarayan #0" = 0
+	"Narendranarayan #2" = 10
+	"Nayapala #2" = 10
+	"Padmaladevi #1" = -1
+	"Prannath #1" = 10
+	"Rajaganesha #1" = 10
+	"Ramnath #1" = 10
+	"Sahtiya #1" = 10
+	"Sirçan #0" = 0
+	"Srichandra #0" = 0
+	"Syamadevi #0" = -1
+	"Traillokyachandra #1" = 10
+	"Udirnakhadga #1" = 10
+	"Vijay Sen #0" = 0
+	"Vina #0" = -1
+}
+leader_names = {
+	"Aher"
+	"Bhat"
+	"Bhoit"
+	"Bhonsle"
+	"Chavan"
+	"Dabhad"
+	"Gaikwad"
+	"Gujar"
+	"Holkar"
+	"Jadhav"
+	"Jagtap"
+	"Kadam"
+	"Kate"
+	"Kaushal"
+	"Khursh"
+	"Krishnamma"
+	"Lolaksi"
+	"Malusare"
+	"Maruthi"
+	"Moit"
+	"Moray"
+	"Nagaraj"
+	"Narsala"
+	"Nikam"
+	"Nimbalk"
+	"Palkar"
+	"Pawar"
+	"Ramiah"
+	"Rane"
+	"Satavahana"
+	"Sawant"
+	"Shinde"
+	"Shirke"
+	"Yadava"
+}
+ship_names = {
+	"Agni"
+	"Bhim"
+	"Brahma"
+	"Devi"
+	"Durga"
+	"Ganesh"
+	"Gayatri"
+	"Hanumaun"
+	"Indra"
+	"Jalsena"
+	"Kala Jahazi"
+	"Kali"
+	"Krishna"
+	"Kubera"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Shiva"
+	"Sita"
+	"Soma"
+	"Surya"
+	"Varuna"
+	"Vayu"
+	"Vishnu"
+	"Yama"
+}

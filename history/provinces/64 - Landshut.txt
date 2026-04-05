@@ -1,0 +1,15 @@
+owner = Z0H
+controller = Z0H
+capital = "Landshut"
+is_city = yes
+culture = dynamic-roman-culture-num4
+religion = hellenic_pagan
+trade_goods = salt
+base_tax = 5
+base_production = 3
+base_manpower = 3
+add_core = Z0H
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,15 @@
+owner = CAT
+controller = CAT
+capital = "Girona"
+is_city = yes
+culture = dynamic-roman-culture-num8
+religion = converted_dynamic_faith_142
+trade_goods = fish
+base_tax = 3
+base_production = 11
+base_manpower = 6
+add_core = CAT
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

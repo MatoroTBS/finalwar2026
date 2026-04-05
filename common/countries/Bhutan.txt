@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 93 180 76 }
+revolutionary_colors = { 8 0 6 }
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Ai #0" = -1
+	"Amrapali #0" = -1
+	"Anastasia #0" = -1
+	"Asima #0" = -1
+	"Bhaskarvarman #0" = 0
+	"Bhutivarman #1" = 10
+	"Brahmapala #0" = 0
+	"Chandrasen #1" = 10
+	"Chang #0" = -1
+	"Chasina #0" = -1
+	"Da #0" = 0
+	"Devavati #0" = -1
+	"Dharmapala #1" = 10
+	"Dirotiga #1" = 10
+	"Eptepos #0" = -1
+	"Fausta #0" = -1
+	"Flavia #0" = -1
+	"Galay #1" = 10
+	"Ganapativarman #0" = 0
+	"Gopala #0" = 0
+	"Govindachandra #1" = 10
+	"Gyab #0" = 0
+	"Harjjaravarman #0" = 0
+	"Harshapala #0" = 0
+	"Indrapala #0" = 0
+	"Jakar #0" = 0
+	"Jangcchub #1" = 10
+	"Jangmu #1" = -1
+	"Jiangnu #0" = -1
+	"Kamalesh #0" = -1
+	"Kinga #1" = 10
+	"Krasnetse #1" = 10
+	"Kungcho #1" = -1
+	"Ljonlji #2" = 10
+	"Lobsang #0" = -1
+	"Mahindranarayan #0" = 0
+	"Mahipala #0" = 0
+	"Mala #0" = -1
+	"Maurayadhwaj #1" = 10
+	"Muba #1" = 10
+	"Narasingha #0" = 0
+	"Nayanadevi #0" = -1
+	"Nejini #1" = 10
+	"Nomedas #0" = 0
+	"Paksyay #0" = 0
+	"Pantihritse #1" = 10
+	"Penden #1" = 10
+	"Rajyapala #1" = 10
+	"Ramapala #0" = 0
+	"Rani #0" = -1
+	"Ranjitsingha #0" = 0
+	"Ratnapala #0" = 0
+	"Sadslungse #1" = 10
+	"Salasthamba #0" = 0
+	"Secunda #0" = -1
+	"Shivanarayan #0" = 0
+	"Sönné #1" = 10
+	"Tectomaros #0" = 0
+	"Thetsedar #1" = 10
+	"Thungni #1" = 10
+	"Timinrang #1" = 10
+	"Tsakrani #1" = 10
+	"Ummoka #0" = 0
+	"Vakapala #0" = 0
+	"Vallal Sen #0" = 0
+	"Vasujyeshtha #0" = 0
+	"Vijay Sen #1" = 10
+	"Yajiyavati #0" = -1
+	"Yajnavati #0" = -1
+	"Yasaraksite #0" = -1
+}
+leader_names = {
+	"Chomphel"
+	"Gyaltshen"
+	"Gyamtsho"
+	"Lhopi"
+	"Peljor"
+	"Phuntsho"
+	"Rabgye"
+	"Tshering"
+	"Wangchuk"
+	"Wangpo"
+}
+ship_names = {
+	"Chhu"
+	"Dng Chu"
+	"Manas Chu"
+	"Mangde Chu"
+	"Mo Chu"
+	"Pa Chu"
+	"Pho Chu"
+	"Punaka"
+	"Sangkosh"
+	"Thimbu"
+	"Tongsa Chu"
+	"Towang Chu"
+}

@@ -1,0 +1,22 @@
+owner = Z0L
+controller = Z0L
+capital = "Porto"
+is_city = yes
+culture = dynamic-gaulish-roman-culture-num1
+religion = converted_dynamic_faith_142
+trade_goods = wine
+fort_15th = yes
+base_tax = 8
+base_production = 7
+base_manpower = 1
+extra_cost = 18
+center_of_trade = 1
+add_core = Z0L
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = douro_estuary_modifier
+	duration = -1
+}

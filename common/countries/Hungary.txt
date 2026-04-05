@@ -1,0 +1,139 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 152 85 92 }
+revolutionary_colors = { 5 0 10 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	germanized_pike
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	slavic_stradioti
+}
+monarch_names = {
+	"Aikaterine #0" = -1
+	"Airawanta #0" = 0
+	"Alexandru #1" = 10
+	"Amulia #0" = -1
+	"Anca #0" = -1
+	"Angela #1" = -1
+	"Antipatra #0" = -1
+	"Arsenios #1" = 10
+	"Bajoras #0" = 0
+	"Barbara #0" = -1
+	"Christina #0" = -1
+	"Chrysogone #0" = -1
+	"Claria #1" = -1
+	"Claudiu #1" = 10
+	"Dagas #0" = -1
+	"Diazenis #0" = 0
+	"Duccidava #1" = -1
+	"Eusebios #0" = 0
+	"Gabrielia #0" = -1
+	"Grasus #1" = -1
+	"Helias #0" = 0
+	"Iancu #1" = 10
+	"Isaakios #0" = 0
+	"Khulan #0" = -1
+	"Kokachin #0" = -1
+	"Leon #0" = 0
+	"Lysimache #0" = -1
+	"Markia #0" = -1
+	"Mikova #1" = -1
+	"Mukalanti #0" = 0
+	"Nonna #1" = -1
+	"Nupura #0" = 0
+	"Octavia #1" = -1
+	"Parmenion #1" = 10
+	"Porphyrios #0" = 0
+	"Punyasene #1" = -1
+	"Pyrros #0" = 0
+	"Raina #1" = -1
+	"Ramadan #0" = 0
+	"Revati #0" = -1
+	"Roibana #1" = -1
+	"Samuel #1" = 10
+	"Sigigast #1" = 10
+	"Siglaik #2" = 10
+	"Simpraye #1" = 10
+	"Sokrates #1" = 10
+	"Sunetre #0" = 0
+	"Tarmaraksite #0" = 0
+	"Theodosia #0" = -1
+	"Thyestes #0" = 0
+	"Torolchi #0" = 0
+	"Tusi #0" = 0
+	"Upatisye #1" = -1
+	"Uposathe #0" = 0
+	"Walhild #0" = -1
+	"Yugaraje #0" = 0
+	"Zacharias #1" = 10
+}
+leader_names = {
+	"Alvinczy"
+	"Andrássy"
+	"Batthyány"
+	"Beleznay"
+	"Benovský"
+	"Bethlen"
+	"Bocskay"
+	"Báthory"
+	"Csák"
+	"Dessewffy"
+	"Esterházy"
+	"Festetics"
+	"Frangepán"
+	"Garay"
+	"Hadik"
+	"Horthy"
+	"Hunyadi"
+	"Kemeny"
+	"Kinizsi"
+	"Kán"
+	"Károlyi"
+	"Lackovic'"
+	"Losonci"
+	"Milványi"
+	"Mészáros"
+	"Nadasdy"
+	"Ozoray"
+	"Rozgonyi"
+	"Rákóczi"
+	"Széchenyi"
+	"Teleki"
+	"Thököly"
+	"Zichy"
+	"Zrinski"
+	"Zápolya"
+	"de Kovats"
+	"Šubic'"
+}
+ship_names = {
+	"Aranybulla"
+	"Arpad"
+	"Hunyadi Matyas"
+	"Kalman"
+	"Karoly Robert"
+	"Laszlo"
+	"Magyar"
+	"Nagy Lajos"
+	"Sigismund"
+	"Szent Istvan kiraly"
+}

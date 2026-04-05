@@ -1,0 +1,12 @@
+owner = HAU
+controller = HAU
+capital = "Yao"
+is_city = yes
+culture = dynamic-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = grain
+base_tax = 7
+base_production = 6
+base_manpower = 4
+add_core = HAU
+discovered_by = sub_saharan

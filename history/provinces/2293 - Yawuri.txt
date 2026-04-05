@@ -1,0 +1,12 @@
+owner = Z0M
+controller = Z0M
+capital = "Birnin Yawuri"
+is_city = yes
+culture = dynamic-sidamo-culture-num2
+religion = converted_dynamic_faith_144
+trade_goods = coffee
+base_tax = 4
+base_production = 3
+base_manpower = 1
+add_core = Z0M
+discovered_by = sub_saharan

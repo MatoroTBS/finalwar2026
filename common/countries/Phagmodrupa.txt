@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 93 102 151 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Anca #0" = -1
+	"Artemis #0" = -1
+	"Bhavesh #0" = 0
+	"Camillus #0" = 0
+	"Decia #0" = -1
+	"Devitara #1" = -1
+	"Dexiu #0" = -1
+	"Fausta #0" = -1
+	"Flavius #1" = 10
+	"Galla #0" = -1
+	"Gong #0" = 0
+	"Gaia #0" = -1
+	"Hariyamandal #1" = 10
+	"Ibrahim #0" = 0
+	"Indranarayan #1" = 10
+	"Jagaddipendranarayan #1" = 10
+	"Jira #0" = -1
+	"Jyotirishwar #2" = 10
+	"Kamalnarayan #1" = 10
+	"Laxminath Singh Dev #1" = 10
+	"Lhakpa #1" = -1
+	"Lizhi #0" = -1
+	"Mu #0" = 0
+	"Namalladevi #0" = -1
+	"Nayapala #0" = 0
+	"Nyendrak #1" = -1
+	"Postuma #0" = -1
+	"Proculus #0" = 0
+	"Roopnarayan #1" = 10
+	"Sextus #0" = 0
+	"Shashanka #1" = 10
+	"Shukladhwaj #2" = 10
+	"Sîn-erîba #0" = 0
+	"Tertius #0" = 0
+	"Ulinniks #0" = 0
+	"Xubujuciyun #0" = -1
+	"Yum #1" = -1
+}
+leader_names = {
+	"Bal"
+	"Bri"
+	"Bro"
+	"Chespong"
+	"Cogro"
+	"Dbas"
+	"Dbra"
+	"Dru"
+	"Gnon"
+	"Gnyags"
+	"Khjungpo"
+	"Khu"
+	"Khun"
+	"Lang"
+	"Ldong"
+	"Lig"
+	"Mchims"
+	"Mgar"
+	"Mgus"
+	"Mjang"
+	"Mkar"
+	"Mnyammed"
+	"Mong"
+	"Nganlam"
+	"Nyang"
+	"Phjongsrgjas"
+	"Rinspungs"
+	"Rlangs"
+	"Rma"
+	"Rmu"
+	"Sba"
+	"Sbas"
+	"Se"
+	"Sgro"
+	"Shudpu"
+	"Snang"
+	"Snyiba"
+	"Stong"
+	"Thonmi"
+	"Zhang"
+	"Zhingshag"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

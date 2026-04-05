@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kashmiri
+capital = 510
+mercantilism = 15
+add_accepted_culture = bengali
+1444.11.11= {
+	add_prestige = 99
+	add_treasury = 77
+}

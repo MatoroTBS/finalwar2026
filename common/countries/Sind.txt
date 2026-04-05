@@ -1,0 +1,130 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 135 104 85 }
+revolutionary_colors = { 9 0 9 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	religious_ideas
+	economic_ideas
+	offensive_ideas
+	defensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ajatashatru #1" = 10
+	"Aldona #0" = -1
+	"Appius #0" = 0
+	"Azrîn #0" = -1
+	"Balinarayan #0" = 0
+	"Bhagwant #1" = 10
+	"Bishwas Devi #1" = -1
+	"Butavas #0" = 0
+	"Butvydas #0" = 0
+	"Camilla #0" = -1
+	"Dharmapala #1" = 10
+	"Evalda #0" = -1
+	"Gintare #0" = -1
+	"Gnaea #0" = -1
+	"Govindachandra #2" = 10
+	"Hiketas #0" = 0
+	"Hostus #0" = 0
+	"Irmantas #0" = 0
+	"Jairam #1" = 10
+	"Jayanarayan #1" = 10
+	"Jitendranarayan #1" = 10
+	"Malavyadevi #0" = -1
+	"Minigaila #2" = 10
+	"Mstislav #0" = 0
+	"Nangar #0" = 0
+	"Nayanadevi #0" = -1
+	"Parikshitnayaran #0" = 0
+	"Pratapnarayan #1" = 10
+	"Prusas #0" = 0
+	"Ridhi #1" = -1
+	"Shashanka #1" = 10
+	"Shqipe #0" = -1
+	"Theognosia #0" = -1
+	"Tovtivilas #0" = 0
+	"Uditanarayan #1" = 10
+	"Vainius #0" = 0
+	"Vasudeva #1" = 10
+	"Vizgirdas #0" = 0
+	"Vykintas #0" = 0
+	"Zivinbudas #1" = 10
+}
+leader_names = {
+	"Arghun"
+	"Bahadur"
+	"Begada"
+	"Bhatia"
+	"Bhil"
+	"Bhutto"
+	"Changezi"
+	"Chudasama"
+	"Desai"
+	"Farooqi"
+	"Ghazi"
+	"Golani"
+	"Jinnah"
+	"Kalhora"
+	"Khokhar"
+	"Khorasani"
+	"Malik"
+	"Mirza"
+	"Munshi"
+	"Naru"
+	"Pahore"
+	"Parikh"
+	"Patel"
+	"Patidar"
+	"Rushi"
+	"Samma"
+	"Shah"
+	"Sindhi"
+	"Singh"
+	"Solanki"
+	"Soomrah"
+	"Sultan"
+	"Tarkhan"
+	"Tomara"
+	"Zamindar"
+}
+ship_names = {
+	"Alia"
+	"Arusa"
+	"Baran"
+	"Fatimah"
+	"Haleji"
+	"Indus"
+	"Kalri"
+	"Khan"
+	"Malir"
+	"Manchhar"
+	"Mol"
+	"Niknaz"
+	"Niloufa"
+	"Noor"
+	"Salima"
+	"Sari"
+	"Shameena"
+	"Suhalia"
+	"Suk"
+	"Yasmine"
+	"Zahira"
+}

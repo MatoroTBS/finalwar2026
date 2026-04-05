@@ -1,0 +1,90 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 27 128 45 }
+revolutionary_colors = { 16 8 10 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	mali_tribal_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Aliu #1" = 10
+	"Amar #2" = 10
+	"Amulius #0" = 0
+	"Appius #0" = 0
+	"Asegelile #0" = 0
+	"Baguiri #1" = 10
+	"Bagula #1" = 10
+	"Bar #1" = 10
+	"Biyan #1" = 10
+	"Brogimaros #0" = 0
+	"Dobidia #1" = 10
+	"Hassana #0" = -1
+	"Kaba #1" = 10
+	"Kauro #0" = 0
+	"Kora #2" = 10
+	"Kukuray #0" = 0
+	"Litavis #0" = -1
+	"Lucius #2" = 10
+	"Maeve #0" = -1
+	"Magunna #0" = -1
+	"Malo #1" = 10
+	"Mbanyik #0" = 0
+	"Newma #1" = -1
+	"Olorix #0" = 0
+	"Publia #0" = -1
+	"Rigau #1" = 10
+	"Rosula #0" = -1
+	"Secundus #0" = 0
+	"Sero #1" = 10
+	"Sisabge #0" = -1
+	"Tayyurt #0" = -1
+	"Verica #0" = -1
+	"Waris #1" = 10
+	"Wati #0" = 0
+	"Wouko #1" = 10
+	"Yide #1" = -1
+}
+leader_names = {
+	"Addy"
+	"Afrifa"
+	"Akoto"
+	"Donkor"
+	"Moyoyo"
+	"Offei"
+	"Sabah"
+	"Sadami"
+	"Sribor"
+	"Zakari"
+}
+ship_names = {
+	"Asase Yaa"
+	"Benada"
+	"Bia"
+	"Dwoada"
+	"Fiada"
+	"Kwasiada"
+	"Memeneda"
+	"Nyame"
+	"Tano"
+	"Wukuada"
+	"Yawoada"
+}

@@ -1,0 +1,15 @@
+owner = KAS
+controller = KAS
+capital = "Zakhchin"
+is_city = yes
+culture = khazak
+religion = zoroastrian
+trade_goods = livestock
+base_tax = 11
+base_production = 13
+base_manpower = 7
+add_core = KAS
+add_core = KZH
+add_core = ZUN
+discovered_by = chinese
+discovered_by = nomad_group

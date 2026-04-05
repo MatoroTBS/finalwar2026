@@ -1,0 +1,87 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 62 175 151 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	niger_kongolese_gunpowder_warfare
+	songhai_tribal_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Abba #0" = 0
+	"Abbas #0" = 0
+	"Abdul #1" = 10
+	"Aisha #0" = -1
+	"Alayaman #0" = 0
+	"Ali #0" = 0
+	"Aliu #1" = 10
+	"Bad #1" = 10
+	"Berti #0" = 0
+	"Bilali #1" = 10
+	"Boumi #2" = 10
+	"Brahim #1" = 10
+	"Daoud #1" = 10
+	"Eya #0" = -1
+	"Gir #0" = -1
+	"Gunga #0" = 0
+	"Hosta #0" = -1
+	"Ilir #0" = 0
+	"Kasu #0" = 0
+	"Malo #1" = 10
+	"Mariam #1" = -1
+	"Musa #0" = 0
+	"Ouankoÿ #0" = 0
+	"Philotera #0" = -1
+	"Sextus #0" = 0
+	"Sultan #0" = 0
+	"Tacfin #1" = 10
+	"Tenin #1" = 10
+	"Tijani #0" = 0
+	"Wahida #1" = -1
+	"Yattuy #1" = 10
+}
+leader_names = {
+	"Amadou"
+	"Compaore"
+	"Diallo"
+	"Diarra"
+	"Keita"
+	"Lamizana"
+	"Modibo"
+	"Ouedraogo"
+	"Toure"
+	"Zerbo"
+}
+ship_names = {
+	"Akoi"
+	"Alayaman"
+	"Ali-Fay"
+	"Biyo-Kumoy"
+	"Biyu"
+	"Kinkin"
+	"Ku"
+	"Kukuray"
+	"Nintasanay"
+	"Takoi"
+	"Yama-Karaway"
+	"Za Kuroy"
+	"Zakoi"
+}

@@ -1,0 +1,98 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 232 79 142 }
+revolutionary_colors = { 0 10 0 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	defensive_ideas
+	humanist_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+	trade_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	mughal_mansabdar
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Bhogishwar #0" = 0
+	"Bijjabbe #1" = -1
+	"Cassander #1" = 10
+	"Chandranarayan #1" = 10
+	"Cimmavisnu #1" = 10
+	"Dana #0" = -1
+	"Dattadevi #1" = -1
+	"Elena #0" = -1
+	"Eshmounhilles #0" = 0
+	"Gajabahu #0" = 0
+	"Hari Singh #1" = 10
+	"Hiero #0" = -1
+	"Kakhopal #1" = 10
+	"Kantan Kumaran #1" = 10
+	"Kshemraja #1" = 10
+	"Mallugi #1" = 10
+	"Marcus #0" = 0
+	"Maurayadhwaj #1" = 10
+	"Maxak #0" = 0
+	"Narasingha #1" = 10
+	"Nedunjeliyan #2" = 10
+	"Numerius #0" = 0
+	"Opitera #0" = -1
+	"Pairisades #0" = 0
+	"Parvatka #1" = 10
+	"Peruñcintevar #1" = 10
+	"Pîroz #0" = 0
+	"Quinta #0" = -1
+	"Themistios #0" = 0
+	"Vîrôtaya #4" = 10
+	"Xanthippos #0" = 0
+	"Zerî #0" = -1
+}
+leader_names = {
+	"Bahadur"
+	"Chetty"
+	"Khader"
+	"Khan"
+	"Khan Wallajah"
+	"Mudaliar"
+	"Rajapopalachari"
+	"Reddy"
+	"Saluva"
+	"Sastri"
+	"Thondaiman"
+	"ul Umra"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Ganga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Spiti"
+	"Yamuna"
+}

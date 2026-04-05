@@ -1,0 +1,15 @@
+owner = GRE
+controller = GRE
+capital = "Negroponte"
+is_city = yes
+culture = romanian
+religion = converted_dynamic_faith_141
+trade_goods = fish
+base_tax = 8
+base_production = 7
+base_manpower = 5
+add_core = GRE
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

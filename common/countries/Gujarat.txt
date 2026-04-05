@@ -1,0 +1,150 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 231 224 107 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	innovativeness_ideas
+	defensive_ideas
+	maritime_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Agnimitra #0" = 0
+	"Amrapali #0" = -1
+	"Asima #0" = -1
+	"Balabhata #0" = 0
+	"Bhagabhadra #0" = 0
+	"Birnayaran #1" = 10
+	"Bishwas Devi #1" = -1
+	"Chakha #0" = -1
+	"Chandrasen #1" = 10
+	"Dattadevi #0" = -1
+	"Devendranarayan #0" = 0
+	"Dhir Singh #0" = 0
+	"Drusus #0" = 0
+	"Fausta #0" = -1
+	"Gandharavati #0" = -1
+	"Ganeshwar Singh #1" = 10
+	"Geteye #0" = 0
+	"Ghosha #2" = 10
+	"Gjylo #0" = -1
+	"Hammira #0" = 0
+	"Hemantasen #0" = 0
+	"Jayanarayan #1" = 10
+	"Jie #0" = 0
+	"Jitendranarayan #0" = 0
+	"Kalasa #0" = 0
+	"Kashi #0" = -1
+	"Krishan #0" = 0
+	"Lakshmandeva #0" = 0
+	"Lakshmansen #0" = 0
+	"Laxman Sen #0" = 0
+	"Maturantikiyalvar #0" = -1
+	"Nar-Verma #1" = 10
+	"Nayapala #1" = 10
+	"Pausanias #0" = 0
+	"Prananarayan #1" = 10
+	"Pratapnarayan #1" = 10
+	"Primus #0" = 0
+	"Pusyamitra #0" = 0
+	"Raghudev #1" = 10
+	"Rajrajendranarayan #0" = 0
+	"Ranasura #0" = 0
+	"Samudrasen #1" = 10
+	"Sextus #1" = 10
+	"Shashanka #2" = 10
+	"Skandavarman #0" = 0
+	"Smertomara #0" = 0
+	"Spuria #0" = -1
+	"Srichandra #0" = 0
+	"Sulakshanpal #1" = 10
+	"Suresh #0" = 0
+	"Suvrata #0" = -1
+	"Syamadevi #0" = -1
+	"Udirnakhadga #1" = 10
+	"Uditanarayan #1" = 10
+	"Vantideva #0" = 0
+	"Vapyata #1" = 10
+	"Vijay Sen #0" = 0
+	"Vishwarupsen #1" = 10
+}
+leader_names = {
+	"Bahadur"
+	"Begada"
+	"Bhilala"
+	"Changezi"
+	"Chattari"
+	"Chudasama"
+	"Desai"
+	"Farooqi"
+	"Gauri"
+	"Ghuri"
+	"Gilani"
+	"Haji"
+	"Jurjani"
+	"Kanjar"
+	"Khan"
+	"Khorasani"
+	"Lakhaji"
+	"Latif"
+	"Malik"
+	"Mori"
+	"Munshi"
+	"Muzzafar"
+	"Naru"
+	"Pahore"
+	"Paramara"
+	"Parikh"
+	"Patel"
+	"Patidar"
+	"Ravalji"
+	"Shah"
+	"Solanki"
+	"Sultan"
+	"Tomara"
+	"Turani"
+	"Uzbek"
+}
+ship_names = {
+	"Ambika"
+	"Auranga"
+	"Bhadar"
+	"Damanganga"
+	"Devki"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khari"
+	"Lal Jahazi"
+	"Luni"
+	"Mahi"
+	"Mithi"
+	"Narmada"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Purna"
+	"Sabarmati"
+	"Sagar"
+	"Saraiya"
+	"Saraswati"
+	"Shetrunji"
+	"Tapi"
+	"Yasmin"
+}

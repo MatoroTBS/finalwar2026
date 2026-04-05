@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_141
+primary_culture = dynamic-roman-culture-num9
+capital = 308
+add_accepted_culture = uralic
+1444.11.11= {
+	monarch = {
+		name = "Octavia"
+		dynasty = "Gallius-Sandoway"
+		adm = 4
+		dip = 5
+		mil = 6
+		birth_date = 1370.10.23
+		female = yes
+		religion = converted_dynamic_faith_141
+		culture = dynamic-roman-culture-num9
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Tiberios"
+		dynasty = "Castanir-Jersika"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = YAR
+		birth_date = 1372.11.6
+		death_date = 1432.11.6
+		religion = converted_dynamic_faith_141
+		culture = dynamic-pruthenian-culture-num1
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Beidras"
+		monarch_name = "Beidras II"
+		dynasty = "Castanir-Jersika"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1395.6.10
+		death_date = 1460.6.10
+		claim = 89
+		religion = converted_dynamic_faith_141
+		culture = dynamic-pruthenian-culture-num1
+	}
+	add_heir_personality = infertile_personality
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11= {
+	add_prestige = 95
+	add_treasury = 65
+}

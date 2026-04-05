@@ -1,0 +1,16 @@
+owner = Z09
+controller = Z09
+capital = "Middelburg"
+is_city = yes
+culture = pruthenian
+religion = converted_dynamic_faith_142
+trade_goods = salt
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = PRT
+add_core = Z09
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

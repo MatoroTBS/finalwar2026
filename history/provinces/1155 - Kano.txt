@@ -1,0 +1,12 @@
+owner = KBO
+controller = KBO
+capital = "Kano"
+is_city = yes
+culture = dynamic-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = dyes
+base_tax = 5
+base_production = 4
+base_manpower = 2
+add_core = KBO
+discovered_by = sub_saharan

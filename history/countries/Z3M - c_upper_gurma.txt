@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = converted_dynamic_faith_142
+primary_culture = mali
+capital = 2262
+fixed_capital = 2262
+add_accepted_culture = dynamic-mali-bozo-culture-num1
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Fadima"
+		dynasty = "Konsa"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1379.10.12
+		female = yes
+		religion = converted_dynamic_faith_142
+		culture = mali
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Yerim"
+		dynasty = "Mossi"
+		adm = 2
+		dip = 3
+		mil = 4
+		country_of_origin = Z3M
+		birth_date = 1390.1.18
+		death_date = 1450.1.18
+		religion = converted_dynamic_faith_142
+		culture = mali
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wali"
+		monarch_name = "Wali"
+		dynasty = "Mossi"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1412.11.3
+		death_date = 1477.11.3
+		claim = 89
+		religion = converted_dynamic_faith_142
+		culture = mali
+	}
+	add_heir_personality = secretive_personality
+	add_heir_personality = silver_tongue_personality
+}
+1444.11.11= {
+	add_prestige = 67
+	add_treasury = 55
+}

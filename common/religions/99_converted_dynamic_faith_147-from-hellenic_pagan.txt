@@ -1,0 +1,49 @@
+pagan = {
+	converted_dynamic_faith_147 = {
+		color = { 99 58 142 }
+		icon =  188
+		allowed_conversion = {
+ 
+		buddhism
+		vajrayana
+		mahayana
+		confucianism
+		hinduism
+		sikhism
+	
+}
+		country = {
+ 
+		legitimacy = 1
+		horde_unity = 1
+		devotion = 1
+		meritocracy = 0.5
+		republican_tradition = 0.5
+	
+
+		diplomatic_reputation = 1
+	
+
+		yearly_corruption = -0.1
+	
+
+		female_advisor_chance = 0.5
+	
+}
+		country_as_secondary = {
+ 
+		raze_power_gain = 0.15
+	
+
+		diplomatic_reputation = 1
+	
+}
+		
+		uses_karma = yes
+	
+		
+	heretic = { GOAT_SKULL }
+
+	}
+}
+

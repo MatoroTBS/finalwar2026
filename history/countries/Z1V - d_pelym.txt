@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = eastern
+religion = zoroastrian
+primary_culture = dynamic-ostyaki-culture-num1
+capital = 1080
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Virdyan"
+		dynasty = "Omno"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1407.8.9
+		religion = zoroastrian
+		culture = dynamic-ostyaki-culture-num1
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Olota"
+		dynasty = "Katunnu"
+		adm = 4
+		dip = 5
+		mil = 4
+		country_of_origin = Z1V
+		birth_date = 1410.10.7
+		death_date = 1470.10.7
+		female = yes
+		religion = zoroastrian
+		culture = dynamic-ostyaki-culture-num1
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Arti"
+		monarch_name = "Arti"
+		dynasty = "Omno"
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 1432.1.9
+		death_date = 1497.1.9
+		claim = 89
+		religion = zoroastrian
+		culture = dynamic-ostyaki-culture-num1
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 55
+}

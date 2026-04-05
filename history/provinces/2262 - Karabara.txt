@@ -1,0 +1,12 @@
+owner = Z3M
+controller = Z3M
+capital = "Karabara"
+is_city = yes
+culture = dynamic-mali-bozo-culture-num1
+religion = shamanism
+trade_goods = fish
+base_tax = 1
+base_production = 4
+base_manpower = 2
+add_core = Z3M
+discovered_by = sub_saharan

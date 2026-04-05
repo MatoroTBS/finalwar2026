@@ -1,0 +1,12 @@
+owner = Z13
+controller = Z13
+capital = "Kotoko"
+is_city = yes
+culture = dynamic-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = grain
+base_tax = 5
+base_production = 3
+base_manpower = 5
+add_core = Z13
+discovered_by = sub_saharan

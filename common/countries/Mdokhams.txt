@@ -1,0 +1,156 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 33 168 103 }
+revolutionary_colors = { 8 15 8 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Anteru #1" = 10
+	"Ba #0" = 0
+	"Bi #0" = 0
+	"Bujeg #0" = 0
+	"Chan #0" = 0
+	"Changqing #0" = 0
+	"Damshe #1" = 10
+	"Deguang #0" = -1
+	"Devavati #0" = -1
+	"Dhruvadevi #0" = -1
+	"Draktsen #0" = 0
+	"Dzomar #0" = 0
+	"E #0" = -1
+	"Fuyuan #4" = 10
+	"Fuyun #0" = 0
+	"Gai #0" = 0
+	"Gong #0" = 0
+	"Guanghua #0" = -1
+	"Gésar #1" = 10
+	"Huaiguang #1" = 10
+	"Huiming #3" = -1
+	"Jangmu #0" = -1
+	"Jialuo #0" = -1
+	"Jian #0" = 0
+	"Jiazhen #1" = 10
+	"Jin #0" = 0
+	"Jingtang #1" = 10
+	"Jingxian #2" = 10
+	"Jira #0" = -1
+	"Kanavati #1" = -1
+	"Kanchani #0" = -1
+	"Ke #0" = 0
+	"Kegu #0" = 0
+	"Khorijin #0" = -1
+	"Kuladevi #0" = -1
+	"Kunzang #0" = -1
+	"Kyeden #0" = -1
+	"Lin #0" = 0
+	"Manu #0" = 0
+	"Mingda #0" = -1
+	"Mingyue #0" = -1
+	"Nuohebo #0" = 0
+	"Omadevi #0" = -1
+	"Ping #0" = 0
+	"Qifu #0" = 0
+	"Riyun #0" = -1
+	"Rong #0" = 0
+	"Shi #0" = -1
+	"Shi'er #0" = -1
+	"Shou #0" = 0
+	"Shun #0" = 0
+	"Shuzen #1" = -1
+	"Suvrata #0" = -1
+	"Suyue #0" = -1
+	"Synh #1" = 10
+	"Takdra #1" = 10
+	"Wei #0" = 0
+	"Xian #0" = 0
+	"Xiang #0" = 0
+	"Xiangguo #0" = -1
+	"Xianlie #0" = -1
+	"Xihe #0" = -1
+	"Xingping #0" = -1
+	"Xiuli #0" = 0
+	"Yi #0" = 0
+	"Yuanzhen #0" = -1
+	"Yuchi #0" = 0
+	"Zhaocheng #0" = -1
+	"Zheng #0" = 0
+	"Zhiwen #1" = 10
+}
+leader_names = {
+	"Bal"
+	"Bri"
+	"Bro"
+	"Chespong"
+	"Cogro"
+	"Dbas"
+	"Dbra"
+	"Dru"
+	"Gnon"
+	"Gnyags"
+	"Khjungpo"
+	"Khu"
+	"Khun"
+	"Lang"
+	"Ldong"
+	"Lig"
+	"Mchims"
+	"Mgar"
+	"Mgus"
+	"Mjang"
+	"Mkar"
+	"Mnyammed"
+	"Mong"
+	"Nganlam"
+	"Nyang"
+	"Phjongsrgjas"
+	"Rinspungs"
+	"Rlangs"
+	"Rma"
+	"Rmu"
+	"Sba"
+	"Sbas"
+	"Se"
+	"Sgro"
+	"Shudpu"
+	"Snang"
+	"Snyiba"
+	"Stong"
+	"Thonmi"
+	"Zhang"
+	"Zhingshag"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

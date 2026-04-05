@@ -1,0 +1,20 @@
+owner = AFR
+controller = AFR
+capital = "Ferrara"
+is_city = yes
+culture = dynamic-berber-greek-carthaginian-roman-scythian-culture-num1
+religion = converted_dynamic_faith_141
+trade_goods = salt
+base_tax = 6
+base_production = 6
+base_manpower = 3
+extra_cost = 10
+add_core = AFR
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = po_estuary_modifier
+	duration = -1
+}

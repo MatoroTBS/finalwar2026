@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 136 157 23 }
+revolutionary_colors = { 15 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Adeer #0" = 0
+	"Amphoteros #1" = 10
+	"Amulius #0" = 0
+	"Antialkidas #1" = 10
+	"Aouren #0" = -1
+	"Aristarchos #0" = 0
+	"Aristodemos #2" = 10
+	"Arrhidaios #2" = 10
+	"Arunavati #1" = -1
+	"Aryottame #2" = 10
+	"Atraikatte #0" = 0
+	"Audoleon #1" = 10
+	"Bardas #1" = 10
+	"Bhaskarvarman #0" = 0
+	"Bonkana #0" = 0
+	"Cakule #0" = 0
+	"Dagas #0" = -1
+	"Decia #0" = -1
+	"Decius #0" = 0
+	"Deriades #2" = 10
+	"Gabrielia #0" = -1
+	"Herru #1" = -1
+	"Isidoros #0" = 0
+	"Kanake #0" = 0
+	"Kas #1" = 10
+	"Koroibos #1" = 10
+	"Kosmas #0" = 0
+	"Kyriake #0" = -1
+	"Laomedon #1" = 10
+	"Loukas #1" = 10
+	"Markos #1" = 10
+	"Methodios #0" = 0
+	"Nagasene #1" = -1
+	"Narses #1" = 10
+	"Nikephoros #2" = 10
+	"Orestes #1" = 10
+	"Padmakesar #1" = 10
+	"Proteas #1" = 10
+	"Puñakame #2" = 10
+	"Ratnasikhi #0" = 0
+	"Revati #1" = -1
+	"Sa'daddin #0" = 0
+	"Sesto #0" = -1
+	"Shamshî-Ishtar #0" = 0
+	"Smertomara #0" = 0
+	"Spuria #0" = -1
+	"Spurius #0" = 0
+	"Suddhodane #1" = 10
+	"Suwarte #0" = -1
+	"Tartvisara #1" = -1
+	"Traianos #1" = 10
+	"Xanthippos #1" = 10
+}
+leader_names = {
+	"Callimachi"
+	"Campineanu"
+	"Cantacuzino"
+	"Cantemir"
+	"Caragea"
+	"Craiovescu"
+	"Duca"
+	"Ghica"
+	"Ilias"
+	"Lupu"
+	"Mavrocordat"
+	"Moruzi"
+	"Movila"
+	"Musatin"
+	"Norocea"
+	"Racovita"
+	"Ruset"
+	"Sturdza"
+	"Sutu"
+	"Voda"
+}
+ship_names = {
+	"Athleta Christi"
+	"Baia"
+	"Bogdan I"
+	"Iuga"
+	"Moldova"
+	"Râul Prut"
+	"Stefan cel Mare"
+	"Suceava"
+	"Târgul Moldovei"
+	"Vaslui"
+}
+army_names = {
+	"Oastea de $PROVINCE$"
+}

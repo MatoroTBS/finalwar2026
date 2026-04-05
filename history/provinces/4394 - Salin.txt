@@ -1,0 +1,15 @@
+owner = BNG
+controller = BNG
+capital = "Salin"
+is_city = yes
+culture = burmese
+religion = converted_dynamic_faith_147
+trade_goods = grain
+base_tax = 10
+base_production = 4
+base_manpower = 3
+add_core = AVA
+add_core = BNG
+add_core = TAU
+discovered_by = chinese
+discovered_by = indian

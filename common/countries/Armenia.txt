@@ -1,0 +1,152 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 145 30 75 }
+revolutionary_colors = { 5 13 6 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Alan Gua #1" = -1
+	"Amratasene #0" = -1
+	"Antiochos #1" = 10
+	"Aqib-Alaha #0" = 0
+	"Asmu-nikal #0" = -1
+	"Aulus #0" = 0
+	"Avira #0" = 0
+	"Bagour #1" = 10
+	"Bato #0" = 0
+	"Bêl-êtir #0" = 0
+	"Chayuta #1" = -1
+	"Chrysogone #0" = -1
+	"Demostrate #0" = -1
+	"Denha #0" = 0
+	"Diantha #0" = -1
+	"Diseta #0" = -1
+	"Epandros #1" = 10
+	"Eukleia #0" = -1
+	"Ewsannec #0" = -1
+	"Faustus #0" = 0
+	"Grigor #1" = 10
+	"Hamdam #0" = -1
+	"Hosta #0" = -1
+	"Hostus #0" = 0
+	"Ishtar-bêlî #0" = 0
+	"Ishtar-erîba #0" = 0
+	"Jehona #0" = -1
+	"Karna #0" = 0
+	"Karrios #0" = 0
+	"Khosrov #1" = 10
+	"Kralos #0" = 0
+	"Kyriake #0" = -1
+	"Laurentiu #0" = 0
+	"Lebbaeus #0" = 0
+	"Lusthammar-Shamash #0" = 0
+	"Meonre #0" = -1
+	"Nidinti-Shamash #0" = 0
+	"Nikanor #1" = 10
+	"Ninurta-erîba #0" = 0
+	"Nogai #1" = 10
+	"Octavia #0" = -1
+	"Paul #0" = 0
+	"Prepelaos #0" = 0
+	"Razmouhi #0" = -1
+	"Riza #1" = 10
+	"Salman #0" = 0
+	"Sameea #0" = -1
+	"Sas #0" = 0
+	"Secunda #2" = -1
+	"Secundus #1" = 10
+	"Sextus #0" = 0
+	"Shahanshah #1" = 10
+	"Shoushanig #1" = -1
+	"Smaranda #0" = -1
+	"Sthulananda #0" = -1
+	"Taddai #0" = 0
+	"Tanittu-Marduk #0" = 0
+	"Targhal #1" = 10
+	"Tatoul #0" = 0
+	"Trdat #1" = 10
+	"Vera #1" = -1
+	"Wardat-Adad #0" = -1
+	"Yeshua #0" = 0
+	"Yesunge #1" = 10
+}
+leader_names = {
+	"Adamian"
+	"Adomian"
+	"Aghajanian"
+	"Altounyan"
+	"Apkarian"
+	"Babaian"
+	"Babikian"
+	"Bagian"
+	"Bhobanyan"
+	"Chobanian"
+	"Damadian"
+	"Eskandarian"
+	"Kapikian"
+	"Kazanjian"
+	"Kebabian"
+	"Kevorkian"
+	"Khachikyan"
+	"Khatchaturian"
+	"Kirlian"
+	"Mergelyan"
+	"Meymarian"
+	"Orbeli"
+	"Pogosyan"
+	"Sadian"
+	"Sevanian"
+	"Shahinian"
+	"Simjian"
+}
+ship_names = {
+	"Ani"
+	"Aramu"
+	"Ararat"
+	"Argishtis"
+	"Artsakh"
+	"Dvin"
+	"Erimena"
+	"Haik"
+	"Haldi"
+	"Ishpuinis"
+	"Kars"
+	"Lutipri"
+	"Manzikert"
+	"Menuas"
+	"Musasir"
+	"Parisos"
+	"Rusas II"
+	"Sarduri I"
+	"Sarduris II"
+	"Selardi"
+	"Siwini"
+	"Vaspurakan"
+	"Yerevan"
+}

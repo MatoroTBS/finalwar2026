@@ -1,0 +1,129 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 106 160 43 }
+revolutionary_colors = { 5 5 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	administrative_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Alexandros #1" = 10
+	"Algirdas #0" = 0
+	"Aras #0" = 0
+	"Arbrand #1" = 10
+	"Arelis #0" = 0
+	"Audra #0" = -1
+	"Daumantas #0" = 0
+	"Dausprungas #0" = 0
+	"Demid #1" = 10
+	"Evalda #0" = -1
+	"Fedot #1" = 10
+	"Gavriil #0" = 0
+	"Gediminas #0" = 0
+	"Gelennis #1" = -1
+	"Gerdautas #0" = 0
+	"Gerkus #0" = -1
+	"Girdenis #0" = 0
+	"Golding #0" = 0
+	"Herakleios #1" = 10
+	"Hraugiburg #0" = -1
+	"Igor #0" = 0
+	"Jauguttis #1" = 10
+	"Kosmas #0" = 0
+	"Kosthile #1" = -1
+	"Laima #0" = -1
+	"Liudas #0" = 0
+	"Mantvydas #0" = 0
+	"Markos #2" = 10
+	"Mikova #0" = -1
+	"Moka #0" = -1
+	"Movkoldas #0" = 0
+	"Ptompile #1" = 10
+	"Purnaya #1" = -1
+	"Romylia #1" = -1
+	"Rostislav #1" = 10
+	"Stanislav #1" = 10
+	"Sudislav #0" = 0
+	"Svajone #0" = -1
+	"Syamadevi #0" = -1
+	"Sæmundr #1" = 10
+	"Torsten #1" = 10
+	"Traidenis #0" = 0
+	"Ulinniks #1" = 10
+	"Vartanoush #0" = -1
+	"Verica #0" = -1
+	"Viacheslav #1" = 10
+	"Viacheslava #0" = -1
+	"Vingoldas #0" = 0
+	"Visvaldis #0" = 0
+	"Zenobia #0" = -1
+	"Zivinbudas #0" = 0
+	"Zygimantas #0" = 0
+}
+leader_names = {
+	"Aladyin"
+	"Beznosov"
+	"Bokeev"
+	"Borovsky"
+	"Burukhin"
+	"Dalmatov"
+	"Dursky"
+	"Galisky"
+	"Galitsky"
+	"Izyaslavsky"
+	"Kisleevsky"
+	"Korobyin"
+	"Mozhaisky"
+	"Satin"
+	"Shemyakin"
+	"Shukalovsky"
+	"Travin"
+	"Tsyplyatev"
+	"Uglisky"
+	"Vereisky"
+	"Vitebsky"
+	"Vnukov"
+	"Volotsky"
+	"Zabolotsky"
+}
+ship_names = {
+	"Bolotovo"
+	"Bryansk"
+	"Chudskoye"
+	"Izborsk"
+	"Kulikovo"
+	"Ostrov"
+	"Pechory"
+	"Polotsk"
+	"Porhov"
+	"Pskovskoye"
+	"Rakovor"
+	"Sebezh"
+	"Smolensk"
+	"Velikaya"
+	"Velikiye Luki"
+}

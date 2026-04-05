@@ -1,0 +1,12 @@
+owner = MAL
+controller = MAL
+capital = "Kurussa"
+is_city = yes
+culture = dynamic-dyola-mali-culture-num1
+religion = shamanism
+trade_goods = gold
+base_tax = 6
+base_production = 6
+base_manpower = 5
+add_core = MAL
+discovered_by = sub_saharan

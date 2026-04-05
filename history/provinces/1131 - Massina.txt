@@ -1,0 +1,16 @@
+owner = ENG
+controller = ENG
+capital = "Macina"
+is_city = yes
+culture = mali
+religion = converted_dynamic_faith_142
+trade_goods = grain
+base_tax = 4
+base_production = 4
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1
+add_core = ENG
+discovered_by = sub_saharan
+native_ferocity = 4
+native_hostileness = 9

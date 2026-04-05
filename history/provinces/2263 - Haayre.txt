@@ -1,0 +1,12 @@
+owner = Z2I
+controller = Z2I
+capital = "Douentza"
+is_city = yes
+culture = mali
+religion = converted_dynamic_faith_142
+trade_goods = ivory
+base_tax = 1
+base_production = 3
+base_manpower = 3
+add_core = Z2I
+discovered_by = sub_saharan

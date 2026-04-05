@@ -1,0 +1,105 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 50 37 125 }
+revolutionary_colors = { 13 16 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Aepak #0" = 0
+	"Artaxerxes #0" = 0
+	"Arzun #0" = 0
+	"Asalup #0" = 0
+	"Bachman #0" = 0
+	"Bansi #1" = 10
+	"Bhavashankari #1" = 10
+	"Bhuvanamati #0" = -1
+	"Borç #0" = 0
+	"Burz #0" = 0
+	"Bönek #0" = 0
+	"Dorje #1" = 10
+	"Drenpa #1" = 10
+	"Exak #0" = 0
+	"Hephta #0" = -1
+	"Holuikhan #0" = -1
+	"Kunwarpal #0" = 0
+	"Küli Cur #0" = 0
+	"Martang #1" = 10
+	"Mayara #0" = -1
+	"Mungchang #0" = -1
+	"Muné #1" = 10
+	"Mérok #0" = 0
+	"Oniya #0" = -1
+	"Oshan #0" = -1
+	"Oxyartes #0" = 0
+	"Ramch #0" = 0
+	"Ramtish #0" = 0
+	"Ranjitsingha #3" = 10
+	"Ratnadevi #0" = -1
+	"Ratnakara #1" = 10
+	"Roshan #0" = -1
+	"Samtish #0" = 0
+	"Savkëlti #0" = -1
+	"Sevenç #0" = 0
+	"Shentsön #1" = 10
+	"Sirin #0" = -1
+	"Skirgaila #1" = 10
+	"Suhadeva #1" = 10
+	"Tobchen #2" = 10
+	"Tsyrma #0" = -1
+	"Törtogul #0" = 0
+	"Vesa #0" = -1
+	"Zunesh #0" = -1
+}
+leader_names = {
+	"Gampo"
+	"Phuntsok"
+	"Sonam"
+	"Sregs"
+	"Srong"
+	"Tashi"
+	"Thekchen"
+	"Tsewang"
+	"Wangdak"
+	"Wangdue"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

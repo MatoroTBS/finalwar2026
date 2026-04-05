@@ -1,0 +1,15 @@
+owner = DAU
+controller = DAU
+capital = "Grenoble"
+is_city = yes
+culture = dynamic-roman-culture-num10
+religion = converted_dynamic_faith_143
+trade_goods = wool
+base_tax = 10
+base_production = 16
+base_manpower = 9
+add_core = DAU
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

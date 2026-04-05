@@ -1,0 +1,15 @@
+owner = DAM
+controller = DAM
+capital = "Gambela"
+is_city = yes
+culture = nubian
+religion = converted_dynamic_faith_137
+trade_goods = slaves
+fort_15th = yes
+base_tax = 6
+base_production = 6
+base_manpower = 3
+add_core = DAM
+add_core = NUB
+discovered_by = east_african
+discovered_by = muslim

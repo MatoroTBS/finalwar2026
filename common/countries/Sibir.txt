@@ -1,0 +1,103 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 139 138 160 }
+revolutionary_colors = { 0 13 10 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+	quality_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Arvo #0" = 0
+	"Biur #0" = 0
+	"Chichayka #1" = 10
+	"Deryab #0" = 0
+	"Dobrinya #0" = 0
+	"Dokya #3" = 10
+	"Dondok #0" = 0
+	"Elyuva #0" = -1
+	"Irter #0" = 0
+	"Ju #0" = 0
+	"Kanyuva #0" = -1
+	"Khudu #2" = 10
+	"Kuaz #0" = 0
+	"Kudym-Osh #0" = 0
+	"Kyldysin #0" = 0
+	"Odeg #0" = 0
+	"Oshypel #1" = 10
+	"Ozheg #0" = 0
+	"Parush #1" = 10
+	"Pokshava #1" = -1
+	"Pokshayka #1" = 10
+	"Sarin #0" = 0
+	"Setyamka #1" = 10
+	"Shonzhava #1" = -1
+	"Spira #0" = 0
+	"Sui #0" = 0
+	"Tartvisara #0" = -1
+	"Tikshayka #1" = 10
+	"Torolchi #1" = 10
+	"Tugan #1" = 10
+	"Turush #1" = 10
+	"Tyutyuk #0" = 0
+	"Velmayka #1" = 10
+	"Yirkap #2" = 10
+	"Ylvan #1" = 10
+	"Yugörka #0" = -1
+	"Öshkamöshka #0" = -1
+}
+leader_names = {
+	"Arinin"
+	"Aven"
+	"Balna"
+	"Kanin"
+	"Maimbava"
+	"Ravna"
+	"Salmiianov"
+	"Taiborey"
+	"Tsoy"
+	"Vylka"
+}
+ship_names = {
+	"Baraq"
+	"Bayan"
+	"Chimtai"
+	"Devlat Berdi"
+	"Ghengis Khan"
+	"Ilbasan"
+	"Jabbar Berdi"
+	"Jalal Ad-Din"
+	"Karim Berdi"
+	"Kebek"
+	"Kochu"
+	"Mubarrak Kwaja"
+	"Orda"
+	"Pulad"
+	"Sasibuga"
+	"Sayyid Ahmad"
+	"Shadi Beg"
+	"Timur Malik"
+	"Timur Qutlugh"
+	"Toqtamish"
+	"Tuqtaqiya"
+	"Ulugh Muhammad"
+	"Urus"
+}

@@ -1,0 +1,117 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 215 208 14 }
+revolutionary_colors = { 13 11 0 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Alan Gua #1" = -1
+	"Anna #0" = -1
+	"Antipatros #1" = 10
+	"Antiphates #1" = 10
+	"Archippe #0" = -1
+	"Aristonikos #1" = 10
+	"Atrnerseh #0" = 0
+	"Avag #1" = 10
+	"Canca #0" = -1
+	"Davit #1" = 10
+	"Dhirsingha #0" = 0
+	"Dimoetes #0" = 0
+	"Gaius #0" = 0
+	"Gandharavati #0" = -1
+	"Gerkus #0" = -1
+	"Glaukias #1" = 10
+	"Gorgias #1" = 10
+	"Gulbis #0" = -1
+	"Hajo #0" = 0
+	"Hippostrate #1" = -1
+	"Ignatios #0" = 0
+	"Ixzi #0" = 0
+	"Jauguttis #0" = 0
+	"Kalyanavraddhi #1" = 10
+	"Khosrov #2" = 10
+	"Kotyan #0" = 0
+	"Kugis #0" = 0
+	"Kulkera #0" = 0
+	"Kvilyo #0" = 0
+	"Lysandros #1" = 10
+	"Malika #0" = -1
+	"Masnsen #0" = 0
+	"Mehrab #1" = 10
+	"Menos #1" = 10
+	"Milzas #0" = 0
+	"Narses #0" = 0
+	"Narsingh Dev #0" = 0
+	"Nikephoros #0" = 0
+	"Postumus #0" = 0
+	"Ptolemy #1" = 10
+	"Pulcheria #0" = -1
+	"Puñicamndre #1" = 10
+	"Rhodanthe #0" = -1
+	"Sabina #0" = -1
+	"Saputanase #2" = 10
+	"Shayna #1" = -1
+	"Tatoul #1" = 10
+	"Thomais #0" = -1
+	"Timarete #1" = -1
+	"Timo #1" = -1
+	"Ulitis #0" = 0
+	"Upatisye #1" = -1
+	"Urbilvakasyape #0" = 0
+	"Vagharshak #0" = 0
+	"Vartanoush #0" = -1
+	"Yeghise #0" = 0
+	"Yesunge #1" = 10
+}
+leader_names = {
+	"Ardashir"
+	"Buzurg"
+	"Dabuya"
+	"Dadhburzmihr"
+	"Farrukhan"
+	"Hassan"
+	"Kamal"
+	"Khurshid"
+	"Kiya"
+	"Mazyar"
+	"Qarin"
+	"Quhyar"
+	"Rida"
+	"Rustam"
+	"Shahriyar"
+	"Vindadhhurmuzd"
+}
+ship_names = {
+	"Amol"
+	"Ardashir"
+	"Astarabad"
+	"Chalus"
+	"Farim"
+	"Kelar"
+	"Lahican"
+	"Mazyar"
+	"Natel"
+	"Rustam"
+	"Vindadhhurmuzd"
+}

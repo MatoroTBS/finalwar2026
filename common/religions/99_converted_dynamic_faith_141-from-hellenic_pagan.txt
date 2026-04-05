@@ -1,0 +1,43 @@
+pagan = {
+	converted_dynamic_faith_141 = {
+		color = { 120 194 239 }
+		icon =  182
+		country = {
+ 
+		stability_cost_to_declare_war = 1
+		diplomatic_reputation = 3
+	
+
+		global_missionary_strength = -0.01
+		religious_unity = 0.25
+		tolerance_heathen = 2
+	
+
+		discipline = 0.05
+	
+
+		female_advisor_chance = 0.5
+	
+}
+		country_as_secondary = {
+ 
+		diplomatic_reputation = 1
+	
+
+		religious_unity = 0.25
+	
+}
+		province = {
+ 
+		local_missionary_strength = -0.02
+	
+
+		local_missionary_strength = 0.01
+	
+}
+		
+	heretic = { GOAT_SKULL }
+
+	}
+}
+

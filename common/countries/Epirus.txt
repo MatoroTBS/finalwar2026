@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 228 214 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Alim #0" = 0
+	"Ancus #2" = 10
+	"Andio #0" = -1
+	"Appia #0" = -1
+	"Appius #1" = 10
+	"Asa #0" = -1
+	"Bapu #0" = 0
+	"Barbara #0" = -1
+	"Bosporios #0" = 0
+	"Camilla #0" = -1
+	"Decia #1" = -1
+	"Decimus #0" = 0
+	"Drusus #0" = 0
+	"Drusa #0" = -1
+	"Fausta #1" = -1
+	"Faustus #1" = 10
+	"Filip #1" = 10
+	"Flavia #0" = -1
+	"Flavius #1" = 10
+	"Galla #0" = -1
+	"Gallus #0" = 0
+	"Gnaea #0" = -1
+	"Guenna #0" = -1
+	"Gaia #0" = -1
+	"Heria #0" = -1
+	"Hosta #0" = -1
+	"Ionela #1" = -1
+	"Iordanes #0" = 0
+	"Kamalnarayan #0" = 0
+	"Lucia #0" = -1
+	"Lucius #0" = 0
+	"Mania #0" = -1
+	"Manius #3" = 10
+	"Marca #0" = -1
+	"Marcus #0" = 0
+	"Munkhare #0" = 0
+	"Neptunus #1" = 10
+	"Numeria #0" = -1
+	"Octavius #1" = 10
+	"Postuma #0" = -1
+	"Postumus #0" = 0
+	"Prima #1" = -1
+	"Procula #0" = -1
+	"Publia #0" = -1
+	"Publius #0" = 0
+	"Quinta #0" = -1
+	"Secundus #0" = 0
+	"Servia #0" = -1
+	"Servius #0" = 0
+	"Sexta #1" = -1
+	"Silaraksi #0" = 0
+	"Stana #1" = -1
+	"Stefana #0" = -1
+	"Teuta #0" = -1
+	"Timotei #2" = 10
+	"Tita #1" = -1
+	"Vaitike #0" = 0
+	"Vibia #0" = -1
+	"Vibius #1" = 10
+}
+leader_names = {
+	"Angelus"
+	"Asan"
+	"Branas"
+	"Cantacuzene"
+	"Comnenus"
+	"Ducas"
+	"Mavros"
+	"Notaras"
+	"Palaeologus"
+	"Phocas"
+	"Raoul"
+	"Spagnoli"
+	"Sphrantzes"
+	"Tocco"
+	"Zaccaria"
+}
+ship_names = {
+	"Agios Kyprianos"
+	"Areopoli"
+	"Elika"
+	"Geronlimenas"
+	"Gytheio"
+	"Kardamyli"
+	"Kokkala"
+	"Kotronas"
+	"Skoutari"
+	"Vathia"
+}

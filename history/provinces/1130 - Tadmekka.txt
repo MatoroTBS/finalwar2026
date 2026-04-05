@@ -1,0 +1,14 @@
+owner = HAU
+controller = HAU
+capital = "Tadmekka al-Suq"
+is_city = yes
+culture = berber
+religion = converted_dynamic_faith_137
+trade_goods = wool
+base_tax = 6
+base_production = 10
+base_manpower = 4
+add_core = HAU
+add_core = TLC
+add_core = Z12
+discovered_by = sub_saharan

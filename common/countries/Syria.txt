@@ -1,0 +1,111 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 125 110 225 }
+revolutionary_colors = { 10 0 1 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Agathokleia #1" = -1
+	"Aggai #0" = 0
+	"Agis #1" = 10
+	"Aischines #1" = 10
+	"Apame #0" = -1
+	"Archelaos #0" = 0
+	"Archimedes #0" = 0
+	"Aristoteles #1" = 10
+	"Asklepiades #0" = 0
+	"Bajoras #0" = 0
+	"Balabhata #0" = 0
+	"Bikon #0" = 0
+	"Blush #0" = 0
+	"Charinos #0" = 0
+	"Damarate #0" = -1
+	"Daphne #0" = -1
+	"Derdas #1" = 10
+	"Diantha #0" = -1
+	"Diodotos #1" = 10
+	"Doris #0" = -1
+	"Ekdemos #2" = 10
+	"Elesbed #0" = -1
+	"Euporia #0" = -1
+	"Euripides #1" = 10
+	"Fadil #0" = 0
+	"Glykera #0" = -1
+	"Haeloubri #0" = 0
+	"Hedyline #0" = -1
+	"Hegemachos #1" = 10
+	"Hippostratos #1" = 10
+	"Hoël #0" = 0
+	"Hyperbatas #1" = 10
+	"Kallistion #0" = -1
+	"Kallistratos #1" = 10
+	"Kephisodoros #1" = 10
+	"Kleagora #0" = -1
+	"Meniske #0" = -1
+	"Nausistrate #0" = -1
+	"Nikephoros #1" = 10
+	"Nikolaos #0" = 0
+	"Nikomedes #1" = 10
+	"Ovsanna #0" = -1
+	"Pantordanos #1" = 10
+	"Phanostrate #0" = -1
+	"Philokleia #0" = -1
+	"Platon #1" = 10
+	"Sevag #0" = 0
+	"Tauriskos #0" = 0
+	"Theophila #0" = -1
+	"Theophilos #0" = 0
+	"Thoinon #0" = 0
+	"Tiberius #2" = 10
+	"Timarchos #0" = 0
+	"Zosime #0" = -1
+}
+leader_names = {
+	"Damad"
+	"Esad"
+	"Farhad"
+	"Fazil"
+	"Hafiz"
+	"Ismail"
+	"Mehmed"
+	"Murad"
+	"Nasuh"
+	"Osman"
+	"Salih"
+	"Sinan"
+}
+ship_names = {
+	"Arif"
+	"Azmi"
+	"Dervish"
+	"Fuad"
+	"Haci"
+	"Haydar"
+	"Mulish"
+	"Nuri"
+	"Said"
+	"Salih"
+	"Sefveti"
+	"Shukri"
+}

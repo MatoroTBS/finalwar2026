@@ -1,0 +1,103 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 49 185 191 }
+revolutionary_colors = { 1 5 1 }
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Aepak #0" = 0
+	"Aristophon #1" = 10
+	"Artaxerxes #0" = 0
+	"Arzun #0" = 0
+	"Asalup #0" = 0
+	"Bachman #1" = 10
+	"Bhuvanamati #0" = -1
+	"Borç #2" = 10
+	"Burz #0" = 0
+	"Bönek #0" = 0
+	"Entysh #1" = 10
+	"Exak #0" = 0
+	"Hephta #0" = -1
+	"Holuikhan #0" = -1
+	"Kuntuvdi #1" = 10
+	"Kunwarpal #0" = 0
+	"Küli Cur #0" = 0
+	"Laxminath Singh Dev #1" = 10
+	"Mayara #0" = -1
+	"Mungchang #0" = -1
+	"Mérok #0" = 0
+	"Oniya #0" = -1
+	"Oshan #0" = -1
+	"Oxyartes #0" = 0
+	"Ramch #0" = 0
+	"Ramtish #0" = 0
+	"Ratnadevi #0" = -1
+	"Roshan #0" = -1
+	"Samtish #0" = 0
+	"Savkëlti #0" = -1
+	"Sevenç #0" = 0
+	"Sirin #0" = -1
+	"Tsyrma #0" = -1
+	"Törtogul #0" = 0
+	"Vesa #0" = -1
+	"Wius #1" = 10
+	"Zunesh #0" = -1
+}
+leader_names = {
+	"Abbâs"
+	"Abû"
+	"Akbar"
+	"Bakr"
+	"Jahagir"
+	"Jalâl"
+	"Jâmî"
+	"Khalil"
+	"Mohsin"
+	"Zaman"
+	"ud-Dîn"
+}
+ship_names = {
+	"Ardabil"
+	"Bakhura"
+	"Balkh"
+	"Baluches"
+	"Herat"
+	"Ispahan"
+	"Kandahar"
+	"Kharesm"
+	"Kirman"
+	"Kish"
+	"Lahore"
+	"Merv"
+	"Nishupur"
+	"Ormuz"
+	"Rustam"
+	"Samarqand"
+	"Sebzewar"
+	"Shah Rukh"
+	"Sikandar"
+	"Slurax"
+	"Tahriz"
+	"Tamerlane"
+}

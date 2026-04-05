@@ -1,0 +1,14 @@
+owner = OYO
+controller = OYO
+capital = "Ife Ile"
+is_city = yes
+culture = dynamic-bozo-yorumba-culture-num1
+religion = converted_dynamic_faith_144
+trade_goods = glass
+fort_15th = yes
+base_tax = 14
+base_production = 11
+base_manpower = 6
+add_core = OYO
+discovered_by = sub_saharan
+add_province_triggered_modifier = city_of_401_deities

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_146
+primary_culture = dynamic-gothic-norwegian-culture-num1
+capital = 1856
+add_accepted_culture = dynamic-georgian-trojan-culture-num1
+1444.11.11= {
+	monarch = {
+		name = "Walhild"
+		dynasty = "Gurges"
+		adm = 5
+		dip = 4
+		mil = 2
+		birth_date = 1378.3.15
+		female = yes
+		religion = converted_dynamic_faith_146
+		culture = dynamic-gothic-norwegian-culture-num1
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Kauravye"
+		dynasty = "Kadike"
+		adm = 4
+		dip = 4
+		mil = 5
+		country_of_origin = IME
+		birth_date = 1381.5.17
+		death_date = 1441.5.17
+		religion = converted_dynamic_faith_137
+		culture = dynamic-greek-scythian-culture-num2
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = midas_touched_personality
+	heir = {
+		name = "Ríkúlfr"
+		monarch_name = "Ríkúlfr"
+		dynasty = "Gurges"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1418.12.20
+		death_date = 1483.12.20
+		claim = 89
+		religion = zoroastrian
+		culture = dynamic-gothic-norwegian-culture-num1
+	}
+	add_heir_personality = loose_lips_personality
+	add_heir_personality = righteous_personality
+}
+1444.11.11= {
+	add_prestige = 112
+	add_treasury = 0
+}

@@ -1,0 +1,120 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 191 110 62 }
+revolutionary_colors = { 8 0 5 }
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	expansion_ideas
+	administrative_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Aamina #0" = -1
+	"Adelah #0" = -1
+	"Adiatorix #1" = 10
+	"Adiya #0" = -1
+	"Afalawas #0" = 0
+	"Agafay #0" = 0
+	"Amayas #0" = 0
+	"Annaber #0" = 0
+	"Aula #1" = -1
+	"Awzal #0" = 0
+	"Az'ar #0" = 0
+	"Badia #0" = -1
+	"Bakka #0" = -1
+	"Baraah #0" = -1
+	"Basimah #0" = -1
+	"Bitorix #1" = 10
+	"Brogimaros #3" = 10
+	"Cali #1" = 10
+	"Cantara #0" = -1
+	"Cata #1" = -1
+	"Catia #1" = -1
+	"Cingetessa #0" = -1
+	"Domneiu #3" = 10
+	"Eponi #1" = 10
+	"Fahd #0" = 0
+	"Fahriya #0" = -1
+	"Guallon #0" = 0
+	"Gwejda #0" = -1
+	"Herius #1" = 10
+	"Hiba #0" = 0
+	"Iccaam #0" = 0
+	"Igmi #0" = 0
+	"Itri #0" = 0
+	"Ittû #0" = -1
+	"Khenchela #0" = 0
+	"Kortolo #0" = -1
+	"Kparsi #0" = 0
+	"Laweye #1" = 10
+	"Leuhemel #0" = -1
+	"Massnsen #0" = 0
+	"Nacho #1" = 10
+	"Nazar #1" = 10
+	"Olorix #3" = 10
+	"Prima #1" = -1
+	"Quinta #0" = -1
+	"Sall #0" = -1
+	"Seghada #1" = 10
+	"Spurius #1" = 10
+	"Tanefzawit #0" = -1
+	"Tarloh #0" = -1
+	"Tectomaros #3" = 10
+	"Tikinas #0" = -1
+	"Triya #1" = -1
+	"Tita #0" = -1
+	"Uregh #0" = 0
+	"Vibius #1" = 10
+	"Vrocata #1" = -1
+	"Yugerten #0" = 0
+	"Yuva #0" = 0
+	"Zimrida #0" = 0
+}
+leader_names = {
+	"Alami"
+	"Arazi"
+	"Barek"
+	"Behar"
+	"Berui"
+	"Haida"
+	"Lahsini"
+	"Sahiri"
+	"Sellami"
+	"Skah"
+}
+ship_names = {
+	"Afuww"
+	"Badi"
+	"Baqi"
+	"Darr"
+	"Fa'uf"
+	"Fazl Azim"
+	"Ghani"
+	"Hadi"
+	"Jalal Ikram"
+	"Jami"
+	"Malik Mulk"
+	"Mani"
+	"Mughni"
+	"Muntaqim"
+	"Muqsit"
+	"Nafi"
+	"Nur"
+	"Rashid"
+	"Sabur"
+	"Tawwab"
+	"Warith"
+}

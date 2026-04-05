@@ -1,0 +1,19 @@
+owner = Z2S
+controller = Z2S
+capital = "Newcastle"
+is_city = yes
+culture = welsh
+religion = converted_dynamic_faith_142
+trade_goods = wool
+base_tax = 6
+base_production = 8
+base_manpower = 4
+add_core = WLS
+add_core = Z2S
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+latent_trade_goods = {
+	coal
+}

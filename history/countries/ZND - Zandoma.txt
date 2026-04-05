@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = converted_dynamic_faith_142
+primary_culture = dynamic-mali-bozo-culture-num1
+capital = 2265
+fixed_capital = 2265
+1444.11.11= {
+	monarch = {
+		name = "Kayna"
+		dynasty = "Konsa"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1393.10.20
+		religion = converted_dynamic_faith_142
+		culture = dynamic-mali-bozo-culture-num1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Demba"
+		dynasty = "Sempronis-Takrur"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = ZND
+		birth_date = 1390.3.10
+		death_date = 1450.3.10
+		female = yes
+		religion = converted_dynamic_faith_142
+		culture = fulani
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Laraba"
+		monarch_name = "Laraba"
+		dynasty = "Konsa"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1434.3.15
+		death_date = 1499.3.15
+		claim = 89
+		religion = converted_dynamic_faith_142
+		culture = dynamic-mali-bozo-culture-num1
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = industrious_personality
+}
+1444.11.11= {
+	add_prestige = 87
+	add_treasury = 56
+}

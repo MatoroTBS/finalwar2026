@@ -1,0 +1,14 @@
+owner = SMI
+controller = SMI
+capital = "Sodankylä"
+is_city = yes
+culture = sapmi
+religion = zoroastrian
+trade_goods = fur
+fort_15th = yes
+base_tax = 15
+base_production = 9
+base_manpower = 9
+add_core = SMI
+discovered_by = eastern
+discovered_by = western

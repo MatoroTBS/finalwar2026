@@ -1,0 +1,13 @@
+owner = FIN
+controller = FIN
+capital = "Borgå"
+is_city = yes
+culture = finnish
+religion = converted_dynamic_faith_142
+trade_goods = naval_supplies
+base_tax = 6
+base_production = 4
+base_manpower = 4
+add_core = FIN
+discovered_by = eastern
+discovered_by = western

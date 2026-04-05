@@ -1,0 +1,16 @@
+owner = Z0N
+controller = Z0N
+capital = "Gorizia"
+is_city = yes
+culture = theodisc
+religion = converted_dynamic_faith_140
+trade_goods = iron
+base_tax = 1
+base_production = 3
+base_manpower = 3
+add_core = ROM
+add_core = Z0N
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

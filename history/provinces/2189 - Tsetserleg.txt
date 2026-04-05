@@ -1,0 +1,18 @@
+owner = KAS
+controller = KAS
+capital = "Tsetserleg"
+is_city = yes
+culture = khalkha
+religion = zoroastrian
+trade_goods = fur
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = KAS
+add_core = KHA
+add_core = KLK
+discovered_by = chinese
+discovered_by = nomad_group
+latent_trade_goods = {
+	coal
+}

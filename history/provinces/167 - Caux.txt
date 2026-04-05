@@ -1,0 +1,20 @@
+owner = Z09
+controller = Z09
+capital = "Rouen"
+is_city = yes
+culture = neustrian
+religion = converted_dynamic_faith_142
+trade_goods = glass
+base_tax = 12
+base_production = 9
+base_manpower = 8
+extra_cost = 10
+add_core = Z09
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = seine_estuary_modifier
+	duration = -1
+}

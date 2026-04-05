@@ -1,0 +1,15 @@
+owner = Z0M
+controller = Z0M
+capital = "Sorko"
+is_city = yes
+culture = hausa
+religion = converted_dynamic_faith_144
+trade_goods = grain
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = Z0M
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

@@ -1,0 +1,15 @@
+owner = Z3G
+controller = Z3G
+capital = "El Kef"
+is_city = yes
+culture = dynamic-roman-culture-num1
+religion = converted_dynamic_faith_143
+trade_goods = wool
+base_tax = 1
+base_production = 11
+base_manpower = 2
+add_core = Z3G
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

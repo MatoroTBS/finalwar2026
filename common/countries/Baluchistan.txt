@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 175 82 16 }
+revolutionary_colors = { 9 0 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Amritakala #0" = -1
+	"Aristomachos #0" = 0
+	"Artemis #1" = -1
+	"Asaraja #1" = 10
+	"Basudevnayaran #1" = 10
+	"Bhadrasena #1" = 10
+	"Bhogavati #0" = -1
+	"Bishwas Devi #0" = -1
+	"Brahmdevpal #1" = 10
+	"Deinippos #2" = 10
+	"Dhirsingha #1" = 10
+	"Govishanaka #2" = 10
+	"Gzi #0" = 0
+	"Hosta #0" = -1
+	"Ioustinianos #0" = 0
+	"Jagaddipendranarayan #0" = 0
+	"Jauguttis #0" = 0
+	"Karandeva #1" = 10
+	"Kaydum #0" = 0
+	"Kormesiy #1" = 10
+	"Mahendrani #1" = -1
+	"Marthe #1" = -1
+	"Mayara #1" = -1
+	"Milyuns #0" = -1
+	"Narendranarayan #0" = 0
+	"Octavia #1" = -1
+	"Pandhuka #1" = 10
+	"Peithagoras #1" = 10
+	"Samiy #2" = 10
+	"Senila #1" = -1
+	"Sergonis #0" = 0
+	"Sukhdev #1" = 10
+	"Syamadevi #1" = -1
+	"Veloriga #1" = -1
+}
+leader_names = {
+	"Barakzay"
+	"Bozdar"
+	"Bugti"
+	"Ghilzai"
+	"Hooth"
+	"Jamot"
+	"Jatoi"
+	"Khokhar"
+	"Korai"
+	"Lashari"
+	"Lund"
+	"Mihrabanid"
+	"Mirrani"
+	"Nausherwani"
+	"Rind"
+	"Shar"
+	"Zikri"
+}
+ship_names = {
+	"Alia"
+	"Arusa"
+	"Dasht"
+	"Fatimah"
+	"Hormuz"
+	"Indus"
+	"Kech"
+	"Khan"
+	"Mashkaal"
+	"Nihing"
+	"Niknaz"
+	"Niloufa"
+	"Noor"
+	"Rakhshan"
+	"Salima"
+	"Shameena"
+	"Suhalia"
+	"Yasmine"
+	"Zahira"
+	"Zhab"
+}

@@ -1,0 +1,14 @@
+owner = KAS
+controller = KAS
+capital = "Rutog"
+is_city = yes
+culture = dynamic-bactrian-uyghur-culture-num1
+religion = hinduism
+trade_goods = wool
+base_tax = 15
+base_production = 14
+base_manpower = 10
+add_core = KAS
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

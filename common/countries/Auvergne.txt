@@ -1,0 +1,190 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 218 155 75 }
+revolutionary_colors = { 8 9 10 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+}
+historical_units = {
+	anglofrench_line
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aanor #1" = -1
+	"Abrelda #0" = -1
+	"Agim #0" = 0
+	"Alwen #0" = 0
+	"Appius #0" = 0
+	"Aulus #1" = 10
+	"Bedros #0" = 0
+	"Bhavashankari #0" = -1
+	"Conmael #2" = 10
+	"Dasa #1" = -1
+	"Faustus #2" = 10
+	"Flavia #0" = -1
+	"Furatu #1" = 10
+	"Gaius #1" = 10
+	"Gallus #0" = 0
+	"Gnaea #1" = -1
+	"Gublenu #0" = 0
+	"Guentiern #2" = 10
+	"Guiharan #0" = 0
+	"Köpryly #0" = 0
+	"Likkaios #0" = 0
+	"Marca #0" = -1
+	"March #2" = 10
+	"Maura #1" = -1
+	"Numeria #1" = -1
+	"Orgetorix #2" = 10
+	"Oswallt #1" = 10
+	"Postuma #0" = -1
+	"Pranvera #0" = -1
+	"Prima #1" = -1
+	"Pàulu #1" = 10
+	"Pêr #1" = 10
+	"Quinta #0" = -1
+	"Quintus #1" = 10
+	"Secunda #1" = -1
+	"Servia #0" = -1
+	"Sulhoiarn #0" = 0
+	"Tazrurt #0" = -1
+	"Tertius #0" = 0
+	"Thuriswald #0" = 0
+}
+leader_names = {
+	"Arnauld"
+	"Barbey"
+	"Bouillé du Chariol"
+	"Brachet"
+	"Carbonnières de La Barthe"
+	"d'Altier de Borne"
+	"d'Alègre"
+	"d'Apchon"
+	"d'Arfeuille"
+	"d'Arpajon"
+	"d'Humières"
+	"d'Oliergues"
+	"d'Ussel"
+	"de Baffie"
+	"de Balzac"
+	"de Basredon"
+	"de Beauverger"
+	"de Blanchefort"
+	"de Brossadol"
+	"de Brugière"
+	"de Canilhac"
+	"de Cardaillac"
+	"de Carlat"
+	"de Casteras"
+	"de Chalençon"
+	"de Chazeron"
+	"de Clermont"
+	"de Cressac"
+	"de Fougères"
+	"de Grandsaigne"
+	"de La Queuille"
+	"de Lavie"
+	"de Magnac"
+	"de Massebeau"
+	"de Mercœur"
+	"de Montboissier"
+	"de Montgascon"
+	"de Montpensier"
+	"de Montvert"
+	"de Nérestang"
+	"de Pascal"
+	"de Pennautier"
+	"de Polignac"
+	"de Rochefort-d'Ailly"
+	"de Rogier-Beaufort"
+	"de Saint-Nectaire"
+	"de Scorailles"
+	"de Terreveire"
+	"de Thiers"
+	"du Croc"
+}
+ship_names = {
+	"l'Aiguiller"
+	"l'Artense"
+	"l'Orgues de Bort"
+	"la Banne d'Ordanche"
+	"la Dent de la Rancune"
+	"le Chaudefour"
+	"le Cliergue"
+	"le Cliersoux"
+	"le Cézailler"
+	"le Gour de Tazenat"
+	"le Lac Chauvet"
+	"le Lac Pavin"
+	"le Lac de Guéry"
+	"le Lac de Servières"
+	"le Lac du Joland"
+	"le Mandailles"
+	"le Mont Dore"
+	"le Narse d'Espinasse"
+	"le Peyre Arse"
+	"le Plomb du Cantal"
+	"le Puy Chavaroche"
+	"le Puy Ferrand"
+	"le Puy Griou"
+	"le Puy Gros"
+	"le Puy Mary"
+	"le Puy Violent"
+	"le Puy de Bort"
+	"le Puy de Côme"
+	"le Puy de Dôme"
+	"le Puy de Lassolas"
+	"le Puy de Monne"
+	"le Puy de Montchal"
+	"le Puy de Montcineyre"
+	"le Puy de Monténard"
+	"le Puy de Paillaret"
+	"le Puy de Sancy"
+	"le Puy de Seycheuse"
+	"le Puy de Tartaret"
+	"le Puy de l'Angle"
+	"le Puy de la Grousse"
+	"le Puy de la Perdrix"
+	"le Puy de la Tache"
+	"le Puy de la Vache"
+	"le Puy des Goules"
+	"le Puy-en-Velay"
+	"le Rochefort-Montagne"
+	"le Roches Tuilière"
+	"le Sanadoire"
+	"le Sarcouy"
+	"le Signal du Luguet"
+}
+army_names = {
+	"Armée d'Auvergne"
+	"Armée de $PROVINCE$"
+	"Armée de Clermont"
+	"Armée de Grande Limagne"
+	"Armée de Montpensier"
+	"Armée de la Margeride"
+	"Armée du Brivadois"
+	"Armée du Cantal"
+	"Armée du Dauphin d'Auvergne"
+	"Armée du Livradois"
+	"Armée du Velay"
+}

@@ -1,0 +1,12 @@
+owner = POR
+controller = POR
+capital = "Bambuk"
+is_city = yes
+culture = dynamic-dyola-mali-culture-num1
+religion = converted_dynamic_faith_142
+trade_goods = gold
+base_tax = 6
+base_production = 7
+base_manpower = 5
+add_core = POR
+discovered_by = sub_saharan

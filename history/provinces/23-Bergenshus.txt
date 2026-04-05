@@ -1,0 +1,15 @@
+owner = Z27
+controller = Z27
+capital = "Bergen"
+is_city = yes
+culture = dynamic-gothic-norwegian-culture-num1
+religion = converted_dynamic_faith_143
+trade_goods = naval_supplies
+base_tax = 10
+base_production = 7
+base_manpower = 9
+extra_cost = 16
+center_of_trade = 2
+add_core = Z27
+discovered_by = eastern
+discovered_by = western

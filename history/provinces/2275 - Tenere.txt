@@ -1,0 +1,17 @@
+owner = HAU
+controller = HAU
+capital = "Aghram"
+is_city = yes
+culture = zaghawa
+religion = converted_dynamic_faith_137
+trade_goods = livestock
+base_tax = 5
+base_production = 7
+base_manpower = 4
+add_core = AIR
+add_core = HAU
+add_core = Z12
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

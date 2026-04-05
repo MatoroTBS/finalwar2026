@@ -1,0 +1,15 @@
+owner = Z1R
+controller = Z1R
+capital = "Foix"
+is_city = yes
+culture = dynamic-breton-culture-num4
+religion = converted_dynamic_faith_143
+trade_goods = wool
+base_tax = 9
+base_production = 9
+base_manpower = 7
+add_core = Z1R
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

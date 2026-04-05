@@ -1,0 +1,15 @@
+owner = Z1B
+controller = Z1B
+capital = "Wardheer"
+is_city = yes
+culture = dynamic-somali-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = slaves
+base_tax = 4
+base_production = 5
+base_manpower = 2
+add_core = Z1B
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

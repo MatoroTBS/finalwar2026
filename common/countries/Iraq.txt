@@ -1,0 +1,116 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 153 138 161 }
+revolutionary_colors = { 5 0 1 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Amratasene #0" = -1
+	"Aqib-Alaha #0" = 0
+	"Ashshur-ibni #1" = 10
+	"Asmu-nikal #0" = -1
+	"Aula #1" = -1
+	"Aulus #0" = 0
+	"Avira #0" = 0
+	"Bato #0" = 0
+	"Bhumimitra #1" = 10
+	"Blerta #1" = -1
+	"Bêl-êtir #0" = 0
+	"Chayuta #1" = -1
+	"Chrysogone #0" = -1
+	"Dagas #1" = -1
+	"Demostrate #0" = -1
+	"Denha #0" = 0
+	"Denise #1" = -1
+	"Diantha #0" = -1
+	"Diseta #0" = -1
+	"Eukleia #0" = -1
+	"Ewrîn #1" = -1
+	"Ewsannec #0" = -1
+	"Faustus #0" = 0
+	"Hagesandros #1" = 10
+	"Hamdam #0" = -1
+	"Hisên #1" = 10
+	"Hosta #0" = -1
+	"Hostus #0" = 0
+	"Ishtar-bêlî #0" = 0
+	"Ishtar-erîba #0" = 0
+	"Jehona #0" = -1
+	"Karna #0" = 0
+	"Karrios #0" = 0
+	"Kheperkare #1" = 10
+	"Kralos #0" = 0
+	"Kyriake #0" = -1
+	"Laurentiu #0" = 0
+	"Lebbaeus #0" = 0
+	"Lusthammar-Nergal #1" = 10
+	"Lusthammar-Shamash #0" = 0
+	"Meonre #0" = -1
+	"Nergal-iddin #1" = 10
+	"Nidinti-Shamash #0" = 0
+	"Ninurta-erîba #1" = 10
+	"Octavia #0" = -1
+	"Paul #0" = 0
+	"Prepelaos #0" = 0
+	"Razmouhi #0" = -1
+	"Salman #0" = 0
+	"Sameea #0" = -1
+	"Sas #0" = 0
+	"Secundus #1" = 10
+	"Sextus #0" = 0
+	"Shammai #1" = 10
+	"Smaranda #0" = -1
+	"Sthulananda #0" = -1
+	"Taddai #0" = 0
+	"Tanittu-Marduk #0" = 0
+	"Targhal #1" = 10
+	"Tatoul #0" = 0
+	"Vera #1" = -1
+	"Wardat-Adad #0" = -1
+	"Yeshua #0" = 0
+}
+leader_names = {
+	"Agha"
+	"Ahmad"
+	"Akif"
+	"Husain"
+	"Javid"
+	"Necip"
+	"Nuri"
+	"Rahman"
+	"Resid"
+	"Zaki"
+}
+ship_names = {
+	"Faydhi"
+	"Fazil"
+	"Jamal"
+	"Kadri"
+	"Midhat"
+	"Nadhif"
+	"Nadhim"
+	"Namiq"
+	"Omer"
+	"Sirri"
+}

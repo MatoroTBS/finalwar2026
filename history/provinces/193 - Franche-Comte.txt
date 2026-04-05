@@ -1,0 +1,15 @@
+owner = Z24
+controller = Z24
+capital = "Besançon"
+is_city = yes
+culture = dynamic-breton-culture-num2
+religion = converted_dynamic_faith_143
+trade_goods = salt
+base_tax = 7
+base_production = 8
+base_manpower = 6
+add_core = Z24
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

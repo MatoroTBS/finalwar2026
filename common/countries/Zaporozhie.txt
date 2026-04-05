@@ -1,0 +1,127 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 117 112 131 }
+revolutionary_colors = { 2 8 2 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Adrianos #1" = 10
+	"Agathe #0" = -1
+	"Andromenes #1" = 10
+	"Athanasios #1" = 10
+	"Avyaman-yan #1" = 10
+	"Bardas #1" = 10
+	"Bartholomaios #1" = 10
+	"Basillike #0" = -1
+	"Canca #0" = -1
+	"Cinhoedl #0" = 0
+	"Demaratos #1" = 10
+	"Demochares #1" = 10
+	"Dorotheos #3" = 10
+	"Epiphania #0" = -1
+	"Eunike #1" = -1
+	"Euphemios #1" = 10
+	"Euporia #1" = -1
+	"Eurydike #1" = -1
+	"Eurylochos #1" = 10
+	"Eustratios #1" = 10
+	"Faustus #1" = 10
+	"Gondar #0" = 0
+	"Gunasampade #0" = 0
+	"Hektorios #1" = 10
+	"Hippolytos #1" = 10
+	"Jetavam #1" = 10
+	"Jñati #1" = -1
+	"Konstas #2" = 10
+	"Kuenga #0" = 0
+	"Litovoi #1" = 10
+	"Mukalanti #2" = 10
+	"Naleye #1" = 10
+	"Naça #1" = -1
+	"Parthena #0" = -1
+	"Paschalis #0" = 0
+	"Philaretos #0" = 0
+	"Porphyrios #0" = 0
+	"Prabhankare #0" = 0
+	"Praksa #0" = 0
+	"Putere #0" = -1
+	"Raktadewe #0" = 0
+	"Ramtish #2" = 10
+	"Roce #0" = -1
+	"Rudramukhe #0" = 0
+	"Staurakios #1" = 10
+	"Teodor #1" = 10
+	"Theodomund #0" = 0
+	"Theodoulos #0" = 0
+	"Tisye #1" = -1
+	"Tudhaliya #0" = 0
+	"Vaniher #0" = 0
+	"Veaceslav #1" = 10
+	"Yase #1" = 10
+	"Zenobios #0" = 0
+}
+leader_names = {
+	"Andrukhovych"
+	"Cheremshyna"
+	"Dukhnovych"
+	"Holovatskyi"
+	"Hutsalo"
+	"Khvylovy"
+	"Kobylyanska"
+	"Korniychuk"
+	"Kostomarov"
+	"Kulish"
+	"Kvitka"
+	"Marinina"
+	"Palahniuk"
+	"Pokalchuk"
+	"Shashkevych"
+	"Stefanyk"
+	"Stelmakh"
+	"Tobilevich"
+	"Vovchok"
+	"Vyshnia"
+	"Zabara"
+}
+ship_names = {
+	"Akimivka"
+	"Dnieper"
+	"Energodar"
+	"Guliajpole"
+	"Khortytsia"
+	"Melitopol"
+	"Mikhaylovka"
+	"Orekhov"
+	"Pologi"
+	"Tokmak"
+	"Vesele"
+	"Viliansk"
+	"Zaporizhia Sich"
+	"Zaporozhian Voisko"
+}

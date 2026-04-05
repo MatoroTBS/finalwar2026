@@ -1,0 +1,62 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 45 112 100 }
+revolutionary_colors = { 8 0 14 }
+historical_idea_groups = {
+	horde_ideas
+	economic_ideas
+	quantity_ideas
+	spy_ideas
+	offensive_ideas
+	administrative_ideas
+	quality_ideas
+	trade_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Abagha #1" = 10
+	"Ambaghai #1" = 10
+	"Amgalan #1" = 10
+	"Belgunutei #1" = 10
+	"Bermet #0" = -1
+	"Bonyak #2" = 10
+	"Byorte #0" = -1
+	"Checheyigen #1" = -1
+	"Dilek #0" = -1
+	"Gombozab #0" = 0
+	"Guchu #3" = 10
+	"Iturgen #1" = 10
+	"Jochi #1" = 10
+	"Khadagh #1" = 10
+	"Khanda #0" = -1
+	"Kokochu #1" = 10
+	"Kokotoy #1" = 10
+	"Kozel #1" = 10
+	"Kubasar #1" = 10
+	"Könçek #1" = 10
+	"Manas #1" = 10
+	"Okhotur #1" = 10
+	"Sanzima #0" = -1
+	"Shiraghul #1" = 10
+	"Shirgugetu #0" = 0
+	"Soyolma #0" = -1
+	"Sugr #1" = 10
+	"Temujin #1" = 10
+	"Temulun #0" = -1
+	"Toghun #2" = 10
+	"Tsydyp #0" = 0
+	"Yesugun #1" = -1
+	"Zargalma #0" = -1
+}

@@ -1,0 +1,88 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 195 149 155 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	russian_cuirassier
+	russian_lancer
+	russian_mass
+	slavic_stradioti
+}
+monarch_names = {
+	"Alexandra #1" = -1
+	"Arelis #0" = 0
+	"Arunas #1" = 10
+	"Athanasios #0" = 0
+	"Budo #1" = 10
+	"Dagonis #0" = 0
+	"Dravenis #1" = 10
+	"Garyphallia #2" = -1
+	"Gauronas #1" = 10
+	"Gelennis #1" = -1
+	"Gerkus #1" = -1
+	"Gunasampade #0" = 0
+	"Kunacamttrakau #0" = 0
+	"Leon #1" = 10
+	"Milyuns #0" = -1
+	"Movkoldas #1" = 10
+	"Nikephoros #1" = 10
+	"Paroi #0" = -1
+	"Rimantas #1" = 10
+	"Roxana #1" = -1
+	"Shan #0" = 0
+	"Sthulananda #0" = -1
+	"Svarnas #1" = 10
+	"Upatisye #0" = -1
+	"Wiryasiñi #1" = 10
+	"Yi'an #0" = -1
+	"Ziedas #1" = -1
+}
+leader_names = {
+	"Jagiellon"
+	"Kedzierzawy"
+	"Leszczynski"
+	"Lubomirski"
+	"Piast"
+	"Poniatowski"
+	"Premyslid"
+	"Radziwill"
+	"Sapieha"
+	"Wisniowiecki"
+}
+ship_names = {
+	"Biebrza"
+	"Bug"
+	"Bzura"
+	"Kolno"
+	"Liwiec"
+	"Lowicz"
+	"Mlawa"
+	"Narew"
+	"Pilica"
+	"Radomka"
+	"Warszawa"
+	"Wisla"
+	"Wizna"
+	"Wkra"
+}

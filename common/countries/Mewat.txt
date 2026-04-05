@@ -1,0 +1,102 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 107 21 196 }
+revolutionary_colors = { 13 9 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	aristocracy_ideas
+	religious_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Andhraka #1" = 10
+	"Bahadur-Singh #0" = 0
+	"Beejpal #0" = 0
+	"Berkya #1" = 10
+	"Bhagadatta #2" = 10
+	"Bhikhari #2" = 10
+	"Bhojavarman #0" = 0
+	"Dhatusena #0" = 0
+	"Dhruvasvamini #0" = -1
+	"Gayatri #1" = -1
+	"Gopal #0" = 0
+	"Gopalavarma #1" = 10
+	"Gulçiçek #0" = -1
+	"Jaganpal #5" = 10
+	"Jagdev #2" = 10
+	"Jagdeva #0" = 0
+	"Khsetravridha #1" = 10
+	"Kunwarpal #0" = 0
+	"Manaladevi #0" = -1
+	"Nattadevi #1" = -1
+	"Prabhavati #0" = -1
+	"Rajamati #0" = -1
+	"Rajrajendranarayan #1" = 10
+	"Ratnadevi #0" = -1
+	"Sallaksanavarman #0" = 0
+	"Shah Nawaz #0" = 0
+	"Suvrata #1" = -1
+	"Varshapala #1" = 10
+	"Yajnavati #1" = -1
+}
+leader_names = {
+	"Bhumla"
+	"Budh"
+	"Dip"
+	"Granth"
+	"Jhotti"
+	"Jodh"
+	"Krishan"
+	"Kulendra"
+	"Lohaar"
+	"Parmanand"
+	"Rai"
+	"Rajsingh"
+	"Sardul"
+	"Shergill"
+	"Sodhi"
+	"Sohal"
+	"Udasi"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Ghaggar"
+	"Godwar"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Luni"
+	"Marwar ka Nav"
+	"Merwar ka Nav"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Rani"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sekhawati"
+	"Sita"
+}

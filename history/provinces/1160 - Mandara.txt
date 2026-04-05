@@ -1,0 +1,12 @@
+owner = Z13
+controller = Z13
+capital = "Wandala"
+is_city = yes
+culture = dynamic-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = tropical_wood
+base_tax = 6
+base_production = 6
+base_manpower = 7
+add_core = Z13
+discovered_by = sub_saharan

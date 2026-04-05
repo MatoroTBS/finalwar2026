@@ -1,0 +1,123 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 122 179 97 }
+revolutionary_colors = { 8 5 0 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ajatashatru #1" = 10
+	"Amritnarayan #0" = 0
+	"Asima #0" = -1
+	"Ayus #1" = 10
+	"Ballalsen #0" = 0
+	"Bhairabendranarayan #0" = 0
+	"Bhogavati #0" = -1
+	"Bibibai #1" = -1
+	"Dattadevi #0" = -1
+	"Devavati #0" = -1
+	"Dhairjendranayaran #1" = 10
+	"Faustus #0" = 0
+	"Gajnarayan #0" = 0
+	"Gandharavati #0" = -1
+	"Gnaeus #0" = 0
+	"Govindachandra #1" = 10
+	"Harasimhadeva #1" = 10
+	"Hari Singh #1" = 10
+	"Hira #0" = -1
+	"Jadu #0" = 0
+	"Jayanarayan #3" = 10
+	"Kakanvati #0" = -1
+	"Kumarapala #1" = 10
+	"Ladahachandra #1" = 10
+	"Lakshminarayan #1" = 10
+	"Maga #0" = -1
+	"Mahendrani #0" = -1
+	"Naranarayan #0" = 0
+	"Narayana #0" = 0
+	"Narayanapala #0" = 0
+	"Nayapala #0" = 0
+	"Prannath #0" = 0
+	"Raghudev #2" = 10
+	"Rajendranarayan #0" = 0
+	"Rakjumari #1" = -1
+	"Ramapala #0" = 0
+	"Ranasura #1" = 10
+	"Ranjitsingha #0" = 0
+	"Samant Sen #1" = 10
+	"Shanibhangar #0" = 0
+	"Shiji #0" = 0
+	"Shurapala #0" = 0
+	"Sulakshanpal #1" = 10
+	"Syamadevi #0" = -1
+	"Syamala #0" = -1
+	"Uditanarayan #2" = 10
+	"Vakapala #0" = 0
+	"Vallal Sen #0" = 0
+	"Vapyata #1" = 10
+	"Vijnayavati #0" = -1
+	"Vishwasingha #0" = 0
+}
+leader_names = {
+	"Afridi"
+	"Awadhi"
+	"Bahadur"
+	"Bangash"
+	"Chand"
+	"Ghori"
+	"Hindustani"
+	"Karrani"
+	"Khan"
+	"Khilji"
+	"Lodi"
+	"Pundir"
+	"Sahgal"
+	"Sarwar"
+	"Satsangi"
+	"Sharqi"
+	"Siddiqui"
+	"Uzbek"
+	"Yousafzai"
+	"ud Daula"
+}
+ship_names = {
+	"Alia"
+	"Betwa"
+	"Fatimah"
+	"Gandak"
+	"Ghagra"
+	"Gomti"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Satlaj"
+	"Yamuna"
+	"Yasmine"
+}

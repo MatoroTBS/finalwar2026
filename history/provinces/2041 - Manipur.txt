@@ -1,0 +1,15 @@
+owner = Z1U
+controller = Z1U
+capital = "Imphal"
+is_city = yes
+culture = burmese
+religion = converted_dynamic_faith_147
+trade_goods = cloth
+base_tax = 1
+base_production = 4
+base_manpower = 2
+add_core = TAU
+add_core = Z1U
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

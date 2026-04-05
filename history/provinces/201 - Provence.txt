@@ -1,0 +1,22 @@
+owner = Z0E
+controller = Z0E
+capital = "Aix-en-Provence"
+is_city = yes
+culture = dynamic-roman-culture-num11
+religion = converted_dynamic_faith_143
+trade_goods = wine
+base_tax = 10
+base_production = 5
+base_manpower = 4
+extra_cost = 10
+center_of_trade = 1
+add_core = PRO
+add_core = Z0E
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+add_permanent_province_modifier = {
+	name = rhone_estuary_modifier
+	duration = -1
+}

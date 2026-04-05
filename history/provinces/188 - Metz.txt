@@ -1,0 +1,20 @@
+owner = Z2L
+controller = Z2L
+capital = "Metz"
+is_city = yes
+culture = dynamic-breton-culture-num2
+religion = converted_dynamic_faith_142
+trade_goods = glass
+base_tax = 6
+base_production = 5
+base_manpower = 6
+extra_cost = 8
+center_of_trade = 1
+add_core = Z2L
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+latent_trade_goods = {
+	coal
+}

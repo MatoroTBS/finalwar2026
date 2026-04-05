@@ -1,0 +1,14 @@
+owner = BNG
+controller = BNG
+capital = "Chakla"
+is_city = yes
+culture = dynamic-roman-culture-num9
+religion = converted_dynamic_faith_147
+trade_goods = tropical_wood
+base_tax = 8
+base_production = 7
+base_manpower = 5
+add_core = BNG
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

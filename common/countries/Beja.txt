@@ -1,0 +1,97 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 228 243 104 }
+revolutionary_colors = { 15 8 10 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Agiatis #1" = -1
+	"Alethia #1" = -1
+	"Anaximandros #0" = 0
+	"Archippe #0" = -1
+	"Arrhidaios #0" = 0
+	"Boidion #1" = -1
+	"Bêl-bêlshunu #1" = 10
+	"Dorkas #0" = -1
+	"Drusa #0" = -1
+	"Eirena #1" = -1
+	"Eirene #1" = -1
+	"Erouan #0" = 0
+	"Eubulos #0" = 0
+	"Felicia #0" = -1
+	"Helenos #0" = 0
+	"Jeddjiga #0" = -1
+	"Kallistratos #0" = 0
+	"Khaireddin #0" = 0
+	"Kleombrotos #0" = 0
+	"Lanassa #0" = -1
+	"Lusthammar-Marduk #1" = 10
+	"Lysimache #0" = -1
+	"Malthake #0" = -1
+	"Menankouda #0" = 0
+	"Meniske #1" = -1
+	"Nagasene #1" = -1
+	"Peithagoras #0" = 0
+	"Procula #1" = -1
+	"Raknaska #0" = -1
+	"Rum #0" = -1
+	"Sentiko #1" = 10
+	"Sostratos #0" = 0
+	"Spalyris #0" = 0
+	"Teisikrates #0" = 0
+	"Thekla #1" = -1
+	"Theophano #1" = -1
+	"Tiberius #0" = 0
+	"Weslikan #1" = -1
+}
+leader_names = {
+	"Amarar"
+	"Balawat"
+	"Banu Amir"
+	"Beni-Amer"
+	"Bisharin"
+	"Hadendowa"
+	"Hallenga"
+	"Hamran"
+	"Hederab"
+	"Nabtab"
+}
+ship_names = {
+	"Asayita"
+	"Aura"
+	"Awash"
+	"Berahle"
+	"Chifra"
+	"Dallol"
+	"Dubti"
+	"Dulecha"
+	"Elidar"
+	"Ewa"
+	"Gewane"
+	"Koneba"
+	"Mille"
+	"Semera"
+	"Simurobi"
+	"Yalo"
+}

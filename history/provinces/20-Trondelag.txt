@@ -1,0 +1,16 @@
+owner = Z21
+controller = Z21
+capital = "Trondheim"
+is_city = yes
+culture = norwegian
+religion = converted_dynamic_faith_143
+trade_goods = fish
+base_tax = 8
+base_production = 6
+base_manpower = 6
+extra_cost = 8
+center_of_trade = 1
+add_core = NOR
+add_core = Z21
+discovered_by = eastern
+discovered_by = western

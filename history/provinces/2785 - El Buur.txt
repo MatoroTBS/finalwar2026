@@ -1,0 +1,16 @@
+owner = Z1B
+controller = Z1B
+capital = "El Buur"
+is_city = yes
+culture = somali
+religion = converted_dynamic_faith_149
+trade_goods = iron
+base_tax = 6
+base_production = 5
+base_manpower = 5
+add_core = ADA
+add_core = Z1B
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

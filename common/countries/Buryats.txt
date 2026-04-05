@@ -1,0 +1,146 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 70 130 180 }
+revolutionary_colors = { 13 0 8 }
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Aibek #0" = 0
+	"Amgalan #1" = 10
+	"Asalup #2" = 10
+	"Bachman #1" = 10
+	"Badma #2" = 10
+	"Bair #0" = 0
+	"Bairma #0" = -1
+	"Balzhinima #0" = 0
+	"Bexak #0" = 0
+	"Bilduu #0" = -1
+	"Doregene #1" = -1
+	"Duba #0" = 0
+	"Dulma #0" = -1
+	"Erdenebal #0" = 0
+	"Erdeni #0" = -1
+	"Eshegen #2" = 10
+	"Galsan #0" = 0
+	"Gelennis #0" = -1
+	"Gulichi #0" = 0
+	"Gulçiçek #0" = -1
+	"Ilkay #0" = -1
+	"Jyrgal #0" = 0
+	"Khadagan #0" = -1
+	"Khanda #0" = -1
+	"Khermen #1" = 10
+	"Khugurchin #1" = -1
+	"Kopti #0" = 0
+	"Ligdan #0" = 0
+	"Mala #0" = -1
+	"Manas #0" = 0
+	"Mergen #2" = 10
+	"Namzila #0" = -1
+	"Oghul #0" = -1
+	"Saran #0" = -1
+	"Saru #1" = 10
+	"Secundus #0" = 0
+	"Seitek #0" = 0
+	"Semetei #0" = 0
+	"Sodnom #0" = 0
+	"Songul #0" = -1
+	"Sorkhaghatani #0" = -1
+	"Soyolma #0" = -1
+	"Temyulen #0" = -1
+	"Tokpa #0" = 0
+	"Tolui #0" = 0
+	"Tolun #0" = 0
+	"Tsyren #1" = 10
+	"Tsyrendashi #0" = 0
+	"Töregene #1" = -1
+	"Törtogul #0" = 0
+	"Urzin #1" = 10
+	"Usunbike #0" = -1
+	"Yokhunan #0" = 0
+	"Çilbu #1" = 10
+}
+leader_names = {
+	"Abaga"
+	"Abaganar"
+	"Ast"
+	"Borjigin"
+	"Chagaan"
+	"Chakhar"
+	"Darqan"
+	"Hohhot"
+	"Jurim"
+	"Karakorum"
+	"Khalkha"
+	"Kharachin"
+	"Khorchin"
+	"Noyan"
+	"Onriut"
+	"Ordos"
+	"Tümed"
+	"Ulanqab"
+	"Uriankhai"
+	"Wang"
+	"Xilingol"
+	"Yingchang"
+	"Yungshiyebu"
+}
+ship_names = {
+	"Adai"
+	"Batu"
+	"Bo'orchu"
+	"Borokhula"
+	"Böke"
+	"Chagaan"
+	"Chilaun"
+	"Dharmapala"
+	"Dörben Külü'üd"
+	"Dörben Noyas"
+	"Elbeg"
+	"Ghengis Khan"
+	"Hohhot"
+	"Hülegü"
+	"Jebe"
+	"Jelme"
+	"Jinggim"
+	"Jöchi"
+	"Kamala"
+	"Karakorum"
+	"Khar Khiruge"
+	"Khubilai"
+	"Mugali"
+	"Möngke"
+	"Qubilai"
+	"Shikhikhutug"
+	"Sorqan Shira"
+	"Subutai"
+	"Tolui"
+	"Yelü Chucai"
+	"Yingchang"
+	"Ögödei"
+	"Örüg Temür"
+}

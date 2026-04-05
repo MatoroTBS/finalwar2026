@@ -1,0 +1,12 @@
+owner = GUR
+controller = GUR
+capital = "Lulama"
+is_city = yes
+culture = dynamic-mali-bozo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = grain
+base_tax = 2
+base_production = 3
+base_manpower = 2
+add_core = GUR
+discovered_by = sub_saharan

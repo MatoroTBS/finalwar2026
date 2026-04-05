@@ -1,0 +1,16 @@
+owner = Z0H
+controller = Z0H
+capital = "Zweibrücken"
+is_city = yes
+culture = dynamic-breton-culture-num12
+religion = converted_dynamic_faith_142
+trade_goods = cloth
+base_tax = 3
+base_production = 6
+base_manpower = 7
+add_core = Z0H
+add_core = Z0I
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

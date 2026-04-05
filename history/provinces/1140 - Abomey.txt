@@ -1,0 +1,16 @@
+owner = Z0B
+controller = Z0B
+capital = "Allada"
+is_city = yes
+culture = aka
+religion = converted_dynamic_faith_144
+trade_goods = slaves
+base_tax = 2
+base_production = 8
+base_manpower = 5
+add_core = ASH
+add_core = Z0B
+discovered_by = sub_saharan
+native_size = 60
+native_ferocity = 4
+native_hostileness = 9

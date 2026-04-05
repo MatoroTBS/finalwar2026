@@ -1,0 +1,13 @@
+owner = DAM
+controller = DAM
+capital = "Fofa"
+is_city = yes
+culture = dynamic-somali-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = slaves
+base_tax = 4
+base_production = 5
+base_manpower = 4
+add_core = DAM
+discovered_by = east_african
+discovered_by = muslim

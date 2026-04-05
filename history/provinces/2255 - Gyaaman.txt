@@ -1,0 +1,12 @@
+owner = Z2K
+controller = Z2K
+capital = "Amanvi"
+is_city = yes
+culture = mali
+religion = converted_dynamic_faith_142
+trade_goods = coffee
+base_tax = 8
+base_production = 5
+base_manpower = 4
+add_core = Z2K
+discovered_by = sub_saharan

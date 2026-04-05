@@ -1,0 +1,79 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 235 35 35 }
+revolutionary_colors = { 10 0 8 }
+historical_idea_groups = {
+	horde_ideas
+	economic_ideas
+	quantity_ideas
+	spy_ideas
+	offensive_ideas
+	administrative_ideas
+	quality_ideas
+	trade_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Androsthenes #1" = 10
+	"Arrhabaios #1" = 10
+	"Baishinkhor Dogshin #0" = 0
+	"Bedugun #0" = 0
+	"Berke #0" = 0
+	"Borte #0" = -1
+	"Checheyigen #0" = -1
+	"Chilbuk #0" = 0
+	"Conchaka #0" = -1
+	"Devavati #1" = -1
+	"Dhrtirastre #0" = -1
+	"Epokillos #1" = 10
+	"Gayakasyape #0" = 0
+	"Gorgos #1" = 10
+	"Goshtasb #1" = 10
+	"Hierax #1" = 10
+	"Hormoz #1" = 10
+	"Indradhvaje #0" = 0
+	"Jñanasome #1" = 10
+	"Kalodaye #2" = 10
+	"Kapilavarne #0" = 0
+	"Khachigun #0" = 0
+	"Khutulun #0" = -1
+	"Klpapatre #2" = 10
+	"Koinos #1" = 10
+	"Leosthenes #1" = 10
+	"Lydiadas #1" = 10
+	"Mania #1" = -1
+	"Maya #0" = -1
+	"Menggei #0" = 0
+	"Nanai-thvar #1" = 10
+	"Nanaikhsay #2" = 10
+	"Ogodei #1" = 10
+	"Olympias #1" = -1
+	"Pesane #0" = 0
+	"Philotis #1" = -1
+	"Purike #0" = -1
+	"Rajrajendranarayan #0" = 0
+	"Raknaska #0" = -1
+	"Saci #0" = -1
+	"Saputanase #0" = 0
+	"Siladewe #0" = 0
+	"Tati #0" = -1
+	"Tenare #0" = 0
+	"Uttaraphalguni #1" = 10
+	"Visale #1" = 10
+	"Warwattaske #1" = 10
+	"Yasa #0" = 0
+	"Yesunge #1" = 10
+	"Çeçtilet #0" = -1
+}

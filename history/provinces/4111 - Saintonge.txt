@@ -1,0 +1,16 @@
+owner = Z07
+controller = Z07
+capital = "Saintes"
+is_city = yes
+culture = dynamic-breton-culture-num4
+religion = converted_dynamic_faith_137
+trade_goods = grain
+fort_15th = yes
+base_tax = 8
+base_production = 8
+base_manpower = 8
+add_core = Z07
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

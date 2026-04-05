@@ -1,0 +1,16 @@
+owner = SAV
+controller = SAV
+capital = "Auch"
+is_city = yes
+culture = dynamic-breton-culture-num4
+religion = converted_dynamic_faith_141
+trade_goods = wool
+base_tax = 10
+base_production = 11
+base_manpower = 13
+add_core = AMG
+add_core = SAV
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,15 @@
+owner = Z08
+controller = Z08
+capital = "Le Mans"
+is_city = yes
+culture = dynamic-breton-culture-num10
+religion = converted_dynamic_faith_137
+trade_goods = cloth
+base_tax = 6
+base_production = 5
+base_manpower = 8
+add_core = Z08
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,136 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 161 126 128 }
+revolutionary_colors = { 14 8 4 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Aginaric #0" = 0
+	"Akakios #1" = 10
+	"Alexandros #0" = 0
+	"Amrapali #0" = -1
+	"Anathapindike #0" = 0
+	"Andhave #0" = 0
+	"Bansi #0" = 0
+	"Bappika #0" = -1
+	"Basileios #0" = 0
+	"Bhavashankari #1" = -1
+	"Bonyak #0" = 0
+	"Chremes #1" = 10
+	"Corneliu #1" = 10
+	"Dionos #1" = 10
+	"Dorothea #0" = -1
+	"Dotouzi #1" = 10
+	"Gabriel #0" = 0
+	"Gabrielia #0" = -1
+	"Gallus #0" = 0
+	"Gandharavati #0" = -1
+	"Golpari #0" = -1
+	"Hasna #0" = -1
+	"Hermes #1" = 10
+	"Hieronymos #0" = 0
+	"Iordanes #0" = 0
+	"Ioustina #0" = -1
+	"Ixeni #0" = -1
+	"Jira #0" = -1
+	"Kanchani #0" = -1
+	"Kentarske #0" = 0
+	"Khuyildar #0" = 0
+	"Kimne #0" = 0
+	"Leon #1" = 10
+	"Medea #1" = -1
+	"Mikova #1" = -1
+	"Mircea #1" = 10
+	"Mitrakseme #0" = 0
+	"Mustafa #0" = 0
+	"Nagasene #0" = -1
+	"Nandake #1" = 10
+	"Nikephoros #0" = 0
+	"Parmenion #1" = 10
+	"Petre #1" = 10
+	"Phyllis #0" = -1
+	"Priyasarini #0" = -1
+	"Putere #1" = -1
+	"Pytheas #0" = 0
+	"Rholes #0" = 0
+	"Roibana #0" = -1
+	"Roxana #0" = -1
+	"Sanavasi #1" = 10
+	"Satish #0" = 0
+	"Septimus #1" = 10
+	"Shukladhwaj #0" = 0
+	"Sita #0" = -1
+	"Slacamndre #1" = 10
+	"Sumagati #1" = -1
+	"Suvrata #0" = -1
+	"Tarmaraksite #1" = 10
+	"Uppal #1" = -1
+	"Uppalavarna #1" = -1
+	"Vaniher #0" = 0
+	"Yajnavati #0" = -1
+	"Zacharias #0" = 0
+}
+leader_names = {
+	"Basarab"
+	"Brâncoveanu"
+	"Cantacuzino"
+	"Caragea"
+	"Craiovescu"
+	"Dracul"
+	"Duca"
+	"Ghica"
+	"Golescu"
+	"Ilias"
+	"Ipsilanti"
+	"Mavrocordat"
+	"Mircea"
+	"Moruzi"
+	"Racovita"
+	"Sutu"
+	"Tepelus"
+	"Tolmay"
+	"Vacarescu"
+	"Voda"
+}
+ship_names = {
+	"Atacul de noapte"
+	"Calugareni"
+	"Dracul"
+	"Frumuseatsa valurilor"
+	"Litovoi"
+	"Posada"
+	"Putera"
+	"Rovine"
+	"Sirmium"
+	"Sperietoaria"
+	"Viteazul"
+	"mari"
+}
+army_names = {
+	"Oastea de $PROVINCE$"
+}

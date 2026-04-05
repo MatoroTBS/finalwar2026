@@ -1,0 +1,14 @@
+owner = NPL
+controller = NPL
+capital = "Sakya"
+is_city = yes
+culture = dynamic-bengali-culture-num2
+religion = converted_dynamic_faith_147
+trade_goods = livestock
+base_tax = 7
+base_production = 5
+base_manpower = 4
+add_core = NPL
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

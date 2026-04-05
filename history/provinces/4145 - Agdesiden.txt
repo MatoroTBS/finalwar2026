@@ -1,0 +1,15 @@
+owner = Z1E
+controller = Z1E
+capital = "Mandal"
+is_city = yes
+culture = dynamic-gothic-norwegian-culture-num1
+religion = converted_dynamic_faith_143
+trade_goods = iron
+base_tax = 8
+base_production = 6
+base_manpower = 5
+add_core = Z1E
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,15 @@
+owner = Z1B
+controller = Z1B
+capital = "Bale"
+is_city = yes
+culture = dynamic-somali-sidamo-culture-num1
+religion = converted_dynamic_faith_137
+trade_goods = incense
+base_tax = 8
+base_production = 5
+base_manpower = 5
+add_core = Z1B
+discovered_by = east_african
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

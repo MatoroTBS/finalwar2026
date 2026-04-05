@@ -1,0 +1,59 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+religion = converted_dynamic_faith_137
+primary_culture = dynamic-samoyed-vepsian-culture-num1
+capital = 2254
+add_accepted_culture = dynamic-aka-culture-num1
+add_accepted_culture = mali
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Tada"
+		dynasty = "Yungur-Cabra"
+		adm = 1
+		dip = 3
+		mil = 3
+		birth_date = 1394.2.2
+		female = yes
+		religion = converted_dynamic_faith_137
+		culture = dynamic-samoyed-vepsian-culture-num1
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bore Wo"
+		dynasty = "Tiefo"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = Z03
+		birth_date = 1412.5.16
+		death_date = 1472.5.16
+		religion = converted_dynamic_faith_137
+		culture = dynamic-samoyed-vepsian-culture-num1
+	}
+	add_queen_personality = bold_fighter_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Galya"
+		monarch_name = "Galya"
+		dynasty = "Yungur-Cabra"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1429.5.1
+		death_date = 1494.5.1
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_137
+		culture = dynamic-samoyed-vepsian-culture-num1
+	}
+	add_heir_personality = malevolent_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 101
+	add_treasury = 0
+}

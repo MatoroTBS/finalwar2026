@@ -1,0 +1,106 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 104 137 140 }
+revolutionary_colors = { 13 8 13 }
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+historical_units = {
+	anglofrench_line
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_galloglaigh
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Adiatorix #1" = 10
+	"Ailpín #1" = 10
+	"Ainbchellach #1" = 10
+	"Alvydas #0" = 0
+	"Anfudán #1" = 10
+	"Brandub #0" = 0
+	"Béoáed #1" = 10
+	"Cainnech #0" = -1
+	"Caradoc #0" = 0
+	"Cellach #1" = -1
+	"Cernach #1" = 10
+	"Coirpre #0" = 0
+	"Conmac #1" = 10
+	"Cú-Allaid #1" = 10
+	"Donncuan #1" = 10
+	"Donnucán #0" = 0
+	"Dub-dá-Lethe #1" = 10
+	"Dubán #1" = 10
+	"Díglach #1" = 10
+	"Dúnlaith #0" = -1
+	"Eochu #1" = 10
+	"Ercáed #1" = 10
+	"Faílbe #1" = 10
+	"Fedach #1" = 10
+	"Ferdomnach #0" = 0
+	"Fintan #1" = 10
+	"Flann #1" = 10
+	"Forbassach #1" = 10
+	"Fothad #1" = 10
+	"Glaschu #0" = 0
+	"Iacob #1" = 10
+	"Lachtnéne #1" = 10
+	"Liam #1" = 10
+	"Lucifer #1" = 10
+	"Marcus #1" = 10
+	"Máel-Mórda #1" = 10
+	"Máel-Ruanaid #2" = 10
+	"Niallán #1" = 10
+	"Publia #0" = -1
+	"Rechtabra #1" = 10
+	"Seán #1" = 10
+	"Tomás #1" = 10
+	"Tressach #1" = 10
+	"Tuathflaith #1" = -1
+	"Uargus #1" = 10
+	"Échtgal #1" = 10
+	"Énna #0" = 0
+	"Érennach #1" = 10
+	"Ólchobar #1" = 10
+	"Órlaith #1" = -1
+}
+leader_names = {
+	"Barry"
+	"Boyle"
+	"Darcy"
+	"FitzGerald"
+	"FitzThomas"
+	"MacCarthy"
+	"O'Brien"
+	"O'Neill"
+	"Sarsfield"
+	"Talbot"
+}
+ship_names = {
+	"Clare"
+	"Cork"
+	"Deas Mhuman"
+	"Kerry"
+	"Lar Mumhan"
+	"Limerick"
+	"Tipperary"
+	"Tuad Mhuman"
+	"Urh Mumhan"
+	"Waterford"
+}

@@ -1,0 +1,16 @@
+owner = Z0H
+controller = Z0H
+capital = "Straubing"
+is_city = yes
+culture = theodisc
+religion = converted_dynamic_faith_137
+trade_goods = glass
+base_tax = 5
+base_production = 3
+base_manpower = 2
+add_core = ROM
+add_core = Z0H
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

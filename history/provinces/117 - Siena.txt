@@ -1,0 +1,15 @@
+owner = PIS
+controller = PIS
+capital = "Siena"
+is_city = yes
+culture = dynamic-roman-culture-num2
+religion = converted_dynamic_faith_143
+trade_goods = glass
+base_tax = 10
+base_production = 12
+base_manpower = 12
+add_core = PIS
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,15 @@
+owner = DAM
+controller = DAM
+capital = "Ankober"
+is_city = yes
+culture = amhara
+religion = converted_dynamic_faith_137
+trade_goods = grain
+base_tax = 12
+base_production = 9
+base_manpower = 8
+add_core = DAM
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

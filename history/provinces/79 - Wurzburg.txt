@@ -1,0 +1,15 @@
+owner = SAX
+controller = SAX
+capital = "Würzburg"
+is_city = yes
+culture = dynamic-breton-pruthenian-culture-num1
+religion = converted_dynamic_faith_142
+trade_goods = wine
+base_tax = 10
+base_production = 8
+base_manpower = 4
+add_core = SAX
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

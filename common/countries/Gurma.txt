@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 71 133 178 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	mali_tribal_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Abakar #0" = 0
+	"Abram #0" = 0
+	"Ankabi #0" = 0
+	"Aoua #0" = -1
+	"Baadindiye #1" = 10
+	"Baba #0" = 0
+	"Bad #0" = 0
+	"Besse #2" = 10
+	"Bilali #1" = 10
+	"Biyan #1" = 10
+	"Boumi #1" = 10
+	"Burkomanda #2" = 10
+	"Buù #0" = 0
+	"Dalai #0" = 0
+	"Dalo #0" = 0
+	"Dangey #0" = -1
+	"Dimbi #1" = -1
+	"Dulugu #0" = 0
+	"Dum #0" = 0
+	"Dwiyongi #1" = 10
+	"Falaku #0" = 0
+	"Fatim #0" = -1
+	"Fi #1" = 10
+	"Hassana #0" = -1
+	"Heria #0" = -1
+	"Huseina #0" = -1
+	"Karaway #0" = 0
+	"Keina #1" = 10
+	"Kibu’U #0" = 0
+	"Kisra #1" = 10
+	"Kora #1" = 10
+	"Kouton #0" = -1
+	"Kugis #0" = 0
+	"Kusure #0" = -1
+	"Laraba #0" = 0
+	"Mahama #0" = 0
+	"Malo #0" = 0
+	"Ngarmaba #1" = 10
+	"Nuh #0" = 0
+	"Ouankoy #1" = 10
+	"Sikam #0" = 0
+	"Takoi #1" = 10
+	"Tula #0" = 0
+	"Warja #1" = 10
+	"Wenkouni #0" = -1
+	"Win #0" = -1
+	"Wumborja #0" = 0
+	"Yalla #0" = -1
+	"Yenkuaga #0" = 0
+	"Zaynab #0" = -1
+}
+leader_names = {
+	"Addy"
+	"Afrifa"
+	"Akoto"
+	"Donkor"
+	"Moyoyo"
+	"Offei"
+	"Sabah"
+	"Sadami"
+	"Sribor"
+	"Zakari"
+}
+ship_names = {
+	"Asase Yaa"
+	"Benada"
+	"Bia"
+	"Dwoada"
+	"Fiada"
+	"Kwasiada"
+	"Memeneda"
+	"Nyame"
+	"Tano"
+	"Wukuada"
+	"Yawoada"
+}
