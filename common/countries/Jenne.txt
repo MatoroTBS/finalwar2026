@@ -29,6 +29,7 @@ monarch_names = {
 	"Adiatorix #2" = 10
 	"Adja #1" = -1
 	"Appius #0" = 0
+	"Azzah #0" = -1
 	"Bitorix #1" = 10
 	"Dalai #1" = 10
 	"Daramani #1" = 10

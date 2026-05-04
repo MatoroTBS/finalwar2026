@@ -1,128 +1,56 @@
 government = monarchy
-add_government_reform = indian_sultanate_reform
-government_rank = 1
+add_government_reform = plutocratic_reform
+government_rank = 3
 technology_group = indian
-religion = sunni
-primary_culture = telegu
-capital = 545
-religious_school = hanafi_school
-1724.1.1= {
+religion = hinduism
+primary_culture = kashmiri
+capital = 522
+mercantilism = 15
+1444.11.11= {
 	monarch = {
-		name = "Asaf Jah I" #Qamar-ud-din Khan
-		dynasty = "Asaf Jahi"
-		DIP = 4
-		ADM = 3
-		MIL = 5
+		name = "Kshma"
+		dynasty = "Vijayid"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1402.2.25
+		female = yes
+		religion = hinduism
+		culture = kashmiri
 	}
-}
-1724.1.1= {
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Drusus"
+		dynasty = "Gallius"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = DEC
+		birth_date = 1399.1.26
+		death_date = 1459.1.26
+		religion = hinduism
+		culture = dynamic-roman-culture-num9
+	}
+	add_queen_personality = malevolent_personality
+	add_queen_personality = obsessive_perfectionist_personality
 	heir = {
-		name = "Muhammad Nasr Jang"
-		monarch_name = "Muhammad Nasr Jang"
-		dynasty = "Asaf Jahi"
-		birth_date = 1712.2.26
-		death_date = 1750.12.16
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+		name = "Lakshmandeva"
+		monarch_name = "Lakshmandeva"
+		dynasty = "Shishungid"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 1425.4.12
+		death_date = 1490.4.12
+		claim = 89
+		religion = hinduism
+		culture = avadhi
 	}
+	add_heir_personality = strict_personality
+	add_heir_personality = zealot_personality
 }
-1748.6.2= {
-	monarch = {
-		name = "Muhammad Nasr Jang"
-		dynasty = "Asaf Jahi"
-		DIP = 1
-		ADM = 2
-		MIL = 2
-	}
-}
-1748.6.2= {
-	heir = {
-		name = "Asaf ud-Daula Jang"
-		monarch_name = "Muzaffar Jang"
-		dynasty = "Asaf Jahi"
-		birth_date = 1718.11.24
-		death_date = 1751.2.13
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 3
-	}
-}
-1750.12.16= {
-	monarch = {
-		name = "Muzaffar Jang"
-		dynasty = "Asaf Jahi"
-		DIP = 0
-		ADM = 0
-		MIL = 3
-	}
-}
-1750.12.16= {
-	heir = {
-		name = "Ali Khan"
-		monarch_name = "Ali Khan"
-		dynasty = "Asaf Jahi"
-		birth_date = 1734.3.7
-		death_date = 1803.8.6
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 0
-	}
-}
-1751.2.13= {	#Installed by the French
-	monarch = {
-		name = "Salabat Jung"
-		dynasty = "Asaf Jahi"
-		DIP = 0
-		ADM = 0
-		MIL = 3
-	}
-}
-1762.6.26= {
-	monarch = {
-		name = "Ali Khan"
-		dynasty = "Asaf Jahi"
-		DIP = 1
-		ADM = 1
-		MIL = 0
-	}
-	capital = 542	# Hyderabad
-}
-1768.11.11= {
-	heir = {
-		name = "Sikandar Jah"
-		monarch_name = "Sikandar Jah"
-		dynasty = "Asaf Jahi"
-		birth_date = 1768.11.11
-		death_date = 1829.5.21
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
-	}
-}
-1803.1.1= {
-	monarch = {
-		name = "Sikandar Jah"
-		dynasty = "Asaf Jahi"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-1803.1.1= {
-	heir = {
-		name = "Nasir-ud-dawlah"
-		monarch_name = "Nasir-ud-dawlah"
-		dynasty = "Asaf Jahi"
-		birth_date = 1794.4.25
-		death_date = 1857.5.16
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
-	}
+1444.11.11= {
+	add_prestige = 99
+	add_treasury = 77
 }

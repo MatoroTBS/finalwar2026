@@ -6,6 +6,7 @@ religion = converted_dynamic_faith_140
 primary_culture = dynamic-breton-persian-culture-num1
 capital = 1208
 add_accepted_culture = dynamic-breton-culture-num4
+add_accepted_culture = dynamic-nubian-somali-culture-num1
 set_country_flag = ZZZ_generated_converter_nation
 1444.11.11= {
 	monarch = {

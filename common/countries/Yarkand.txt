@@ -62,6 +62,7 @@ monarch_names = {
 	"Samtish #0" = 0
 	"Savkëlti #0" = -1
 	"Sevenç #0" = 0
+	"Sevindik #0" = -1
 	"Sirin #0" = -1
 	"Tarxun #1" = 10
 	"Tsyrma #0" = -1

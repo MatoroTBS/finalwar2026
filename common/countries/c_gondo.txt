@@ -11,6 +11,7 @@ monarch_names = {
 	"Biyan #1" = 10
 	"Dabo #0" = 0
 	"Daramani #2" = 10
+	"Fadima #0" = -1
 	"Fatoumata #0" = -1
 	"Gonlekpei #0" = 0
 	"Hargani #1" = 10

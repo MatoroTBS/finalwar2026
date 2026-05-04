@@ -1,221 +1,55 @@
-government = tribal
-add_government_reform = steppe_horde
+government = monarchy
+add_government_reform = feudal_theocracy
 government_rank = 1
-technology_group = nomad_group
-religion = sunni
-primary_culture = khazak
-capital = 1969
-religious_school = hanafi_school
-historical_rival = SHY
-1465.1.1= {
+technology_group = eastern
+religion = zoroastrian
+primary_culture = dynamic-ostyaki-culture-num1
+capital = 2354
+1444.11.11= {
 	monarch = {
-		name = "Kerey"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 1
-		mil = 4
-	}
-}
-1474.1.1= {
-	monarch = {
-		name = "Janibek I"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 1
-		mil = 4
-	}
-}
-1480.1.1= {
-	monarch = {
-		name = "Burunduq"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-1511.1.1= {
-	monarch = {
-		name = "Qasim"
-		dynasty = "Genghisid"
+		name = "Chichayka"
+		dynasty = "Vaspukhol"
 		adm = 4
-		dip = 3
-		mil = 4
-	}
-}
-1522.1.1= {
-	monarch = {
-		name = "Mamash"
-		dynasty = "Genghisid"
-		adm = 3
 		dip = 2
-		mil = 3
+		mil = 4
+		birth_date = 1411.6.14
+		religion = zoroastrian
+		culture = dynamic-ostyaki-culture-num1
 	}
-}
-1522.1.1= { capital = 1970 }
-1523.1.1= {
-	monarch = {
-		name = "Tahir"
-		dynasty = "Genghisid"
-		adm = 3
-		dip = 3
-		mil = 2
-	}
-}
-1533.1.1= {
-	monarch = {
-		name = "Buydash"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 1
-		mil = 1
-	}
-}
-1538.1.1= {
-	monarch = {
-		name = "Haqnazar"
-		dynasty = "Genghisid"
-		adm = 3
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Nyv"
+		dynasty = "Ganzorig-Sibir"
+		adm = 4
 		dip = 4
-		mil = 3
+		mil = 4
+		country_of_origin = KZH
+		birth_date = 1412.5.14
+		death_date = 1472.5.14
+		female = yes
+		religion = zoroastrian
+		culture = dynamic-ostyaki-culture-num1
 	}
-}
-1580.1.1= {
-	monarch = {
-		name = "Shighay"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 1
-		mil = 0
-	}
-}
-1582.1.1= {
-	monarch = {
-		name = "Tawekel"
-		dynasty = "Genghisid"
-		adm = 3
+	add_queen_personality = drunkard_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Tuhan"
+		monarch_name = "Tuhan"
+		dynasty = "Vaspukhol"
+		adm = 6
 		dip = 3
 		mil = 4
+		birth_date = 1432.3.1
+		death_date = 1497.3.1
+		claim = 89
+		religion = zoroastrian
+		culture = dynamic-ostyaki-culture-num1
 	}
+	add_heir_personality = infertile_personality
+	add_heir_personality = lawgiver_personality
 }
-1598.1.1= {
-	monarch = {
-		name = "Esim"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-1599.1.1= { capital = 456 }
-1628.1.1= {
-	monarch = {
-		name = "Janibek II"
-		dynasty = "Genghisid"
-		adm = 3
-		dip = 1
-		mil = 2
-	}
-}
-1643.1.1= {
-	monarch = {
-		name = "Jangir"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 1
-		mil = 2
-	}
-}
-1652.1.1= {
-	monarch = {
-		name = "Batir"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-1680.1.1= {
-	monarch = {
-		name = "Tauke"
-		dynasty = "Genghisid"
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-1718.1.1= {
-	monarch = {
-		name = "Qayip"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-1718.6.1= {
-	monarch = {
-		name = "Bulat"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-1729.1.1= {
-	monarch = {
-		name = "Sameke"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 1
-		mil = 1
-	}
-}
-1732.1.1= {
-	government_rank = 1
-}
-1734.1.1= {
-	monarch = {
-		name = "Jolbaris"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 0
-		mil = 1
-	}
-}
-1740.1.1= {
-	monarch = {
-		name = "Abilmambet"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 2
-		mil = 1
-	}
-}
-1771.1.1= {
-	monarch = {
-		name = "Abulay"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 1
-		mil = 0
-	}
-}
-1781.1.1= {
-	monarch = {
-		name = "Wali"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-1819.1.1= {
-	monarch = {
-		name = "Ghubaydulla"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 1
-		mil = 0
-	}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 69
 }

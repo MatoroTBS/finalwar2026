@@ -5,7 +5,6 @@ technology_group = indian
 religion = hinduism
 primary_culture = dynamic-bengali-culture-num12
 capital = 4458
-add_accepted_culture = malvi
 1444.11.11= {
 	monarch = {
 		name = "Pratapnarayan"

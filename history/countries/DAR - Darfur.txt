@@ -5,6 +5,7 @@ technology_group = muslim
 religion = converted_dynamic_faith_142
 primary_culture = berber
 capital = 1219
+add_accepted_culture = dynamic-sidamo-culture-num1
 add_accepted_culture = nubian
 1444.11.11= {
 	monarch = {

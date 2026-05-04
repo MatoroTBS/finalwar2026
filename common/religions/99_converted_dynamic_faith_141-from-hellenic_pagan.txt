@@ -1,7 +1,7 @@
 pagan = {
 	converted_dynamic_faith_141 = {
 		color = { 120 194 239 }
-		icon =  182
+		icon =  180
 		country = {
  
 		stability_cost_to_declare_war = 1

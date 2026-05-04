@@ -1,7 +1,7 @@
 pagan = {
 	converted_dynamic_faith_137 = {
 		color = { 153 132 239 }
-		icon =  178
+		icon =  176
 		country = {
  
 		global_missionary_strength = -0.01

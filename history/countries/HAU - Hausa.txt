@@ -5,7 +5,6 @@ technology_group = sub_saharan
 religion = converted_dynamic_faith_137
 primary_culture = zaghawa
 capital = 2279
-add_accepted_culture = berber
 1444.11.11= {
 	monarch = {
 		name = "Wahida"

@@ -5,6 +5,7 @@ technology_group = indian
 religion = converted_dynamic_faith_147
 primary_culture = dynamic-bengali-culture-num13
 capital = 4470
+add_accepted_culture = dynamic-roman-culture-num9
 1444.11.11= {
 	monarch = {
 		name = "Rajyapala"

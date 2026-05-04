@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = hellenic_pagan
+primary_culture = dynamic-breton-culture-num12
+capital = 4713
+fixed_capital = 4713
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Anauhouguel"
+		dynasty = "Viridius-Kaufbeuren"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1397.9.10
+		female = yes
+		religion = hellenic_pagan
+		culture = dynamic-breton-culture-num12
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = pious_personality
+	queen = {
+		name = "Auctune"
+		dynasty = "iš Notanga"
+		adm = 5
+		dip = 3
+		mil = 5
+		country_of_origin = Z34
+		birth_date = 1400.6.29
+		death_date = 1460.6.29
+		religion = converted_dynamic_faith_137
+		culture = dynamic-pruthenian-culture-num15
+	}
+	add_queen_personality = calm_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Sergonis"
+		monarch_name = "Sergonis"
+		dynasty = "iš Notanga"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1433.12.29
+		death_date = 1498.12.29
+		claim = 89
+		religion = converted_dynamic_faith_137
+		culture = dynamic-pruthenian-culture-num15
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 84
+	add_treasury = 72
+}

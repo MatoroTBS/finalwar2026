@@ -1,7 +1,7 @@
 pagan = {
 	converted_dynamic_faith_146 = {
 		color = { 209 2 104 }
-		icon =  187
+		icon =  185
 		allowed_conversion = {
  
 		buddhism

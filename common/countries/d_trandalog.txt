@@ -8,6 +8,7 @@ monarch_names = {
 	"Auðr #0" = -1
 	"Bóthildr #0" = -1
 	"Bótólfr #2" = 10
+	"Camilla #0" = -1
 	"Camma #1" = 10
 	"Eidwalda #1" = -1
 	"Einar #1" = 10

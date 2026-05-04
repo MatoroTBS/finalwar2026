@@ -5,6 +5,7 @@ technology_group = sub_saharan
 religion = converted_dynamic_faith_142
 primary_culture = dynamic-dyola-mali-culture-num1
 capital = 2238
+add_accepted_culture = senegambian
 1444.11.11= {
 	monarch = {
 		name = "Proculus II"

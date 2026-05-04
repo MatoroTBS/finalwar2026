@@ -6,7 +6,6 @@ religion = converted_dynamic_faith_148
 primary_culture = fulani
 capital = 1124
 add_accepted_culture = dynamic-dyola-mali-culture-num1
-add_accepted_culture = senegambian
 1444.11.11= {
 	monarch = {
 		name = "Yerim"
@@ -31,7 +30,7 @@ add_accepted_culture = senegambian
 		death_date = 1455.5.24
 		female = yes
 		religion = converted_dynamic_faith_137
-		culture = old_egyptian
+		culture = fulani
 	}
 	add_queen_personality = fertile_personality
 	add_queen_personality = tactical_genius_personality

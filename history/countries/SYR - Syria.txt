@@ -29,7 +29,7 @@ capital = 407
 		death_date = 1458.4.20
 		female = yes
 		religion = converted_dynamic_faith_140
-		culture = dynamic-trojan-culture-num1
+		culture = dynamic-greek-culture-num1
 	}
 	add_queen_personality = industrious_personality
 	add_queen_personality = martial_educator_personality

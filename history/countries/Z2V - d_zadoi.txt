@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = sumpa
+capital = 705
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Yarpalaske"
+		dynasty = "Gallius"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 1384.6.1
+		religion = hinduism
+		culture = sumpa
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	queen = {
+		name = "Syamadevi"
+		dynasty = "Chudmar"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = Z2V
+		birth_date = 1384.5.18
+		death_date = 1444.5.18
+		female = yes
+		religion = hinduism
+		culture = assamese
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Degyel"
+		monarch_name = "Degyel"
+		dynasty = "Gallius"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 1403.5.18
+		death_date = 1468.5.18
+		claim = 89
+		religion = hinduism
+		culture = sumpa
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 99
+	add_treasury = 68
+}

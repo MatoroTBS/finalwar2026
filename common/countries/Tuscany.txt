@@ -12,7 +12,6 @@ historical_idea_groups = {
 	economic_ideas
 	quality_ideas
 }
-historical_score = 75
 historical_units = {
 	austrian_grenzer
 	austrian_hussar
@@ -29,49 +28,37 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Adriano #0" = 0
-	"Alberto #0" = 10
-	"Alessandro #0" = 20
-	"Antonio #0" = 15
-	"Biagio #0" = 0
-	"Bonaventura #0" = 0
-	"Carlo #0" = 15
-	"Constantino #0" = 0
-	"Cosimo #0" = 60
-	"Danilo #0" = 0
-	"Eustachio #0" = 0
-	"Evangelista #0" = 0
-	"Ferdinando #0" = 60
-	"Filippo #0" = 15
-	"Francesco #0" = 20
-	"Francesco Stefano #0" = 20
-	"Gian Carlo #0" = 15
-	"Gian Gastone #0" = 20
-	"Giancarlo #0" = 0
-	"Giovanni #0" = 10
-	"Girolamo #0" = 0
-	"Giuliano #0" = 0
-	"Giuseppe #0" = 10
-	"Innocenzo #0" = 0
-	"Ippolito #0" = 0
-	"Leopoldo #0" = 10
-	"Lorenzo #0" = 0
-	"Luigi #0" = 10
-	"Luisella #0" = -1
-	"Marco #0" = 0
-	"Massimiliano #0" = 10
-	"Matteo #0" = 10
-	"Milena #0" = -1
-	"Paolina #0" = -1
-	"Pasquale #0" = 0
-	"Piero #0" = 0
-	"Pietro #0" = 15
-	"Pietro Leopoldo #0" = 20
-	"Raniero #0" = 10
-	"Rodolfo #0" = 10
-	"Salvestro #0" = 0
-	"Sergio #0" = 0
-	"Vitale #0" = 0
+	"Alena #1" = -1
+	"Amulius #0" = 0
+	"Arganthael #1" = -1
+	"Camillus #1" = 10
+	"Crabiele #0" = 0
+	"Elin #0" = -1
+	"Fausta #1" = -1
+	"Ferant #1" = 10
+	"Gerdautas #1" = 10
+	"Gnaea #1" = -1
+	"Goffredu #0" = 0
+	"Grasus #0" = -1
+	"Gunnare #0" = 0
+	"Karlos #1" = 10
+	"Lucia #1" = -1
+	"Mania #0" = -1
+	"Marcoger #0" = 0
+	"Maura #1" = -1
+	"Micheli #0" = 0
+	"Numerius #1" = 10
+	"Octavia #1" = -1
+	"Opiter #0" = 0
+	"Pirillu #0" = 0
+	"Primus #0" = 0
+	"Proculus #1" = 10
+	"Quinta #0" = -1
+	"Samaritanu #0" = 0
+	"Servius #0" = 0
+	"Titus #1" = 10
+	"Vintila #1" = 10
+	"Volesus #1" = 10
 }
 leader_names = {
 	"Allori"

@@ -1,5 +1,5 @@
-name = "Final War 2026"
-path = "mod/finalwar2026"
+name = "Converted - modipohja"
+path = "mod/modipohja"
 normal_or_historical_nations = yes
 supported_version = "v1.37.*"
 replace_path = "history/countries/"

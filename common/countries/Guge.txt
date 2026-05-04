@@ -64,6 +64,7 @@ monarch_names = {
 	"Samtish #0" = 0
 	"Savkëlti #0" = -1
 	"Sevenç #0" = 0
+	"Sevindik #0" = -1
 	"Shentsön #1" = 10
 	"Sirin #0" = -1
 	"Skirgaila #1" = 10

@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = indiangfx
 color = { 50 166 72 }
 revolutionary_colors = { 15 0 15 }
 historical_idea_groups = {
@@ -26,36 +26,17 @@ historical_units = {
 	tipu_sultan_rocket
 }
 monarch_names = {
-	"Amulia #1" = -1
-	"Appia #0" = -1
-	"Devi Ahiylya #0" = -1
-	"Drusa #0" = -1
-	"Ekkelis #0" = 0
-	"Flavius #1" = 10
-	"Galla #1" = -1
-	"Gerkus #0" = -1
-	"Glande #0" = 0
-	"Gnaea #0" = -1
-	"Grigoriy #0" = 0
-	"Gaia #0" = -1
-	"Iordanes #0" = 0
-	"Kugis #0" = 0
-	"Lucius #0" = 0
-	"Milyuns #0" = -1
-	"Octavius #0" = 0
-	"Opiter #0" = 0
-	"Potto #0" = 0
-	"Prima #0" = -1
-	"Roman #0" = 0
-	"Samudrasen #1" = 10
-	"Secunda #0" = -1
-	"Sheshch #0" = 0
-	"Tita #0" = -1
-	"Vibius #0" = 0
-	"Yefimia #0" = -1
-	"Yuriy #0" = 0
-	"Ziedas #1" = -1
-	"Zygimantas #0" = 0
+	"Bhairav Singh #0" = 20
+	"Bhanumati #0" = -1
+	"Bishwas Devi #0" = -10
+	"Dhir Singh #0" = 20
+	"Hari Singh #0" = 20
+	"Laxminath Singh #0" = 20
+	"Nar Singh #0" = 20
+	"Padma Singh #0" = 20
+	"Rambhadra Singh #0" = 20
+	"Sharat #0" = -1
+	"Shiv Singh #0" = 20
 }
 leader_names = {
 	"Baruah"

@@ -6,6 +6,7 @@ religion = hellenic_pagan
 primary_culture = dynamic-pruthenian-roman-culture-num2
 capital = 2282
 add_accepted_culture = dynamic-sidamo-culture-num1
+add_accepted_culture = kanuri
 1444.11.11= {
 	monarch = {
 		name = "Jauguttis"

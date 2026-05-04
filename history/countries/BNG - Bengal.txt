@@ -1,10 +1,10 @@
 government = monarchy
 add_government_reform = autocracy_reform
-government_rank = 2
+government_rank = 3
 technology_group = western
 religion = converted_dynamic_faith_140
 primary_culture = dynamic-roman-culture-num9
-capital = 2039
+capital = 1815
 1444.11.11= {
 	monarch = {
 		name = "Ziedas"

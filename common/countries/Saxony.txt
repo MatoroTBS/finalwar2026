@@ -51,7 +51,6 @@ monarch_names = {
 	"Jauguttis #1" = 10
 	"Jose #1" = 10
 	"Manius #1" = 10
-	"Oconea #0" = -1
 	"Olorix #1" = 10
 	"Postuma #0" = -1
 	"Sentica #1" = -1

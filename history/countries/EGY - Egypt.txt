@@ -5,7 +5,6 @@ technology_group = muslim
 religion = converted_dynamic_faith_145
 primary_culture = dynamic-berber-greek-carthaginian-roman-scythian-culture-num2
 capital = 4320
-add_accepted_culture = old_egyptian
 1444.11.11= {
 	monarch = {
 		name = "(Regency Council)"

@@ -62,6 +62,7 @@ monarch_names = {
 	"Srichandra #1" = 10
 	"Subarnachandra #0" = 0
 	"Sukhinpala #1" = 10
+	"Tiberia #0" = -1
 	"Vakapala #0" = 0
 	"Vishwasingha #0" = 0
 	"Wunna #0" = 0

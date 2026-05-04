@@ -1,56 +1,259 @@
 government = monarchy
-add_government_reform = autocracy_reform
+add_government_reform = feudalism_reform
 government_rank = 1
-technology_group = western
-religion = converted_dynamic_faith_146
-primary_culture = dynamic-gothic-norwegian-culture-num1
-capital = 1856
-add_accepted_culture = dynamic-georgian-trojan-culture-num1
-1444.11.11= {
-	monarch = {
-		name = "Walhild"
-		dynasty = "Gurges"
-		adm = 5
-		dip = 4
-		mil = 2
-		birth_date = 1378.3.15
-		female = yes
-		religion = converted_dynamic_faith_146
-		culture = dynamic-gothic-norwegian-culture-num1
+technology_group = eastern
+religion = orthodox
+primary_culture = georgian
+capital = 422
+1390.1.1= {
+	every_province = {
+		limit = { region = persia_region }
+		ROOT = { discover_province = PREV }
 	}
-	add_ruler_personality = fertile_personality
-	add_ruler_personality = silver_tongue_personality
-	queen = {
-		name = "Kauravye"
-		dynasty = "Kadike"
-		adm = 4
-		dip = 4
-		mil = 5
-		country_of_origin = IME
-		birth_date = 1381.5.17
-		death_date = 1441.5.17
-		religion = converted_dynamic_faith_137
-		culture = dynamic-greek-scythian-culture-num2
-	}
-	add_queen_personality = drunkard_personality
-	add_queen_personality = midas_touched_personality
-	heir = {
-		name = "Ríkúlfr"
-		monarch_name = "Ríkúlfr"
-		dynasty = "Gurges"
-		adm = 4
-		dip = 5
-		mil = 5
-		birth_date = 1418.12.20
-		death_date = 1483.12.20
-		claim = 89
-		religion = zoroastrian
-		culture = dynamic-gothic-norwegian-culture-num1
-	}
-	add_heir_personality = loose_lips_personality
-	add_heir_personality = righteous_personality
+	discover_province = 4170 
+	discover_province = 4172
 }
-1444.11.11= {
-	add_prestige = 112
-	add_treasury = 0
+1401.1.1= {
+	monarch = {
+		name = "Demetre I"
+		dynasty = "Bagrationi"
+		#death_date = 1478.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1446.1.1= {
+	monarch = {
+		name = "Demetre II"
+		dynasty = "Bagrationi"
+		#death_date = 1478.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1463.1.1= {
+	monarch = {
+		name = "Bagrat II"
+		dynasty = "Bagrationi"
+		#death_date = 1478.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+1478.1.1= {
+	monarch = {
+		name = "Aleksandre II"
+		dynasty = "Bagrationi"
+		#death_date = 1510.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1510.1.1= {
+	monarch = {
+		name = "Bagrat III"
+		dynasty = "Bagrationi"
+		#death_date = 1565.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+1565.1.1= {
+	monarch = {
+		name = "Giorgi II"
+		dynasty = "Bagrationi"
+		#death_date = 1585.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1573.1.1= {
+	monarch = {
+		name = "Levan"
+		dynasty = "Bagrationi"
+		birth_date = 1561.1.1
+		#death_date = 1590.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1588.1.1= {
+	monarch = {
+		name = "Rostom"
+		dynasty = "Bagrationi"
+		#death_date = 1605.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1589.1.1= {
+	monarch = {
+		name = "Bagrat IV"
+		dynasty = "Bagrationi"
+		#death_date = 1565.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+1590.1.1= {
+	monarch = {
+		name = "Rostom"
+		dynasty = "Bagrationi"
+		#death_date = 1605.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1605.1.1= {
+	monarch = {
+		name = "Giorgi III"
+		dynasty = "Bagrationi"
+		#death_date = 1639.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1639.1.1= {
+	monarch = {
+		name = "Aleksandre III"
+		dynasty = "Bagrationi"
+		#death_date = 1660.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1660.1.1= {
+	monarch = {
+		name = "Bagrat IV"
+		dynasty = "Bagrationi"
+		#death_date = 1681.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1681.1.1= {
+	monarch = {
+		name = "Giorgi IV"
+		dynasty = "Bagrationi"
+		#death_date = 1683.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+1683.1.1= {
+	monarch = {
+		name = "Aleksandre IV"
+		dynasty = "Bagrationi"
+		#death_date = 1695.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1695.1.1= {
+	monarch = {
+		name = "Archil"
+		dynasty = "Bagrationi"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+1696.1.1= {
+	monarch = {
+		name = "Giorgi V"
+		dynasty = "Bagrationi"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1699.1.1= {
+	monarch = {
+		name = "Svimon"
+		dynasty = "Bagrationi"
+		#death_date = 1701.1.1  #Assassinated
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+1701.1.1= {
+	monarch = {
+		name = "Mamia III"
+		dynasty = "Gurieli"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+1702.1.1= {
+	monarch = {
+		name = "Giorgi VI"
+		dynasty = "Abashidze"
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+1707.1.1= {
+	monarch = {
+		name = "Giorgi VII"
+		dynasty = "Bagrationi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1720.1.1= {
+	monarch = {
+		name = "Aleksandre V"
+		dynasty = "Bagrationi"
+		#death_date = 1752.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1752.1.1= {
+	monarch = {
+		name = "Solomon I"
+		dynasty = "Bagrationi"
+		#death_date = 1784.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1784.1.1= {
+	monarch = {
+		name = "David II" # Exiled
+		dynasty = "Bagrationi"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1792.1.1= {
+	monarch = {
+		name = "Solomon II"
+		dynasty = "Bagrationi"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
 }

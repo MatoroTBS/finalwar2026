@@ -5,6 +5,7 @@ technology_group = nomad_group
 religion = zoroastrian
 primary_culture = bashkir
 capital = 2444
+add_accepted_culture = ostyaki
 1444.11.11= {
 	monarch = {
 		name = "Araslan"

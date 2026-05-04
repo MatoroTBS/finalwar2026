@@ -30,7 +30,7 @@ add_accepted_culture = lower_saxon
 		death_date = 1478.1.15
 		female = yes
 		religion = converted_dynamic_faith_143
-		culture = dynamic-albanian-illyrian-roman-trojan-romanian-culture-num1
+		culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
 	}
 	add_queen_personality = cruel_personality
 	add_queen_personality = zealot_personality

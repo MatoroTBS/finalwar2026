@@ -1,7 +1,7 @@
 zoroastrian_group = {
 	converted_dynamic_faith_149 = {
 		color = { 199 114 204 }
-		icon =  190
+		icon =  188
 		country = {
  
 		missionary_maintenance_cost = -0.4

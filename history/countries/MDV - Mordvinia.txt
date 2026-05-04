@@ -5,6 +5,7 @@ technology_group = eastern
 religion = converted_dynamic_faith_141
 primary_culture = dynamic-meshchera-culture-num1
 capital = 2422
+add_accepted_culture = dynamic-bolghar-mordvin-culture-num1
 1444.11.11= {
 	monarch = {
 		name = "Meltsayka"

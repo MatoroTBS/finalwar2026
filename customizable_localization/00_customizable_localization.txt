@@ -6005,22 +6005,6 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetTempElevationCostReductionCap
-	text = {
-		localisation_key = TWO_HUNDRED
-		trigger = {
-			NOT = { has_country_flag = improved_elevation_reduction }
-		}
-	}
-	text = {
-		localisation_key = FOUR_HUNDRED
-		trigger = {
-			has_country_flag = improved_elevation_reduction
-		}
-	}
-}
-
-defined_text = {
 	name = GetFabricateReligiousConflictCost
 	text = { 
 		localisation_key = 30_STRING
@@ -8089,22 +8073,6 @@ defined_text = {
         localisation_key = MacehualtinMissionName
         trigger = {
             NOT = { tag = AZT }
-        }
-    }
-} 
-
-defined_text = {
-    name = GetUnifyMissionName
-    text = {
-        localisation_key = AZTNonTheocracyName
-        trigger = {
-            NOT = { government = theocracy }
-        }
-    }
-    text = {
-        localisation_key = AZTTheocracyName
-        trigger = {
-            government = theocracy
         }
     }
 } 

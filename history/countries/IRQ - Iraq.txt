@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = eastern
 religion = converted_dynamic_faith_143
-primary_culture = dynamic-albanian-illyrian-roman-trojan-romanian-culture-num1
+primary_culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
 capital = 4288
 add_accepted_culture = dynamic-assyrian-babylonian-culture-num1
 1444.11.11= {
@@ -15,7 +15,7 @@ add_accepted_culture = dynamic-assyrian-babylonian-culture-num1
 		mil = 4
 		birth_date = 1401.11.21
 		religion = converted_dynamic_faith_143
-		culture = dynamic-albanian-illyrian-roman-trojan-romanian-culture-num1
+		culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
 	}
 	add_ruler_personality = intricate_web_weaver_personality
 	add_ruler_personality = zealot_personality
@@ -46,7 +46,7 @@ add_accepted_culture = dynamic-assyrian-babylonian-culture-num1
 		female = yes
 		claim = 89
 		religion = converted_dynamic_faith_143
-		culture = dynamic-albanian-illyrian-roman-trojan-romanian-culture-num1
+		culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
 	}
 	add_heir_personality = free_thinker_personality
 	add_heir_personality = zealot_personality

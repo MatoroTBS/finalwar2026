@@ -12,7 +12,6 @@ historical_idea_groups = {
 	quality_ideas
 	defensive_ideas
 }
-historical_score = 7400
 historical_units = {
 	austrian_grenzer
 	austrian_hussar
@@ -29,55 +28,33 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Alfonso #11" = 10
-	"Alonso #0" = 0
-	"Ana #0" = -15
-	"Antonio #0" = 10
-	"Baltasar #0" = 0
-	"Baltasar Carlos #0" = 15
-	"Bartolom0 #0" = 0
-	"Carlos #0" = 80
-	"Claudio #0" = 0
-	"Cristobal #0" = 0
-	"Diego #0" = 15
-	"Domingo #0" = 0
-	"Emilio #0" = 0
-	"Enrique #4" = 10
-	"Fadrique #0" = 0
-	"Fausto #0" = 0
-	"Felipe #1" = 60
-	"Fernando #5" = 40
-	"Francisco #0" = 10
-	"Gabriel #0" = 10
-	"Garc0a #0" = 0
-	"Gaspar #0" = 0
-	"Gonzalo #0" = 0
-	"Guillermo #0" = 0
-	"Hermenegildo #0" = 0
-	"Hernando #0" = 0
-	"Ignacio #0" = 0
-	"Isabel #1" = -10
-	"Jaime #2" = 5
-	"Jorge #0" = 0
-	"Jos0 #0" = 20
-	"Juan #2" = 10
-	"Juan Bautista #0" = 0
-	"Juan Jos0 #0" = 0
-	"Leopoldo #0" = 0
-	"Lope #0" = 0
-	"Luis #0" = 20
-	"MONARCH_NAME_RAMON #0" = 0
-	"Manuel #0" = 0
-	"Mar0a Teresa #0" = -10
-	"Miguel #0" = 0
-	"Pedro #1" = 5
-	"Pelayo #1" = 5
-	"Ramiro #2" = 5
-	"Rodrigo #0" = 0
-	"Sancho #4" = 5
-	"Sebasti0n #0" = 0
-	"Tom0s #0" = 10
-	"Vicente #0" = 0
+	"Adja #0" = -1
+	"Benedicta #0" = -1
+	"Borç #0" = 0
+	"Cali #1" = 10
+	"Catherine #0" = -1
+	"Camma #1" = 10
+	"David #1" = 10
+	"El Mencho #1" = 10
+	"Garmenh #0" = -1
+	"Giose #1" = 10
+	"Jesus #0" = 0
+	"Joseph #1" = 10
+	"Lucia #0" = -1
+	"Lucius #1" = 10
+	"Marcus #0" = 0
+	"Medellín #1" = 10
+	"Opitera #0" = -1
+	"Pablo #1" = 10
+	"Pacho #4" = 10
+	"Pedro #1" = 10
+	"Prepelaos #0" = 0
+	"Prima #0" = -1
+	"Primus #0" = 0
+	"Quintas #1" = -1
+	"Salvador #1" = 10
+	"Sinaloa #1" = 10
+	"Temus #1" = 10
 }
 leader_names = {
 	"Abarca de Bolea"

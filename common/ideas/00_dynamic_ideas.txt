@@ -233,13 +233,13 @@ dynamic-bengali-culture-num1_ideas = {
 }
 
 
-dynamic-bengali-trojan-culture-num1_ideas = {
+dynamic-bengali-greek-culture-num1_ideas = {
 	start = {
 		 yearly_army_professionalism = 0.01
 		 land_forcelimit = 4
 	}
 	trigger = {
-		culture = dynamic-bengali-trojan-culture-num1
+		culture = dynamic-bengali-greek-culture-num1
 	}
 	free = yes
 
@@ -543,13 +543,13 @@ dynamic-highland_scottish-norse-culture-num1_ideas = {
 }
 
 
-dynamic-old_egyptian-trojan-culture-num1_ideas = {
+dynamic-ancient_egyptian-greek-culture-num1_ideas = {
 	start = {
 		 yearly_army_professionalism = 0.01
 		 land_forcelimit = 4
 	}
 	trigger = {
-		culture = dynamic-old_egyptian-trojan-culture-num1
+		culture = dynamic-ancient_egyptian-greek-culture-num1
 	}
 	free = yes
 
@@ -734,13 +734,13 @@ dynamic-breton-culture-num4_ideas = {
 }
 
 
-dynamic-hittite-trojan-culture-num1_ideas = {
+dynamic-hittite-greek-culture-num1_ideas = {
 	start = {
 		 yearly_army_professionalism = 0.01
 		 land_forcelimit = 4
 	}
 	trigger = {
-		culture = dynamic-hittite-trojan-culture-num1
+		culture = dynamic-hittite-greek-culture-num1
 	}
 	free = yes
 
@@ -772,13 +772,13 @@ dynamic-hittite-trojan-culture-num1_ideas = {
 }
 
 
-dynamic-babylonian-trojan-culture-num1_ideas = {
+dynamic-babylonian-greek-culture-num1_ideas = {
 	start = {
 		 missionaries = 1
 		 religious_unity = 0.10
 	}
 	trigger = {
-		culture = dynamic-babylonian-trojan-culture-num1
+		culture = dynamic-babylonian-greek-culture-num1
 	}
 	free = yes
 
@@ -886,13 +886,13 @@ dynamic-breton-culture-num5_ideas = {
 }
 
 
-dynamic-trojan-culture-num1_ideas = {
+dynamic-greek-culture-num1_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num1
+		culture = dynamic-greek-culture-num1
 	}
 	free = yes
 
@@ -1078,13 +1078,13 @@ dynamic-hausa-zaghawa-culture-num1_ideas = {
 }
 
 
-dynamic-greek-culture-num1_ideas = {
+dynamic-greek-culture-num2_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-greek-culture-num1
+		culture = dynamic-greek-culture-num2
 	}
 	free = yes
 
@@ -1385,13 +1385,13 @@ dynamic-somali-sidamo-culture-num1_ideas = {
 }
 
 
-dynamic-bedouin_arabic-al_suryah_arabic-trojan-culture-num1_ideas = {
+dynamic-bedouin_arabic-al_suryah_arabic-greek-culture-num1_ideas = {
 	start = {
 		 yearly_army_professionalism = 0.01
 		 land_forcelimit = 4
 	}
 	trigger = {
-		culture = dynamic-bedouin_arabic-al_suryah_arabic-trojan-culture-num1
+		culture = dynamic-bedouin_arabic-al_suryah_arabic-greek-culture-num1
 	}
 	free = yes
 
@@ -1500,13 +1500,13 @@ dynamic-kirgiz-culture-num1_ideas = {
 }
 
 
-dynamic-aramaic-trojan-culture-num1_ideas = {
+dynamic-aramaic-greek-culture-num1_ideas = {
 	start = {
 		 yearly_corruption = -0.1
 		 state_maintenance_modifier = -0.1
 	}
 	trigger = {
-		culture = dynamic-aramaic-trojan-culture-num1
+		culture = dynamic-aramaic-greek-culture-num1
 	}
 	free = yes
 
@@ -1688,13 +1688,13 @@ dynamic-bengali-culture-num4_ideas = {
 }
 
 
-dynamic-trojan-culture-num2_ideas = {
+dynamic-greek-culture-num3_ideas = {
 	start = {
 		 yearly_corruption = -0.1
 		 state_maintenance_modifier = -0.1
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num2
+		culture = dynamic-greek-culture-num3
 	}
 	free = yes
 
@@ -1916,13 +1916,13 @@ dynamic-pruthenian-culture-num2_ideas = {
 }
 
 
-dynamic-trojan-culture-num3_ideas = {
+dynamic-greek-culture-num4_ideas = {
 	start = {
 		 yearly_corruption = -0.1
 		 state_maintenance_modifier = -0.1
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num3
+		culture = dynamic-greek-culture-num4
 	}
 	free = yes
 
@@ -2185,13 +2185,13 @@ dynamic-bengali-zhangzhung-culture-num1_ideas = {
 }
 
 
-dynamic-trojan-culture-num4_ideas = {
+dynamic-greek-culture-num5_ideas = {
 	start = {
 		 missionaries = 1
 		 religious_unity = 0.10
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num4
+		culture = dynamic-greek-culture-num5
 	}
 	free = yes
 
@@ -2571,13 +2571,13 @@ dynamic-beja-nubian-culture-num1_ideas = {
 }
 
 
-dynamic-armenian-trojan-culture-num1_ideas = {
+dynamic-armenian-greek-culture-num1_ideas = {
 	start = {
 		 yearly_army_professionalism = 0.01
 		 land_forcelimit = 4
 	}
 	trigger = {
-		culture = dynamic-armenian-trojan-culture-num1
+		culture = dynamic-armenian-greek-culture-num1
 	}
 	free = yes
 
@@ -4339,13 +4339,13 @@ dynamic-pruthenian-culture-num7_ideas = {
 }
 
 
-dynamic-georgian-trojan-culture-num1_ideas = {
+dynamic-georgian-greek-culture-num1_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-georgian-trojan-culture-num1
+		culture = dynamic-georgian-greek-culture-num1
 	}
 	free = yes
 
@@ -4495,13 +4495,13 @@ dynamic-gothic-swedish-culture-num1_ideas = {
 }
 
 
-dynamic-trojan-culture-num5_ideas = {
+dynamic-greek-culture-num6_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num5
+		culture = dynamic-greek-culture-num6
 	}
 	free = yes
 
@@ -4803,13 +4803,13 @@ dynamic-pruthenian-culture-num8_ideas = {
 }
 
 
-dynamic-trojan-culture-num6_ideas = {
+dynamic-greek-culture-num7_ideas = {
 	start = {
 		 yearly_corruption = -0.1
 		 state_maintenance_modifier = -0.1
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num6
+		culture = dynamic-greek-culture-num7
 	}
 	free = yes
 
@@ -4956,13 +4956,13 @@ dynamic-berber-culture-num1_ideas = {
 }
 
 
-dynamic-persian-trojan-culture-num1_ideas = {
+dynamic-persian-greek-culture-num1_ideas = {
 	start = {
 		 monthly_splendor = 1
 		 power_projection_from_insults = 0.2
 	}
 	trigger = {
-		culture = dynamic-persian-trojan-culture-num1
+		culture = dynamic-persian-greek-culture-num1
 	}
 	free = yes
 
@@ -5621,13 +5621,13 @@ dynamic-breton-culture-num9_ideas = {
 }
 
 
-dynamic-albanian-illyrian-roman-trojan-romanian-culture-num1_ideas = {
+dynamic-albanian-illyrian-roman-greek-romanian-culture-num1_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-albanian-illyrian-roman-trojan-romanian-culture-num1
+		culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
 	}
 	free = yes
 
@@ -6310,13 +6310,13 @@ dynamic-bactrian-uzbehk-culture-num1_ideas = {
 }
 
 
-dynamic-trojan-culture-num7_ideas = {
+dynamic-greek-culture-num8_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num7
+		culture = dynamic-greek-culture-num8
 	}
 	free = yes
 
@@ -6541,13 +6541,13 @@ dynamic-bengali-culture-num17_ideas = {
 }
 
 
-dynamic-armenian-trojan-culture-num2_ideas = {
+dynamic-armenian-greek-culture-num2_ideas = {
 	start = {
 		 monarch_lifespan = 0.1
 		 all_estate_loyalty_equilibrium = 0.05
 	}
 	trigger = {
-		culture = dynamic-armenian-trojan-culture-num2
+		culture = dynamic-armenian-greek-culture-num2
 	}
 	free = yes
 
@@ -6847,13 +6847,13 @@ dynamic-pruthenian-culture-num14_ideas = {
 }
 
 
-dynamic-trojan-culture-num8_ideas = {
+dynamic-greek-culture-num9_ideas = {
 	start = {
 		 missionaries = 1
 		 religious_unity = 0.10
 	}
 	trigger = {
-		culture = dynamic-trojan-culture-num8
+		culture = dynamic-greek-culture-num9
 	}
 	free = yes
 
@@ -6998,13 +6998,13 @@ dynamic-buryat-kirgiz-culture-num1_ideas = {
 }
 
 
-dynamic-bedouin_arabic-trojan-yemeni_culture-culture-num1_ideas = {
+dynamic-bedouin_arabic-greek-yemeni_culture-culture-num1_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-bedouin_arabic-trojan-yemeni_culture-culture-num1
+		culture = dynamic-bedouin_arabic-greek-yemeni_culture-culture-num1
 	}
 	free = yes
 
@@ -7377,13 +7377,13 @@ dynamic-bactrian-culture-num1_ideas = {
 }
 
 
-dynamic-albanian-illyrian-roman-tamil-trojan-romanian-culture-num1_ideas = {
+dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-albanian-illyrian-roman-tamil-trojan-romanian-culture-num1
+		culture = dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1
 	}
 	free = yes
 

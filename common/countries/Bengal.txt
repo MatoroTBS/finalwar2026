@@ -47,7 +47,6 @@ monarch_names = {
 	"Potto #0" = 0
 	"Prima #0" = -1
 	"Roman #0" = 0
-	"Samudrasen #1" = 10
 	"Secunda #0" = -1
 	"Sheshch #0" = 0
 	"Tita #0" = -1

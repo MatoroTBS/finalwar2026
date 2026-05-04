@@ -1,7 +1,7 @@
 christian = {
 	converted_dynamic_faith_142 = {
 		color = { 242 248 246 }
-		icon =  183
+		icon =  181
 		allowed_conversion = {
  
 		animism

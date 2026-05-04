@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 198 68 111 }
+monarch_names = {
+	"Aldrien #1" = 10
+	"Concen #1" = 10
+	"Deniel #1" = 10
+	"Eponi #0" = 0
+	"Goennoc #1" = 10
+	"Gurguist #1" = 10
+	"Matheudoï #1" = 10
+	"Tethion #2" = 10
+	"Tiernmael #1" = 10
+	"Velibia #0" = -1
+}
