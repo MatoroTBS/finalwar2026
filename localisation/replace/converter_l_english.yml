@@ -2554,3 +2554,12 @@
  PROV_ADJ4788: "Ambrosia"
  PROV4789: "Empria"
  PROV_ADJ4789: "Empria"
+
+ APPANAGE: "Imperial Vassal"
+ appanage: "Imperial Vassal"
+ appanage_long_desc: "An Imperial Vassal subject must follow their overlord to war, cannot make certain diplomatic actions and will pay a fraction of his income to his overlord. Imperial Vassalss can also fight each other."
+ appanage_title: "Imperial Vassal"
+ appanage_title_plural: "Imperial Vassals"
+ appanage_overlord: "Imperial Vassal Overlord"
+ appanage_subject: "Imperial Vassal"
+ appanage_is_our: "§Y$NAME$§! is our Imperial Vassal."

@@ -112,8 +112,7 @@ union = {
 	second = LIT #Aestuia
 	start_date = 1444.1.1
 }
-dependency = {
-	subject_type = appanage
+vassal = {
 	first = SAR
 	second = Z2M #Västergotland
 	start_date = 1444.1.1
@@ -136,8 +135,7 @@ vassal = {
 	second = IRE #Eire
 	start_date = 1444.1.1
 }
-dependency = {
-	subject_type = appanage
+vassal = {
 	first = SPA
 	second = KOJ #Palestine
 	start_date = 1444.1.1
@@ -231,8 +229,7 @@ vassal = {
 	second = Z21 #Merv
 	start_date = 1444.1.1
 }
-dependency = {
-	subject_type = appanage
+vassal = {
 	first = KHO
 	second = Z2J #Transcaspia
 	start_date = 1444.1.1
