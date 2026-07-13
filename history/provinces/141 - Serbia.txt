@@ -1,5 +1,5 @@
-owner = Z0J
-controller = Z0J
+owner = Z0S
+controller = Z0S
 capital = "Smederevo"
 is_city = yes
 culture = dynamic-albanian-illyrian-roman-romanian-culture-num3
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 5
 base_production = 5
 base_manpower = 2
-add_core = Z0J
+add_core = Z0S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

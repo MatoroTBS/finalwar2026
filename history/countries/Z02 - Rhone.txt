@@ -6,6 +6,8 @@ religion = converted_dynamic_faith_141
 primary_culture = dynamic-roman-culture-num2
 capital = 201
 set_country_flag = ZZZ_generated_converter_nation
+historical_rival = Z01 #Eastern Rome
+
 1444.11.11= {
 	monarch = {
 		name = "Opitera"

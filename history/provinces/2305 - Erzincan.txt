@@ -10,7 +10,6 @@ base_production = 4
 base_manpower = 5
 add_core = ARM
 add_core = Z0R
-add_permanent_claim = Z22
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

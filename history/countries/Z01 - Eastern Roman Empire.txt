@@ -4,8 +4,20 @@ government_rank = 3
 technology_group = eastern
 religion = converted_dynamic_faith_143
 primary_culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
-capital = 4704
+capital = 2750 #Plovdiv
 set_country_flag = ZZZ_generated_converter_nation
+historical_rival = Z02 #Rhone
+historical_friend = GRE #Achaia
+
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -5
+}
+
 1444.11.11= {
 	monarch = {
 		name = "Dasantilla"
