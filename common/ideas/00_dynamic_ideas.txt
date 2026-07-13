@@ -1,4 +1,86 @@
 ### National idea groups generated via cultural traditions. 
+# Ainoa muutos atm on Roomien aloitusidea
+
+
+rhomanian_ideas = {
+	start = {
+		diplomatic_upkeep = 2
+		relation_with_same_culture_group = 5
+		liberty_desire_from_subject_development = -0.2
+		stability_cost_modifier = 0.1
+	}
+	trigger = {
+		culture = rhomanian
+		government_rank = 3
+	}
+	free = yes
+
+	tradition_formation_fighting = {
+		reserves_organisation = 0.10
+	}
+	tradition_maritime_mercantilism = {
+		mercantilism_cost = -0.2
+	}
+	tradition_xenophilic = {
+		num_accepted_cultures = 1
+	}
+	tradition_highland_warriors = {
+		global_supply_limit_modifier = 0.10
+	}
+	tradition_philosopher_culture = {
+		adm_tech_cost_modifier = -0.15
+	}
+	tradition_hill_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_religious_patronage = {
+		institution_spread_from_true_faith = 0.15
+	}
+	bonus = {
+		build_cost = -0.1
+	}
+}
+
+rhodanian_ideas = {
+	start = {
+		diplomatic_upkeep = 2
+		relation_with_same_culture_group = 5
+		liberty_desire_from_subject_development = -0.2
+		stability_cost_modifier = 0.1
+	}
+	trigger = {
+		culture = rhodanian
+		government_rank = 3
+	}
+	free = yes
+
+	tradition_reverence_for_veterans = {
+		innovativeness_gain = 0.5
+		army_tradition_decay = -0.01
+	}
+	tradition_roman_legacy = {
+		land_maintenance_modifier = -0.1
+	}
+	tradition_poetry = {
+		dip_tech_cost_modifier = -0.15
+	}
+	tradition_hereditary_hierarchy = {
+		free_adm_policy = 1
+	}
+	tradition_gardening = {
+		global_prosperity_growth = 0.1
+	}
+	tradition_maritime_mercantilism = {
+		mercantilism_cost = -0.2
+	}
+	tradition_mendicant_mystics = {
+		merchants = 1
+	}
+	bonus = {
+		discipline = 0.025
+	}
+}
+
 
 dynamic-breton-culture-num1_ideas = {
 	start = {
@@ -921,45 +1003,6 @@ dynamic-greek-culture-num1_ideas = {
 		global_prov_trade_power_modifier = 0.1
 	}
 }
-
-
-rhodanian_ideas = {
-	start = {
-		 monarch_lifespan = 0.1
-		 all_estate_loyalty_equilibrium = 0.05
-	}
-	trigger = {
-		culture = rhodanian
-	}
-	free = yes
-
-	tradition_reverence_for_veterans = {
-		innovativeness_gain = 0.5
-		army_tradition_decay = -0.01
-	}
-	tradition_roman_legacy = {
-		land_maintenance_modifier = -0.1
-	}
-	tradition_poetry = {
-		dip_tech_cost_modifier = -0.15
-	}
-	tradition_hereditary_hierarchy = {
-		free_adm_policy = 1
-	}
-	tradition_gardening = {
-		global_prosperity_growth = 0.1
-	}
-	tradition_maritime_mercantilism = {
-		mercantilism_cost = -0.2
-	}
-	tradition_mendicant_mystics = {
-		merchants = 1
-	}
-	bonus = {
-		discipline = 0.025
-	}
-}
-
 
 dynamic-chihan-culture-num1_ideas = {
 	start = {
@@ -5619,44 +5662,6 @@ dynamic-breton-culture-num9_ideas = {
 		discipline = 0.025
 	}
 }
-
-
-rhomanian_ideas = {
-	start = {
-		 same_culture_advisor_cost = -0.25
-		 global_heretic_missionary_strength = 0.03
-	}
-	trigger = {
-		culture = rhomanian
-	}
-	free = yes
-
-	tradition_formation_fighting = {
-		reserves_organisation = 0.10
-	}
-	tradition_maritime_mercantilism = {
-		mercantilism_cost = -0.2
-	}
-	tradition_xenophilic = {
-		num_accepted_cultures = 1
-	}
-	tradition_highland_warriors = {
-		global_supply_limit_modifier = 0.10
-	}
-	tradition_philosopher_culture = {
-		adm_tech_cost_modifier = -0.15
-	}
-	tradition_hill_dwellers = {
-		development_cost = -0.1
-	}
-	tradition_religious_patronage = {
-		institution_spread_from_true_faith = 0.15
-	}
-	bonus = {
-		build_cost = -0.1
-	}
-}
-
 
 dynamic-breton-culture-num10_ideas = {
 	start = {

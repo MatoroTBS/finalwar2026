@@ -9,6 +9,7 @@ base_tax = 7
 base_production = 12
 base_manpower = 4
 add_core = Z01
+add_core = RUM
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,143 +1,58 @@
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
+graphical_culture = easterngfx
 color = { 30 160 203 }
-historical_idea_groups = {
-	defensive_ideas
-	offensive_ideas
-	spy_ideas
-	trade_ideas
-	religious_ideas
-	diplomatic_ideas
-	quality_ideas
-	administrative_ideas
-}
-historical_units = {
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_dragoon
-	muslim_mass_infantry
-	persian_cavalry_charge
-	persian_footsoldier
-	persian_rifle
-	persian_shamshir
-	qizilbash_cavalry_unit
-	tofongchis_musketeer
-	topchis_artillery
-}
 monarch_names = {
-	"Ahmed #0" = 10
-	"Ali #0" = 10
-	"Dervis #0" = 10
-	"Gamze #0" = -1
-	"Hanife #0" = -1
-	"Havva #0" = -1
-	"Ibrahim #0" = 10
-	"Ishak #0" = 10
-	"Izzeddin #0" = 10
-	"Kasim #0" = 10
-	"Kaykaus  #2" = 20
-	"Kaykhusraw #3" = 40
-	"Kayqubad  #3" = 40
-	"Kilij #3" = 40
-	"Mahmud #0" = 10
-	"Masud #3" = 40
-	"Melis #0" = -1
-	"Muhammed #0" = 10
-	"Mustafa #0" = 10
-	"Qutalmish #1" = 20
-	"Rabia #0" = -1
-	"Safiye #0" = -1
-	"Suleiman #2" = 30
-	"Taceddin #0" = 10
-	"Umut #0" = -1
-	"Ziynet #0" = -1
-	"Z0beyde #0" = -1
-}
-leader_names = {
-	"Alemdar"
-	"Amasyali"
-	"Ayas"
-	"Bali"
-	"Barbaros"
-	"Bayram"
-	"Cerrah"
-	"Cezzar"
-	"Civan"
-	"Damad"
-	"Defterdar"
-	"Dervis"
-	"Gazi"
-	"Gedik"
-	"Gümülcineli"
-	"Gürcü"
-	"Hadim"
-	"Hekimoglu"
-	"Hersekli"
-	"Ishak"
-	"Izzed"
-	"Kanijeli"
-	"Kara"
-	"Karamanli"
-	"Kavalali"
-	"Kaymak"
-	"Kemal"
-	"Kemankes"
-	"Koca"
-	"Köprülü"
-	"Köse"
-	"Küçük"
-	"Lala"
-	"Lefkeli"
-	"Malkoç"
-	"Müezzinzade"
-	"Nevsehirli"
-	"Nisanci"
-	"Oflu"
-	"Ohrili"
-	"Oruç"
-	"Osmancikli"
-	"Pargali"
-	"Pehlivan"
-	"Piri"
-	"Piyale"
-	"Rumi"
-	"Salih"
-	"Sari"
-	"Semiz"
-	"Serdar"
-	"Silahdar"
-	"Sokullu"
-	"Tarhuncu"
-	"Tayyar"
-	"Topal"
-	"Turgut"
-	"Uluç"
-	"Veli"
-	"Yemisçi"
-	"Çandarli"
-	"Çelebi"
-	"Çerkes"
-	"Çuhadar"
-}
-ship_names = {
-	"Bunsuz"
-	"Cilicia"
-	"Ermenek"
-	"Göksu"
-	"Gülnar"
-	"Karaman Bey"
-	"Larande"
-	"Mer"
-	"Mut"
-	"Nure Sufi"
-	"Sadaddin"
-	"Semseddin Mehmet"
-	"Silifke"
-	"Zeynül-Hac"
-}
-army_names = {
-	"$PROVINCE$ Ordusu"
-}
-fleet_names = {
-	"$PROVINCE$ Donanmasî"
+	"Agathokleia #1" = -1
+	"Arbinas #2" = 10
+	"Arppakhu #2" = 10
+	"Asmi-Sarruma #1" = 10
+	"Atys #1" = 10
+	"Aula #0" = -1
+	"Boodes #1" = 10
+	"Carol #2" = 10
+	"Charis #0" = -1
+	"Clara #0" = -1
+	"Courantmonoc #0" = 0
+	"Dafina #0" = -1
+	"Dana #0" = -1
+	"Diseta #0" = -1
+	"Drusus #0" = 0
+	"Drypetina #1" = -1
+	"Edon #0" = 0
+	"Eirene #0" = -1
+	"Elisabeta #1" = -1
+	"Elissa #1" = -1
+	"Eustratios #0" = 0
+	"Gaizatorix #1" = 10
+	"Gorgias #0" = 0
+	"Harapsili #1" = -1
+	"Henti #1" = -1
+	"Herius #0" = 0
+	"Kheriga #1" = 10
+	"Klearchos #0" = 0
+	"Kuprilli #1" = 10
+	"Lucia #2" = -1
+	"Mahendrani #1" = -1
+	"Manius #1" = 10
+	"Maria #1" = -1
+	"Megaira #0" = -1
+	"Mithridates #1" = 10
+	"Nonntio #0" = -1
+	"Octavia #0" = -1
+	"Peithagoras #0" = 0
+	"Philaretos #0" = 0
+	"Pixodarus #1" = 10
+	"Procula #1" = -1
+	"Pylaemenes #2" = 10
+	"Quintus #2" = 10
+	"Riguistl #0" = -1
+	"Soutta #1" = -1
+	"Stefana #1" = -1
+	"Tepes #1" = 10
+	"Tritto #1" = -1
+	"Vasile #0" = 0
+	"Venera #1" = -1
+	"Xiphares #1" = 10
+	"Yasaraksite #0" = -1
+	"Ziaelas #1" = 10
 }
