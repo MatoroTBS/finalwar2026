@@ -1,5 +1,5 @@
-owner = ICE
-controller = ICE
+owner = Z1A
+controller = Z1A
 capital = "Akureyri"
 is_city = yes
 culture = dynamic-highland_scottish-norse-culture-num1
@@ -8,6 +8,7 @@ trade_goods = fish
 base_tax = 4
 base_production = 1
 base_manpower = 2
+add_core = Z1A
 add_core = ICE
 discovered_by = east_african
 discovered_by = eastern

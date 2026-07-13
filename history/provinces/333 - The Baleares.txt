@@ -1,5 +1,5 @@
-owner = MJO
-controller = MJO
+owner = Z1A
+controller = Z1A
 capital = "Palma"
 is_city = yes
 culture = valerian
@@ -8,8 +8,7 @@ trade_goods = sugar
 base_tax = 4
 base_production = 1
 base_manpower = 7
-add_core = MJO
-add_permanent_claim = SPA
+add_core = Z1A
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian
