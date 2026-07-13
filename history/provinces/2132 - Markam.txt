@@ -1,5 +1,5 @@
-owner = BHU
-controller = BHU
+owner = Z0H
+controller = Z0H
 capital = "Markam"
 is_city = yes
 culture = assamese
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 4
 base_manpower = 4
 add_core = ASS
-add_core = BHU
+add_core = Z0H
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

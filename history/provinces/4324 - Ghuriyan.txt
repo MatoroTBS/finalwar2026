@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = KHO
+controller = KHO
 capital = "Ghuriyan"
 is_city = yes
 culture = tajik
@@ -11,6 +11,7 @@ base_manpower = 7
 add_core = TRS
 add_core = Z1M
 add_core = Z21
+add_core = KHO
 add_permanent_claim = KHO
 discovered_by = east_african
 discovered_by = eastern

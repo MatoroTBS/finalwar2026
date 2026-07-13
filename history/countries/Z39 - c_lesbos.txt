@@ -8,6 +8,11 @@ capital = 4700
 fixed_capital = 4700
 add_accepted_culture = dynamic-greek-scythian-culture-num4
 set_country_flag = ZZZ_generated_converter_nation
+
+historical_friend = Z01 #Eastern Rome
+historical_friend = Z02 #Rhone
+historical_friend = GRE #Achaia
+
 1444.11.11= {
 	monarch = {
 		name = "Desiderata"

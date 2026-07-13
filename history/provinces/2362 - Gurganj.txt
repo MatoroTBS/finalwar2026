@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = OGZ
+controller = OGZ
 capital = "Gurganj"
 is_city = yes
 culture = dynamic-tajik-mongol-culture-num1
@@ -9,7 +9,7 @@ base_tax = 8
 base_production = 1
 base_manpower = 2
 add_core = KHI
-add_core = Z21
+add_core = OGZ
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

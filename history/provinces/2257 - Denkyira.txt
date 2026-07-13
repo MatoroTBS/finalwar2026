@@ -1,5 +1,5 @@
-owner = Z04
-controller = Z04
+owner = Z0G
+controller = Z0G
 capital = "Dunkwa"
 is_city = yes
 culture = dynamic-aka-fon-culture-num1
@@ -8,7 +8,7 @@ trade_goods = coffee
 base_tax = 5
 base_production = 4
 base_manpower = 3
-add_core = Z04
+add_core = Z0G
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

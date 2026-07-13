@@ -1,0 +1,313 @@
+### Roomien vasalleista enemmistö on appanageja, ne toimii kuin vasallit mutta ne voivat myös käydä itsenäisiä sotia. Tämä tekee Roomista sotkuisempia ja vähemmän keskitettyjä
+
+### Eastern Roman vassals
+
+dependency = {
+	subject_type = appanage
+	first = Z01
+	second = Z0J #Illyria
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z01
+	second = Z0S #Scordiscia
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z01
+	second = CRT #Crete
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z01
+	second = Z0R #Pontus
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z01
+	second = Z0K #Assyria
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z01
+	second = IRQ #Babylon
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = tributary_state
+	first = Z01
+	second = Z1U #Khuzestan
+	start_date = 1444.1.1
+}
+#TODO: Add royal marriages/alliances!
+
+### Syrte
+
+vassal = {
+	first = AFR
+	second = TUN #Carthago
+	start_date = 1444.1.1
+}
+vassal = {
+	first = AFR
+	second = Z1I #Delta-Ramison
+	start_date = 1444.1.1
+}
+#TODO: Add royal marriages/alliances!
+
+### Rhodania
+
+dependency = {
+	subject_type = appanage
+	first = Z02
+	second = Z0C #Biturgia
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z02
+	second = TOU #Tolouse
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z02
+	second = Z0E #Muodin kuningaskunta
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z02
+	second = MLO #Mediolanum
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = Z02
+	second = TUS #Toskana
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = tributary_state
+	first = Z02
+	second = Z2I #Trondelag
+	start_date = 1444.1.1
+}
+alliance = {
+	first = Z02
+	second = SAR
+	start_date = 1444.1.1
+}
+#TODO: Add royal marriages
+
+### Sardinia-Korsika
+
+union = {
+	first = SAR
+	second = LIT #Aestuia
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = SAR
+	second = Z2M #Västergotland
+	start_date = 1444.1.1
+}
+
+### Hispania
+
+vassal = {
+	first = SPA
+	second = SCO #Alborada
+	start_date = 1444.1.1
+}
+vassal = {
+	first = SPA
+	second = Z1H #Deheubarth
+	start_date = 1444.1.1
+}
+vassal = {
+	first = SPA
+	second = IRE #Eire
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = SPA
+	second = KOJ #Palestine
+	start_date = 1444.1.1
+}
+vassal = {
+	first = SPA
+	second = Z0G #Guinea
+	start_date = 1444.1.1
+}
+vassal = {
+	first = SPA
+	second = JOL #Baja Cimbria
+	start_date = 1444.1.1
+}
+
+### California
+
+union = {
+	first = SAX
+	second = Z0D #Wendia
+	start_date = 1444.1.1
+}
+
+### Barbaria Magna
+
+vassal = {
+	first = Z00 
+	second = Z0F #Triboccia
+	start_date = 1444.1.1
+}
+march = {
+	first = Z00 
+	second = Z24 #Eudosia
+	start_date = 1444.1.1
+}
+vassal = {
+	first = Z00 
+	second = SIL #Buriana
+	start_date = 1444.1.1
+}
+
+### Sclavonia
+
+vassal = {
+	first = UKR #Sclavonia
+	second = PLT #Kryvia
+	start_date = 1444.1.1
+}
+
+### Tyras
+
+vassal = {
+	first = MOL #Tyras
+	second = Z1K #Subcarpathia
+	start_date = 1444.1.1
+}
+
+### Sehul (Ptolemais Epithera)
+
+vassal = {
+	first = ETH
+	second = DAW #Asir
+	start_date = 1444.1.1
+}
+vassal = {
+	first = ETH
+	second = MAH #Mahra
+	start_date = 1444.1.1
+}
+
+### Mordvinia
+
+vassal = {
+	first = MDV
+	second = YAR #Opolye
+	start_date = 1444.1.1
+}
+
+### Media
+
+vassal = {
+	first = KRY
+	second = Z1E #Ciscaucasia
+	start_date = 1444.1.1
+}
+
+### Khorasan
+
+vassal = {
+	first = KHO
+	second = Z21 #Merv
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = appanage
+	first = KHO
+	second = Z2J #Transcaspia
+	start_date = 1444.1.1
+}
+
+### Khotan
+
+vassal = {
+	first = KAS
+	second = Z1T #Khuttal
+	start_date = 1444.1.1
+}
+
+### Sibir
+
+dependency = {
+	subject_type = tributary_state
+	first = SIB
+	second = BSH #Bashkiria
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = tributary_state
+	first = SIB
+	second = Z2H #Taran Ural
+	start_date = 1444.1.1
+}
+
+### Deccan Empire
+
+vassal = {
+	first = DEC
+	second = ORI #Vindhyaprstha
+	start_date = 1444.1.1
+}
+vassal = {
+	first = DEC
+	second = MAR # Aparanta
+	start_date = 1444.1.1
+}
+
+### Lemuria
+
+vassal = {
+	first = MAD 
+	second = Z1C #Chera Nadu
+	start_date = 1444.1.1
+}
+dependency = {
+	subject_type = tributary_state
+	first = MAD #Lemuria
+	second = OMA #Oman
+	start_date = 1444.1.1
+}
+
+### Australia
+
+vassal = {
+	first = BNG
+	second = NGP #Jharkand
+	start_date = 1444.1.1
+}
+
+### Xi Xia
+
+vassal = {
+	first = Z0X
+	second = Z1B #Charkliq
+	start_date = 1444.1.1
+}
+
+### Amdo
+
+vassal = {
+	first = Z05
+	second = Z29 #Qamdo
+	start_date = 1444.1.1
+}

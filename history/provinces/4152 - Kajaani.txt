@@ -1,5 +1,5 @@
-owner = SMI
-controller = SMI
+owner = FIN
+controller = FIN
 capital = "Maanselkä"
 is_city = yes
 culture = sapmi
@@ -8,7 +8,7 @@ trade_goods = fur
 base_tax = 5
 base_production = 4
 base_manpower = 2
-add_core = SMI
+add_core = FIN
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

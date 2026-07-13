@@ -1,5 +1,5 @@
-owner = Z0C
-controller = Z0C
+owner = Z09
+controller = Z09
 capital = "Arras"
 is_city = yes
 culture = dynamic-breton-culture-num3
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 5
 base_production = 5
 base_manpower = 3
-add_core = Z0C
+add_core = Z09
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

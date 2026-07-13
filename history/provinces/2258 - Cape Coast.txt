@@ -1,5 +1,5 @@
-owner = OYO
-controller = OYO
+owner = Z0G
+controller = Z0G
 capital = "Axim"
 is_city = yes
 culture = dynamic-aka-fon-culture-num1
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = OYO
+add_core = Z0G
 add_permanent_claim = Z04
 discovered_by = east_african
 discovered_by = eastern

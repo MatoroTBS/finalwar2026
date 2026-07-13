@@ -1,5 +1,5 @@
-owner = Z00
-controller = Z00
+owner = HUN
+controller = HUN
 capital = "Szolnok"
 is_city = yes
 culture = multavian
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 7
 base_manpower = 4
 add_core = BOH
-add_core = Z00
+add_core = HUN
 add_permanent_claim = Z10
 discovered_by = east_african
 discovered_by = eastern

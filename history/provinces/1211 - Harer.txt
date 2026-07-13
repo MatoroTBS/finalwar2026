@@ -1,5 +1,5 @@
-owner = Z08
-controller = Z08
+owner = Z22
+controller = Z22
 capital = "Harer"
 is_city = yes
 culture = dynamic-somali-sidamo-culture-num1
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = Z08
+add_core = Z22
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

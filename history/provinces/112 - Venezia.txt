@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = GRE
+controller = GRE
 capital = "Venezia"
 is_city = yes
 culture = venetian
@@ -11,8 +11,7 @@ base_production = 4
 base_manpower = 4
 extra_cost = 24
 center_of_trade = 3
-add_core = VEN
-add_core = Z02
+add_core = GRE
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

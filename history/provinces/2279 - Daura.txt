@@ -1,5 +1,5 @@
-owner = HAU
-controller = HAU
+owner = KBO
+controller = KBO
 capital = "Daura"
 is_city = yes
 culture = hausa
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 1
 base_production = 4
 base_manpower = 2
-add_core = HAU
+add_core = KBO
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

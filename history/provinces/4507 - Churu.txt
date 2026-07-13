@@ -1,5 +1,5 @@
-owner = Z1P
-controller = Z1P
+owner = RJP
+controller = RJP
 capital = "Churu"
 is_city = yes
 culture = avadhi
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 2
 base_production = 4
 base_manpower = 4
-add_core = Z1P
+add_core = RJP
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = DEC
-controller = DEC
+owner = KSH
+controller = KSH
 capital = "Kangra"
 is_city = yes
 culture = bengali
@@ -8,7 +8,7 @@ trade_goods = cotton
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = DEC
+add_core = KSH
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z29
+controller = Z29
 capital = "Nyingchi"
 is_city = yes
 culture = nepali
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 10
 base_production = 4
 base_manpower = 3
-add_core = Z19
+add_core = Z29
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

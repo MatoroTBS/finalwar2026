@@ -1,5 +1,5 @@
-owner = PHA
-controller = PHA
+owner = BHU
+controller = BHU
 capital = "Nedong"
 is_city = yes
 culture = dynamic-chihan-culture-num5
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 7
 base_production = 5
 base_manpower = 6
-add_core = PHA
+add_core = BHU
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern
