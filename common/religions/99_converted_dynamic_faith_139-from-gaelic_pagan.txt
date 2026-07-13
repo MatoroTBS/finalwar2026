@@ -1,5 +1,5 @@
 pagan = {
-	converted_dynamic_faith_139 = {
+	gaelic_reformed = {
 		color = { 129 140 41 }
 		icon =  178
 		country = {

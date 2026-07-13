@@ -1,8 +1,8 @@
 sound = {
-	name = religion_converted_dynamic_faith_149
+	name = religion_zoroastrian
 	file = "start_conversion_zoroastrian.wav"
 }
 sound = {
-	name = start_convert_converted_dynamic_faith_149
+	name = start_convert_zoroastrian
 	file = "start_conversion_zoroastrian.wav"
 }

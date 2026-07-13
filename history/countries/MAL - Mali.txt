@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = sub_saharan
-religion = converted_dynamic_faith_148
+religion = roogan
 primary_culture = fulani
 capital = 1124
 add_accepted_culture = dynamic-dyola-mali-culture-num1
@@ -14,7 +14,7 @@ add_accepted_culture = dynamic-dyola-mali-culture-num1
 		dip = 3
 		mil = 5
 		birth_date = 1384.6.8
-		religion = converted_dynamic_faith_148
+		religion = roogan
 		culture = fulani
 	}
 	add_ruler_personality = entrepreneur_personality
@@ -29,7 +29,7 @@ add_accepted_culture = dynamic-dyola-mali-culture-num1
 		birth_date = 1395.5.24
 		death_date = 1455.5.24
 		female = yes
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = fulani
 	}
 	add_queen_personality = fertile_personality
@@ -44,7 +44,7 @@ add_accepted_culture = dynamic-dyola-mali-culture-num1
 		birth_date = 1423.6.8
 		death_date = 1488.6.8
 		claim = 89
-		religion = converted_dynamic_faith_148
+		religion = roogan
 		culture = fulani
 	}
 	add_heir_personality = strict_personality

@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = eastern
-religion = converted_dynamic_faith_137
+religion = styxist
 primary_culture = dynamic-armenian-greek-culture-num1
 capital = 2205
 1444.11.11= {
@@ -13,7 +13,7 @@ capital = 2205
 		dip = 4
 		mil = 6
 		birth_date = 1402.9.17
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = dynamic-armenian-greek-culture-num1
 	}
 	add_ruler_personality = entrepreneur_personality
@@ -28,7 +28,7 @@ capital = 2205
 		birth_date = 1392.9.19
 		death_date = 1452.9.19
 		female = yes
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = dynamic-greek-roman-culture-num1
 	}
 	add_queen_personality = entrepreneur_personality
@@ -44,7 +44,7 @@ capital = 2205
 		death_date = 1490.5.6
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = dynamic-greek-roman-culture-num1
 	}
 	add_heir_personality = bold_fighter_personality

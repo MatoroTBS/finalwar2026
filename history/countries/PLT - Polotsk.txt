@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = eastern
-religion = converted_dynamic_faith_140
+religion = hekatean
 primary_culture = pruthenian
 capital = 276
 add_accepted_culture = dynamic-pruthenian-russian_culture-culture-num1
@@ -15,7 +15,7 @@ add_accepted_culture = dynamic-pruthenian-russian_culture-culture-num1
 		mil = 5
 		birth_date = 1361.3.23
 		female = yes
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = pruthenian
 	}
 	add_ruler_personality = entrepreneur_personality
@@ -29,8 +29,8 @@ add_accepted_culture = dynamic-pruthenian-russian_culture-culture-num1
 		country_of_origin = PLT
 		birth_date = 1377.10.13
 		death_date = 1437.10.13
-		religion = converted_dynamic_faith_140
-		culture = dynamic-greek-scythian-culture-num1
+		religion = hekatean
+		culture = greco-scythian
 	}
 	add_queen_personality = strict_personality
 	add_queen_personality = tactical_genius_personality
@@ -45,7 +45,7 @@ add_accepted_culture = dynamic-pruthenian-russian_culture-culture-num1
 		death_date = 1449.10.16
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = pruthenian
 	}
 	add_heir_personality = bold_fighter_personality

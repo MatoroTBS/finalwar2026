@@ -1,5 +1,5 @@
 pagan = {
-	converted_dynamic_faith_148 = {
+	roogan = {
 		color = { 171 9 115 }
 		icon =  187
 		country = {

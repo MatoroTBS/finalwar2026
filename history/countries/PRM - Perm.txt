@@ -28,7 +28,7 @@ capital = 305
 		country_of_origin = PRM
 		birth_date = 1400.8.28
 		death_date = 1460.8.28
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = dynamic-meshchera-culture-num1
 	}
 	add_queen_personality = intricate_web_weaver_personality
@@ -43,7 +43,7 @@ capital = 305
 		birth_date = 1419.2.26
 		death_date = 1484.2.26
 		claim = 89
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = dynamic-meshchera-culture-num1
 	}
 	add_heir_personality = lawgiver_personality

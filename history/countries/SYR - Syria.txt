@@ -28,7 +28,7 @@ capital = 407
 		birth_date = 1398.4.20
 		death_date = 1458.4.20
 		female = yes
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = dynamic-greek-culture-num1
 	}
 	add_queen_personality = industrious_personality

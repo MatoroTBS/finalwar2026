@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = sub_saharan
-religion = converted_dynamic_faith_142
+religion = cultist
 primary_culture = dynamic-dyola-mali-culture-num1
 capital = 2238
 add_accepted_culture = senegambian
@@ -14,7 +14,7 @@ add_accepted_culture = senegambian
 		dip = 4
 		mil = 5
 		birth_date = 1410.1.8
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = dynamic-dyola-mali-culture-num1
 	}
 	add_ruler_personality = charismatic_negotiator_personality
@@ -29,7 +29,7 @@ add_accepted_culture = senegambian
 		birth_date = 1441.4.16
 		death_date = 1506.4.16
 		claim = 89
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = dynamic-dyola-mali-culture-num1
 	}
 	add_heir_personality = well_connected_personality

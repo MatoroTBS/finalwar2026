@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = eastern
-religion = converted_dynamic_faith_140
+religion = hekatean
 primary_culture = lithuanian
 capital = 504
 add_accepted_culture = dynamic-bengali-culture-num7
@@ -15,7 +15,7 @@ add_accepted_culture = sindhi
 		dip = 4
 		mil = 5
 		birth_date = 1402.11.21
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = lithuanian
 	}
 	add_ruler_personality = scholar_personality
@@ -30,7 +30,7 @@ add_accepted_culture = sindhi
 		birth_date = 1400.10.9
 		death_date = 1460.10.9
 		female = yes
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = baluchi
 	}
 	add_queen_personality = pious_personality
@@ -45,7 +45,7 @@ add_accepted_culture = sindhi
 		birth_date = 1428.6.20
 		death_date = 1493.6.20
 		claim = 89
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = lithuanian
 	}
 	add_heir_personality = lawgiver_personality

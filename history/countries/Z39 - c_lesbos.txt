@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_141
+religion = asphodelian
 primary_culture = sicilian
 capital = 4700
 fixed_capital = 4700
@@ -17,7 +17,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 5
 		birth_date = 1393.7.9
 		female = yes
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = sicilian
 	}
 	add_ruler_personality = industrious_personality
@@ -31,7 +31,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z39
 		birth_date = 1396.2.12
 		death_date = 1456.2.12
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = scordiscian
 	}
 	add_queen_personality = righteous_personality
@@ -46,7 +46,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1418.3.15
 		death_date = 1483.3.15
 		claim = 89
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = sicilian
 	}
 	add_heir_personality = pious_personality

@@ -1,7 +1,7 @@
 government = republic
 government_rank = 2
 technology_group = east_african
-religion = converted_dynamic_faith_149
+religion = zoroastrian
 primary_culture = somali
 capital = 2788
 set_country_flag = ZZZ_generated_converter_nation
@@ -13,7 +13,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		dip = 5
 		mil = 6
 		birth_date = 1393.10.30
-		religion = converted_dynamic_faith_149
+		religion = zoroastrian
 		culture = somali
 	}
 	add_ruler_personality = intricate_web_weaver_personality
@@ -27,7 +27,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1435.9.2
 		death_date = 1500.9.2
 		claim = 89
-		religion = converted_dynamic_faith_149
+		religion = zoroastrian
 		culture = somali
 	}
 	add_heir_personality = free_thinker_personality

@@ -31,7 +31,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1479.9.23
 		female = yes
 		religion = shamanism
-		culture = dynamic-gaulish-roman-culture-num1
+		culture = valerian
 	}
 	add_queen_personality = drunkard_personality
 	add_queen_personality = greedy_personality

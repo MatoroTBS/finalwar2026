@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = plutocratic_reform
 government_rank = 2
 technology_group = east_african
-religion = converted_dynamic_faith_145
+religion = sobekian
 primary_culture = amhara
 capital = 1228
 mercantilism = 15
@@ -16,7 +16,7 @@ add_accepted_culture = nubian
 		mil = 5
 		birth_date = 1411.4.30
 		female = yes
-		religion = converted_dynamic_faith_145
+		religion = sobekian
 		culture = amhara
 	}
 	add_ruler_personality = pious_personality
@@ -30,7 +30,7 @@ add_accepted_culture = nubian
 		country_of_origin = NBI
 		birth_date = 1407.3.19
 		death_date = 1467.3.19
-		religion = converted_dynamic_faith_145
+		religion = sobekian
 		culture = nubian
 	}
 	add_queen_personality = drunkard_personality
@@ -46,7 +46,7 @@ add_accepted_culture = nubian
 		death_date = 1502.1.10
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_145
+		religion = sobekian
 		culture = nubian
 	}
 	add_heir_personality = free_thinker_personality

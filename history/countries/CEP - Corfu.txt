@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_143
+religion = elysian
 primary_culture = xliponian
 capital = 4698
 add_accepted_culture = dynamic-gothic-roman-culture-num1
@@ -14,7 +14,7 @@ add_accepted_culture = dynamic-gothic-roman-culture-num1
 		dip = 4
 		mil = 4
 		birth_date = 1400.7.13
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = xliponian
 	}
 	add_ruler_personality = calm_personality
@@ -29,7 +29,7 @@ add_accepted_culture = dynamic-gothic-roman-culture-num1
 		birth_date = 1400.12.5
 		death_date = 1460.12.5
 		female = yes
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-breton-culture-num4
 	}
 	add_queen_personality = free_thinker_personality
@@ -45,7 +45,7 @@ add_accepted_culture = dynamic-gothic-roman-culture-num1
 		death_date = 1484.5.28
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = roman
 	}
 	add_heir_personality = infertile_personality

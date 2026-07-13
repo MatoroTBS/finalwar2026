@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
-religion = converted_dynamic_faith_141
+religion = asphodelian
 primary_culture = dynamic-breton-culture-num8
 capital = 4776
 add_accepted_culture = dynamic-breton-culture-num3
@@ -16,7 +16,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 4
 		birth_date = 1410.8.16
 		female = yes
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = dynamic-breton-culture-num8
 	}
 	add_ruler_personality = righteous_personality
@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z0C
 		birth_date = 1397.12.26
 		death_date = 1457.12.26
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = dynamic-bengali-culture-num2
 	}
 	add_queen_personality = lawgiver_personality
@@ -45,7 +45,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1429.7.21
 		death_date = 1494.7.21
 		claim = 89
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-breton-culture-num8
 	}
 	add_heir_personality = free_thinker_personality

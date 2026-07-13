@@ -3,7 +3,7 @@ add_government_reform = feudal_theocracy
 government_rank = 1
 technology_group = eastern
 religion = zoroastrian
-primary_culture = dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1
+primary_culture = lemurian
 capital = 537
 set_country_flag = ZZZ_generated_converter_nation
 1444.11.11= {
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 6
 		birth_date = 1379.6.27
 		religion = zoroastrian
-		culture = dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1
+		culture = lemurian
 	}
 	add_ruler_personality = architectural_visionary_personality
 	add_ruler_personality = bold_fighter_personality
@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1438.11.22
 		female = yes
 		religion = zoroastrian
-		culture = dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1
+		culture = lemurian
 	}
 	add_queen_personality = scholar_personality
 	add_queen_personality = zealot_personality
@@ -45,7 +45,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1463.8.8
 		claim = 89
 		religion = zoroastrian
-		culture = dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1
+		culture = lemurian
 	}
 	add_heir_personality = tactical_genius_personality
 	add_heir_personality = zealot_personality

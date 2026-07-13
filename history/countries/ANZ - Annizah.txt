@@ -2,7 +2,7 @@ government = republic
 add_government_reform = peasants_republic
 government_rank = 1
 technology_group = eastern
-religion = converted_dynamic_faith_149
+religion = zoroastrian
 primary_culture = greek
 capital = 4270
 1444.11.11= {
@@ -13,7 +13,7 @@ capital = 4270
 		dip = 6
 		mil = 5
 		birth_date = 1398.1.10
-		religion = converted_dynamic_faith_149
+		religion = zoroastrian
 		culture = greek
 	}
 	add_ruler_personality = obsessive_perfectionist_personality

@@ -1,5 +1,5 @@
 zoroastrian_group = {
-	converted_dynamic_faith_149 = {
+	zoroastrian = {
 		color = { 199 114 204 }
 		icon =  188
 		country = {

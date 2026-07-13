@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = eastern
-religion = converted_dynamic_faith_146
+religion = mitraist
 primary_culture = dynamic-assyrian-babylonian-culture-num1
 capital = 4272
 fixed_capital = 4272
@@ -16,7 +16,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 5
 		birth_date = 1409.11.7
 		female = yes
-		religion = converted_dynamic_faith_146
+		religion = mitraist
 		culture = dynamic-assyrian-babylonian-culture-num1
 	}
 	add_ruler_personality = bold_fighter_personality
@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z3L
 		birth_date = 1411.12.12
 		death_date = 1471.12.12
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = dynamic-greek-roman-culture-num1
 	}
 	add_queen_personality = bold_fighter_personality
@@ -46,7 +46,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1494.8.25
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_146
+		religion = mitraist
 		culture = dynamic-assyrian-babylonian-culture-num1
 	}
 	add_heir_personality = just_personality

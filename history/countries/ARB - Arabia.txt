@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = muslim
-religion = converted_dynamic_faith_137
+religion = styxist
 primary_culture = hejazi_culture
 capital = 4269
 add_accepted_culture = dynamic-bedouin_arabic-al_suryah_arabic-greek-culture-num1
@@ -15,7 +15,7 @@ add_accepted_culture = dynamic-bedouin_arabic-al_suryah_arabic-greek-culture-num
 		mil = 3
 		birth_date = 1368.5.31
 		female = yes
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = hejazi_culture
 	}
 	add_ruler_personality = drunkard_personality
@@ -29,7 +29,7 @@ add_accepted_culture = dynamic-bedouin_arabic-al_suryah_arabic-greek-culture-num
 		country_of_origin = ARB
 		birth_date = 1413.1.4
 		death_date = 1473.1.4
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = bedouin_arabic
 	}
 	add_queen_personality = secretive_personality
@@ -44,7 +44,7 @@ add_accepted_culture = dynamic-bedouin_arabic-al_suryah_arabic-greek-culture-num
 		birth_date = 1410.1.13
 		death_date = 1475.1.13
 		claim = 89
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = dynamic-roman-culture-num5
 	}
 	add_heir_personality = just_personality

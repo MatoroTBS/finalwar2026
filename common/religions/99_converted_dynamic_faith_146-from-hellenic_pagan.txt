@@ -1,5 +1,5 @@
 pagan = {
-	converted_dynamic_faith_146 = {
+	mitraist = {
 		color = { 209 2 104 }
 		icon =  185
 		allowed_conversion = {

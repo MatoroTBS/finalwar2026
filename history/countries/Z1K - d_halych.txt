@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = eastern
-religion = converted_dynamic_faith_141
+religion = asphodelian
 primary_culture = dynamic-greek-scythian-culture-num2
 capital = 261
 add_accepted_culture = dynamic-greek-scythian-culture-num7
@@ -17,7 +17,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 4
 		birth_date = 1394.12.24
 		female = yes
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = dynamic-greek-scythian-culture-num2
 	}
 	add_ruler_personality = loose_lips_personality
@@ -31,7 +31,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z1K
 		birth_date = 1396.2.19
 		death_date = 1456.2.19
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = dynamic-greek-scythian-culture-num2
 	}
 	add_queen_personality = silver_tongue_personality
@@ -46,7 +46,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1413.10.22
 		death_date = 1478.10.22
 		claim = 89
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = dynamic-greek-scythian-culture-num2
 	}
 	add_heir_personality = lawgiver_personality

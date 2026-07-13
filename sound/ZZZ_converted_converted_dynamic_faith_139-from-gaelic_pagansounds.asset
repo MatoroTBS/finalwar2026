@@ -1,8 +1,8 @@
 sound = {
-	name = religion_converted_dynamic_faith_139
+	name = religion_gaelic_reformed
 	file = "tab_religion_pagan.wav"
 }
 sound = {
-	name = start_convert_converted_dynamic_faith_139
+	name = start_convert_gaelic_reformed
 	file = "start_conversion_pagan_animism.wav"
 }

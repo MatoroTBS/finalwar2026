@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = grand_duchy_reform
 government_rank = 1
 technology_group = eastern
-religion = converted_dynamic_faith_140
+religion = hekatean
 primary_culture = pruthenian
 capital = 25
 1444.11.11= {
@@ -13,7 +13,7 @@ capital = 25
 		dip = 6
 		mil = 4
 		birth_date = 1405.4.20
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = pruthenian
 	}
 	add_ruler_personality = entrepreneur_personality
@@ -28,7 +28,7 @@ capital = 25
 		birth_date = 1426.10.13
 		death_date = 1486.10.13
 		female = yes
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-breton-culture-num2
 	}
 	add_queen_personality = pious_personality
@@ -43,7 +43,7 @@ capital = 25
 		birth_date = 1425.12.19
 		death_date = 1490.12.19
 		claim = 89
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = pruthenian
 	}
 	add_heir_personality = secretive_personality

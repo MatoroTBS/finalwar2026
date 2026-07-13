@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = sub_saharan
-religion = converted_dynamic_faith_142
+religion = cultist
 primary_culture = mali
 capital = 1135
 fixed_capital = 1135
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		dip = 5
 		mil = 3
 		birth_date = 1411.7.17
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = mali
 	}
 	add_ruler_personality = conqueror_personality
@@ -30,8 +30,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1399.10.30
 		death_date = 1459.10.30
 		female = yes
-		religion = converted_dynamic_faith_142
-		culture = dynamic-gaulish-roman-culture-num1
+		religion = cultist
+		culture = valerian
 	}
 	add_queen_personality = drunkard_personality
 	add_queen_personality = silver_tongue_personality
@@ -46,7 +46,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1494.4.11
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = mali
 	}
 	add_heir_personality = craven_personality

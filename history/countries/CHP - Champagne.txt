@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_142
+religion = cultist
 primary_culture = dynamic-breton-culture-num3
 capital = 186
 add_accepted_culture = dynamic-breton-culture-num11
@@ -14,7 +14,7 @@ add_accepted_culture = dynamic-breton-culture-num11
 		dip = 3
 		mil = 6
 		birth_date = 1392.7.18
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = dynamic-breton-culture-num3
 	}
 	add_ruler_personality = drunkard_personality
@@ -29,7 +29,7 @@ add_accepted_culture = dynamic-breton-culture-num11
 		birth_date = 1402.11.5
 		death_date = 1462.11.5
 		female = yes
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = dynamic-breton-culture-num3
 	}
 	add_queen_personality = greedy_personality
@@ -44,7 +44,7 @@ add_accepted_culture = dynamic-breton-culture-num11
 		birth_date = 1433.2.24
 		death_date = 1498.2.24
 		claim = 89
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = dynamic-breton-culture-num3
 	}
 	add_heir_personality = pious_personality

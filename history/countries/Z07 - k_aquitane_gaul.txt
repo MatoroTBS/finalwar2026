@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
-religion = converted_dynamic_faith_137
+religion = styxist
 primary_culture = dynamic-breton-culture-num4
 capital = 4111
 set_country_flag = ZZZ_generated_converter_nation
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 5
 		birth_date = 1380.9.9
 		female = yes
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = dynamic-breton-culture-num4
 	}
 	add_ruler_personality = entrepreneur_personality
@@ -29,7 +29,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z07
 		birth_date = 1372.2.13
 		death_date = 1432.2.13
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-breton-culture-num4
 	}
 	add_queen_personality = free_thinker_personality
@@ -44,7 +44,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1400.10.5
 		death_date = 1465.10.5
 		claim = 89
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = dynamic-breton-culture-num4
 	}
 	add_heir_personality = free_thinker_personality

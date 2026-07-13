@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = eastern
 religion = hellenic_pagan
-primary_culture = dynamic-greek-scythian-culture-num1
+primary_culture = greco-scythian
 capital = 468
 set_country_flag = ZZZ_generated_converter_nation
 1444.11.11= {
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 5
 		birth_date = 1391.1.17
 		religion = hellenic_pagan
-		culture = dynamic-greek-scythian-culture-num1
+		culture = greco-scythian
 	}
 	add_ruler_personality = intricate_web_weaver_personality
 	add_ruler_personality = strict_personality
@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1473.4.28
 		claim = 89
 		religion = hellenic_pagan
-		culture = dynamic-greek-scythian-culture-num1
+		culture = greco-scythian
 	}
 	add_heir_personality = fertile_personality
 	add_heir_personality = tolerant_personality

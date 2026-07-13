@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_137
+religion = styxist
 primary_culture = theodisc
 capital = 2955
 set_country_flag = ZZZ_generated_converter_nation
@@ -14,7 +14,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		dip = 4
 		mil = 4
 		birth_date = 1406.8.14
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = theodisc
 	}
 	add_ruler_personality = charismatic_negotiator_personality
@@ -29,7 +29,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1406.2.19
 		death_date = 1466.2.19
 		female = yes
-		religion = converted_dynamic_faith_140
+		religion = hekatean
 		culture = dynamic-pruthenian-culture-num15
 	}
 	add_queen_personality = strict_personality
@@ -44,7 +44,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1426.6.10
 		death_date = 1491.6.10
 		claim = 89
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = roman
 	}
 	add_heir_personality = secretive_personality

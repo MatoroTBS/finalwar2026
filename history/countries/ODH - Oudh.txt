@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = indian
-religion = converted_dynamic_faith_147
+religion = gangaist
 primary_culture = avadhi
 capital = 4468
 1444.11.11= {
@@ -14,7 +14,7 @@ capital = 4468
 		mil = 3
 		birth_date = 1408.3.25
 		female = yes
-		religion = converted_dynamic_faith_147
+		religion = gangaist
 		culture = avadhi
 	}
 	add_ruler_personality = strict_personality
@@ -28,7 +28,7 @@ capital = 4468
 		country_of_origin = ODH
 		birth_date = 1408.9.26
 		death_date = 1468.9.26
-		religion = converted_dynamic_faith_147
+		religion = gangaist
 		culture = avadhi
 	}
 	add_queen_personality = benevolent_personality
@@ -43,7 +43,7 @@ capital = 4468
 		birth_date = 1430.7.31
 		death_date = 1495.7.31
 		claim = 89
-		religion = converted_dynamic_faith_147
+		religion = gangaist
 		culture = avadhi
 	}
 	add_heir_personality = benevolent_personality

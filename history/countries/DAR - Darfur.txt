@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = muslim
-religion = converted_dynamic_faith_142
+religion = cultist
 primary_culture = berber
 capital = 1219
 add_accepted_culture = dynamic-sidamo-culture-num1
@@ -15,7 +15,7 @@ add_accepted_culture = nubian
 		mil = 1
 		birth_date = 1.1.1
 		regent = yes
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = berber
 	}
 	heir = {
@@ -27,7 +27,7 @@ add_accepted_culture = nubian
 		birth_date = 1438.1.22
 		death_date = 1503.1.22
 		claim = 89
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = berber
 	}
 }

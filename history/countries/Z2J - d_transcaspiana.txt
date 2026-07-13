@@ -30,8 +30,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1411.10.21
 		death_date = 1471.10.21
 		female = yes
-		religion = converted_dynamic_faith_146
-		culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
+		religion = mitraist
+		culture = rhomanian
 	}
 	add_queen_personality = charismatic_negotiator_personality
 	add_queen_personality = pious_personality

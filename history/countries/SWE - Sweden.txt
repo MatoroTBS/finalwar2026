@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
-religion = converted_dynamic_faith_142
+religion = cultist
 primary_culture = dynamic-gothic-pruthenian-culture-num2
 capital = 4166
 add_accepted_culture = dynamic-gothic-swedish-culture-num1
@@ -14,7 +14,7 @@ add_accepted_culture = dynamic-gothic-swedish-culture-num1
 		dip = 4
 		mil = 5
 		birth_date = 1412.9.20
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = dynamic-gothic-pruthenian-culture-num2
 	}
 	add_ruler_personality = bold_fighter_personality
@@ -44,7 +44,7 @@ add_accepted_culture = dynamic-gothic-swedish-culture-num1
 		birth_date = 1405.8.6
 		death_date = 1470.8.6
 		claim = 89
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = dynamic-gothic-pruthenian-culture-num2
 	}
 	add_heir_personality = righteous_personality

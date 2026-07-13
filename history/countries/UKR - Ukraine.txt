@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = tsardom
 government_rank = 3
 technology_group = nomad_group
-religion = converted_dynamic_faith_141
+religion = asphodelian
 primary_culture = sarmatian
 capital = 280
 1444.11.11= {
@@ -13,7 +13,7 @@ capital = 280
 		dip = 5
 		mil = 3
 		birth_date = 1409.2.5
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = sarmatian
 	}
 	add_ruler_personality = free_thinker_personality
@@ -28,7 +28,7 @@ capital = 280
 		birth_date = 1408.8.12
 		death_date = 1468.8.12
 		female = yes
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = sarmatian
 	}
 	add_queen_personality = free_thinker_personality
@@ -43,7 +43,7 @@ capital = 280
 		birth_date = 1426.2.20
 		death_date = 1491.2.20
 		claim = 89
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = sarmatian
 	}
 	add_heir_personality = secretive_personality

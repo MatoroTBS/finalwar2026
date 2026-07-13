@@ -29,8 +29,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1419.3.5
 		death_date = 1479.3.5
 		female = yes
-		religion = converted_dynamic_faith_143
-		culture = dynamic-albanian-illyrian-roman-romanian-culture-num1
+		religion = elysian
+		culture = eosrhomanian
 	}
 	add_queen_personality = strict_personality
 	add_queen_personality = tactical_genius_personality

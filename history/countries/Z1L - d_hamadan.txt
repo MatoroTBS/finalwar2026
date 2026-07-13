@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = muslim
-religion = converted_dynamic_faith_143
+religion = elysian
 primary_culture = kurdish
 capital = 414
 set_country_flag = ZZZ_generated_converter_nation
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 4
 		birth_date = 1389.2.20
 		female = yes
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = kurdish
 	}
 	add_ruler_personality = bold_fighter_personality
@@ -29,7 +29,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z1L
 		birth_date = 1398.7.9
 		death_date = 1458.7.9
-		religion = converted_dynamic_faith_137
+		religion = styxist
 		culture = dynamic-roman-culture-num9
 	}
 	add_queen_personality = pious_personality
@@ -44,8 +44,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1408.6.12
 		death_date = 1473.6.12
 		claim = 89
-		religion = converted_dynamic_faith_143
-		culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
+		religion = elysian
+		culture = rhomanian
 	}
 	add_heir_personality = craven_personality
 	add_heir_personality = drunkard_personality

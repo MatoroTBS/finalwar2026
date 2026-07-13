@@ -30,7 +30,7 @@ add_accepted_culture = kanuri
 		birth_date = 1398.9.8
 		death_date = 1458.9.8
 		female = yes
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-sidamo-culture-num1
 	}
 	add_queen_personality = midas_touched_personality

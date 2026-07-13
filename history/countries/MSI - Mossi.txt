@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = mossi_federal_kingdom
 government_rank = 2
 technology_group = sub_saharan
-religion = converted_dynamic_faith_142
+religion = cultist
 primary_culture = mali
 capital = 2252
 1444.11.11= {
@@ -13,7 +13,7 @@ capital = 2252
 		dip = 4
 		mil = 2
 		birth_date = 1408.4.16
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = mali
 	}
 	add_ruler_personality = free_thinker_personality
@@ -28,7 +28,7 @@ capital = 2252
 		birth_date = 1388.6.13
 		death_date = 1448.6.13
 		female = yes
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = berber
 	}
 	add_queen_personality = pious_personality
@@ -43,7 +43,7 @@ capital = 2252
 		birth_date = 1433.2.12
 		death_date = 1498.2.12
 		claim = 89
-		religion = converted_dynamic_faith_142
+		religion = cultist
 		culture = mali
 	}
 	add_heir_personality = cruel_personality

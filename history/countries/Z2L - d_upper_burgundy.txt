@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_143
+religion = elysian
 primary_culture = dynamic-breton-culture-num2
 capital = 193
 set_country_flag = ZZZ_generated_converter_nation
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 5
 		birth_date = 1387.4.13
 		female = yes
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-breton-culture-num2
 	}
 	add_ruler_personality = intricate_web_weaver_personality
@@ -29,7 +29,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z2L
 		birth_date = 1386.8.25
 		death_date = 1446.8.25
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = roman
 	}
 	add_queen_personality = lawgiver_personality
@@ -44,7 +44,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1406.5.7
 		death_date = 1471.5.7
 		claim = 89
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-albanian-illyrian-roman-culture-num1
 	}
 	add_heir_personality = drunkard_personality

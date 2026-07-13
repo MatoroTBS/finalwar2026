@@ -2,7 +2,7 @@ government = republic
 add_government_reform = signoria_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_141
+religion = asphodelian
 primary_culture = dynamic-roman-culture-num1
 capital = 2458
 mercantilism = 15
@@ -17,7 +17,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 5
 		birth_date = 1390.7.1
 		female = yes
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = dynamic-roman-culture-num1
 	}
 	add_ruler_personality = entrepreneur_personality
@@ -31,7 +31,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z2U
 		birth_date = 1388.10.31
 		death_date = 1448.10.31
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = sardinian
 	}
 	add_queen_personality = benevolent_personality

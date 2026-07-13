@@ -1,5 +1,5 @@
 christian = {
-	converted_dynamic_faith_142 = {
+	cultist = {
 		color = { 242 248 246 }
 		icon =  181
 		allowed_conversion = {

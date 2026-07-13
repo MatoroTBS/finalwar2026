@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		death_date = 1477.8.3
 		female = yes
 		religion = zoroastrian
-		culture = dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1
+		culture = lemurian
 	}
 	add_queen_personality = intricate_web_weaver_personality
 	add_queen_personality = strict_personality

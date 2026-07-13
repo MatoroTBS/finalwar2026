@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_141
+religion = asphodelian
 primary_culture = dynamic-roman-culture-num4
 capital = 196
 1444.11.11= {
@@ -14,7 +14,7 @@ capital = 196
 		mil = 4
 		birth_date = 1403.9.25
 		female = yes
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = dynamic-roman-culture-num4
 	}
 	add_ruler_personality = charismatic_negotiator_personality
@@ -28,7 +28,7 @@ capital = 196
 		country_of_origin = TOU
 		birth_date = 1406.6.18
 		death_date = 1466.6.18
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-breton-culture-num3
 	}
 	add_queen_personality = malevolent_personality
@@ -43,7 +43,7 @@ capital = 196
 		birth_date = 1423.7.15
 		death_date = 1488.7.15
 		claim = 89
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-roman-culture-num4
 	}
 	add_heir_personality = free_thinker_personality

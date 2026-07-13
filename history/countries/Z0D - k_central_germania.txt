@@ -2,8 +2,8 @@ government = monarchy
 add_government_reform = english_monarchy
 government_rank = 2
 technology_group = western
-religion = converted_dynamic_faith_142
-primary_culture = dynamic-gaulish-roman-culture-num1
+religion = cultist
+primary_culture = valerian
 capital = 4741
 add_accepted_culture = pruthenian
 set_country_flag = ZZZ_generated_converter_nation
@@ -15,8 +15,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 0
 		birth_date = 1.1.1
 		regent = yes
-		religion = converted_dynamic_faith_142
-		culture = dynamic-gaulish-roman-culture-num1
+		religion = cultist
+		culture = valerian
 	}
 	heir = {
 		name = "Adiatorix"
@@ -27,8 +27,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1440.4.2
 		death_date = 1505.4.2
 		claim = 89
-		religion = converted_dynamic_faith_142
-		culture = dynamic-gaulish-roman-culture-num1
+		religion = cultist
+		culture = valerian
 	}
 }
 1444.11.11= {

@@ -28,7 +28,7 @@ capital = 4458
 		birth_date = 1422.8.11
 		death_date = 1482.8.11
 		female = yes
-		religion = converted_dynamic_faith_147
+		religion = gangaist
 		culture = dynamic-bengali-culture-num1
 	}
 	add_queen_personality = drunkard_personality

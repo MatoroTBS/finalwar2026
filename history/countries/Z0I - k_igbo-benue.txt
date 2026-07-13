@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 2
 technology_group = sub_saharan
-religion = converted_dynamic_faith_144
+religion = orisan
 primary_culture = dynamic-bozo-yorumba-culture-num1
 capital = 1152
 add_accepted_culture = hausa
@@ -16,7 +16,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		mil = 3
 		birth_date = 1422.8.21
 		female = yes
-		religion = converted_dynamic_faith_144
+		religion = orisan
 		culture = dynamic-bozo-yorumba-culture-num1
 	}
 	add_ruler_personality = just_personality
@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		country_of_origin = Z0I
 		birth_date = 1396.5.31
 		death_date = 1456.5.31
-		religion = converted_dynamic_faith_144
+		religion = orisan
 		culture = dynamic-bozo-yorumba-culture-num1
 	}
 	add_queen_personality = drunkard_personality
@@ -45,7 +45,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1442.7.24
 		death_date = 1507.7.24
 		claim = 89
-		religion = converted_dynamic_faith_144
+		religion = orisan
 		culture = dynamic-bozo-yorumba-culture-num1
 	}
 	add_heir_personality = well_connected_personality

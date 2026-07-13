@@ -157,13 +157,13 @@ dynamic-lower_saxon-scythian-culture-num1_ideas = {
 }
 
 
-dynamic-greek-scythian-culture-num1_ideas = {
+greco-scythian_ideas = {
 	start = {
 		 yearly_corruption = -0.1
 		 state_maintenance_modifier = -0.1
 	}
 	trigger = {
-		culture = dynamic-greek-scythian-culture-num1
+		culture = greco-scythian
 	}
 	free = yes
 
@@ -923,13 +923,13 @@ dynamic-greek-culture-num1_ideas = {
 }
 
 
-dynamic-roman-culture-num2_ideas = {
+rhodanian_ideas = {
 	start = {
 		 monarch_lifespan = 0.1
 		 all_estate_loyalty_equilibrium = 0.05
 	}
 	trigger = {
-		culture = dynamic-roman-culture-num2
+		culture = rhodanian
 	}
 	free = yes
 
@@ -2799,13 +2799,13 @@ dynamic-bengali-culture-num6_ideas = {
 }
 
 
-dynamic-gaulish-roman-culture-num1_ideas = {
+valerian_ideas = {
 	start = {
 		 yearly_army_professionalism = 0.01
 		 land_forcelimit = 4
 	}
 	trigger = {
-		culture = dynamic-gaulish-roman-culture-num1
+		culture = valerian
 	}
 	free = yes
 
@@ -3606,13 +3606,13 @@ dynamic-albanian-illyrian-roman-culture-num1_ideas = {
 }
 
 
-dynamic-berber-greek-carthaginian-scythian-culture-num1_ideas = {
+syrtian_ideas = {
 	start = {
 		 missionaries = 1
 		 religious_unity = 0.10
 	}
 	trigger = {
-		culture = dynamic-berber-greek-carthaginian-scythian-culture-num1
+		culture = syrtian
 	}
 	free = yes
 
@@ -4416,13 +4416,13 @@ dynamic-kirgiz-culture-num3_ideas = {
 }
 
 
-dynamic-albanian-illyrian-roman-romanian-culture-num1_ideas = {
+eosrhomanian_ideas = {
 	start = {
 		 yearly_army_professionalism = 0.01
 		 land_forcelimit = 4
 	}
 	trigger = {
-		culture = dynamic-albanian-illyrian-roman-romanian-culture-num1
+		culture = eosrhomanian
 	}
 	free = yes
 
@@ -4611,13 +4611,13 @@ dynamic-dyola-mali-culture-num1_ideas = {
 }
 
 
-dynamic-berber-greek-carthaginian-roman-scythian-culture-num1_ideas = {
+rodo-syrtian_ideas = {
 	start = {
 		 missionaries = 1
 		 religious_unity = 0.10
 	}
 	trigger = {
-		culture = dynamic-berber-greek-carthaginian-roman-scythian-culture-num1
+		culture = rodo-syrtian
 	}
 	free = yes
 
@@ -5621,13 +5621,13 @@ dynamic-breton-culture-num9_ideas = {
 }
 
 
-dynamic-albanian-illyrian-roman-greek-romanian-culture-num1_ideas = {
+rhomanian_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-albanian-illyrian-roman-greek-romanian-culture-num1
+		culture = rhomanian
 	}
 	free = yes
 
@@ -6886,13 +6886,13 @@ dynamic-greek-culture-num9_ideas = {
 }
 
 
-dynamic-berber-greek-carthaginian-roman-scythian-culture-num2_ideas = {
+vetsyrtino_ideas = {
 	start = {
 		 num_accepted_cultures = 1
 		 advisor_pool = 1
 	}
 	trigger = {
-		culture = dynamic-berber-greek-carthaginian-roman-scythian-culture-num2
+		culture = vetsyrtino
 	}
 	free = yes
 
@@ -7377,13 +7377,13 @@ dynamic-bactrian-culture-num1_ideas = {
 }
 
 
-dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1_ideas = {
+lemurian_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
 		 global_heretic_missionary_strength = 0.03
 	}
 	trigger = {
-		culture = dynamic-albanian-illyrian-roman-tamil-greek-romanian-culture-num1
+		culture = lemurian
 	}
 	free = yes
 

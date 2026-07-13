@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = converted_dynamic_faith_141
+religion = asphodelian
 primary_culture = norwegian
 capital = 20
 add_accepted_culture = dynamic-gothic-norwegian-culture-num1
@@ -15,7 +15,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		dip = 3
 		mil = 3
 		birth_date = 1371.11.18
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = norwegian
 	}
 	add_ruler_personality = bold_fighter_personality
@@ -30,7 +30,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1373.8.2
 		death_date = 1433.8.2
 		female = yes
-		religion = converted_dynamic_faith_143
+		religion = elysian
 		culture = dynamic-breton-culture-num8
 	}
 	add_queen_personality = strict_personality
@@ -45,7 +45,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		birth_date = 1392.4.2
 		death_date = 1457.4.2
 		claim = 89
-		religion = converted_dynamic_faith_141
+		religion = asphodelian
 		culture = norwegian
 	}
 	add_heir_personality = pious_personality

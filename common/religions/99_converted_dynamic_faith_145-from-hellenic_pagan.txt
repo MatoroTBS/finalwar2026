@@ -1,5 +1,5 @@
 pagan = {
-	converted_dynamic_faith_145 = {
+	sobekian = {
 		color = { 11 107 80 }
 		icon =  184
 		country = {

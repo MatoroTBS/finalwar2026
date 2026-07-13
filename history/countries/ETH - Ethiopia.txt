@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = plutocratic_reform
 government_rank = 2
 technology_group = east_african
-religion = converted_dynamic_faith_145
+religion = sobekian
 primary_culture = amhara
 capital = 2769
 mercantilism = 15
@@ -15,7 +15,7 @@ mercantilism = 15
 		mil = 6
 		birth_date = 1375.6.29
 		female = yes
-		religion = converted_dynamic_faith_145
+		religion = sobekian
 		culture = amhara
 	}
 	add_ruler_personality = intricate_web_weaver_personality
@@ -29,7 +29,7 @@ mercantilism = 15
 		country_of_origin = ETH
 		birth_date = 1383.10.15
 		death_date = 1443.10.15
-		religion = converted_dynamic_faith_145
+		religion = sobekian
 		culture = amhara
 	}
 	add_queen_personality = drunkard_personality
@@ -45,7 +45,7 @@ mercantilism = 15
 		death_date = 1482.9.29
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_145
+		religion = sobekian
 		culture = amhara
 	}
 	add_heir_personality = infertile_personality
