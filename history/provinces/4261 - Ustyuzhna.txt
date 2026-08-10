@@ -9,6 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 add_core = LIT
+add_core = VPS
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

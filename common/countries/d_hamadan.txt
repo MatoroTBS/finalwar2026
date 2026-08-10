@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 30 90 194 }
+color = { 62 129 20 }
+revolutionary_colors = { 10 0 5 }
 monarch_names = {
 	"Agelaos #0" = 0
 	"Amulius #0" = 0

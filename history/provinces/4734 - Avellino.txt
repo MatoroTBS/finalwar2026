@@ -9,6 +9,7 @@ base_tax = 8
 base_production = 7
 base_manpower = 8
 add_core = Z02
+add_core = NAP
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

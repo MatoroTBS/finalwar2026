@@ -51,6 +51,7 @@ celts = {
 	}
 	belgian = { primary = BEL } # Fallback
 	gaulish = { primary = FRA } # Fallback
+	breton = { primary = ENG } # Fallback
 	auscian = { primary = GUY }
 	armorican = { primary = BRI }
 	lugdunian = { primary = BUR }

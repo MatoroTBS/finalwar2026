@@ -9,6 +9,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 4
 add_core = BNG
+add_claim = BHU
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

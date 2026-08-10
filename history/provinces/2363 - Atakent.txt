@@ -10,7 +10,6 @@ base_tax = 7
 base_production = 4
 base_manpower = 6
 add_core = SCY
-add_core = Z0V
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

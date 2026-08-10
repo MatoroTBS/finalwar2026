@@ -6,7 +6,7 @@ rhomanian_empire_ideas = {
 		diplomatic_upkeep = 2
 		relation_with_same_culture_group = 5
 		liberty_desire_from_subject_development = -0.2
-		stability_cost_modifier = 0.1
+		stability_cost_modifier = 0.2
 	}
 	trigger = {
 		tag = Z01 #Eastern Roman Empire
