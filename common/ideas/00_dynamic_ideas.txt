@@ -2,7 +2,7 @@
 # Ainoa muutos atm on Roomien aloitusidea
 
 
-rhomanian_ideas = {
+rhomanian_empire_ideas = {
 	start = {
 		diplomatic_upkeep = 2
 		relation_with_same_culture_group = 5
@@ -10,8 +10,7 @@ rhomanian_ideas = {
 		stability_cost_modifier = 0.1
 	}
 	trigger = {
-		culture = rhomanian
-		government_rank = 3
+		tag = Z01 #Eastern Roman Empire
 	}
 	free = yes
 
@@ -41,16 +40,201 @@ rhomanian_ideas = {
 	}
 }
 
-rhodanian_ideas = {
+rhodanian_empire_ideas = {
 	start = {
 		diplomatic_upkeep = 2
 		relation_with_same_culture_group = 5
 		liberty_desire_from_subject_development = -0.2
 		stability_cost_modifier = 0.1
+
+		monarch_lifespan = 0.1
+	}
+	trigger = {
+		tag = Z02 #Empire of Rhone
+	}
+	free = yes
+
+	tradition_reverence_for_veterans = {
+		innovativeness_gain = 0.5
+		army_tradition_decay = -0.01
+	}
+	tradition_roman_legacy = {
+		land_maintenance_modifier = -0.1
+	}
+	tradition_poetry = {
+		dip_tech_cost_modifier = -0.15
+	}
+	tradition_hereditary_hierarchy = {
+		free_adm_policy = 1
+	}
+	tradition_gardening = {
+		global_prosperity_growth = 0.1
+	}
+	tradition_maritime_mercantilism = {
+		mercantilism_cost = -0.2
+	}
+	tradition_mendicant_mystics = {
+		merchants = 1
+	}
+	bonus = {
+		discipline = 0.025
+	}
+}
+
+vetsyrtino_ideas = {
+	start = {
+		 num_accepted_cultures = 1
+		 advisor_pool = 1
+	}
+	trigger = {
+		culture = vetsyrtino #Syrte
+	}
+	free = yes
+
+	tradition_poetry = {
+		dip_tech_cost_modifier = -0.15
+	}
+	tradition_philosopher_culture = {
+		adm_tech_cost_modifier = -0.15
+	}
+	tradition_seafaring = {
+		naval_forcelimit_modifier = 0.1
+	}
+	tradition_maritime_mercantilism = {
+		mercantilism_cost = -0.2
+	}
+	tradition_dryland_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_ce1_ritual_washing = {
+		prestige = 1
+	}
+	tradition_fishermen = {
+		center_of_trade_upgrade_cost = -0.1
+	}
+	bonus = {
+		stability_cost_to_declare_war = 1
+	}
+}
+
+SPA_ideas = {
+	trigger = {
+		tag = SPA #Empire of Hispania
+	}
+	start = {
+		same_culture_advisor_cost = -0.25
+		global_heretic_missionary_strength = 0.03
+	}
+	free = yes
+
+	tradition_formation_fighting = {
+		reserves_organisation = 0.10
+	}
+	tradition_maritime_mercantilism = {
+		mercantilism_cost = -0.2
+	}
+	tradition_xenophilic = {
+		num_accepted_cultures = 1
+	}
+	tradition_highland_warriors = {
+		global_supply_limit_modifier = 0.10
+	}
+	tradition_philosopher_culture = {
+		adm_tech_cost_modifier = -0.15
+	}
+	tradition_hill_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_religious_patronage = {
+		institution_spread_from_true_faith = 0.15
+	}
+	bonus = {
+		build_cost = -0.1
+	}
+}
+
+coronelian_ideas = {
+	start = {
+		 yearly_army_professionalism = 0.01
+		 land_forcelimit = 4
+	}
+	trigger = {
+		tag = Z1A #Coronel
+	}
+	free = yes
+
+	tradition_reverence_for_veterans = {
+		innovativeness_gain = 0.5
+		army_tradition_decay = -0.01
+	}
+	tradition_hit_and_run = {
+		movement_speed = 0.10
+		cav_to_inf_ratio = 0.05
+	}
+	tradition_adaptive_skirmishing = {
+		discipline = 0.05
+	}
+	tradition_formation_fighting = {
+		reserves_organisation = 0.10
+	}
+	tradition_roman_legacy = {
+		land_maintenance_modifier = -0.1
+	}
+	tradition_noble_adoption = {
+		heir_chance = 0.50
+	}
+	tradition_eye_for_an_eye = {
+		spy_offence = 0.1
+		power_projection_from_insults = 0.2
+	}
+	bonus = {
+		development_cost = -0.1
+	}
+}
+
+rhomanian_ideas = { #Generic Rhomanian
+	start = {
+		same_culture_advisor_cost = -0.25
+		global_heretic_missionary_strength = 0.03
+	}
+	trigger = {
+		culture = rhomanian
+	}
+	free = yes
+
+	tradition_formation_fighting = {
+		reserves_organisation = 0.10
+	}
+	tradition_maritime_mercantilism = {
+		mercantilism_cost = -0.2
+	}
+	tradition_xenophilic = {
+		num_accepted_cultures = 1
+	}
+	tradition_highland_warriors = {
+		global_supply_limit_modifier = 0.10
+	}
+	tradition_philosopher_culture = {
+		adm_tech_cost_modifier = -0.15
+	}
+	tradition_hill_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_religious_patronage = {
+		institution_spread_from_true_faith = 0.15
+	}
+	bonus = {
+		build_cost = -0.1
+	}
+}
+
+rhodanian_ideas = { #Generic Rhodanian
+	start = {
+		monarch_lifespan = 0.1
+		all_estate_loyalty_equilibrium = 0.05
 	}
 	trigger = {
 		culture = rhodanian
-		government_rank = 3
 	}
 	free = yes
 
@@ -2804,7 +2988,6 @@ dynamic-sumpa-culture-num2_ideas = {
 	}
 }
 
-
 dynamic-bengali-culture-num6_ideas = {
 	start = {
 		 same_culture_advisor_cost = -0.25
@@ -2840,47 +3023,6 @@ dynamic-bengali-culture-num6_ideas = {
 		reduced_liberty_desire = 0.15
 	}
 }
-
-
-valerian_ideas = {
-	start = {
-		 yearly_army_professionalism = 0.01
-		 land_forcelimit = 4
-	}
-	trigger = {
-		culture = valerian
-	}
-	free = yes
-
-	tradition_reverence_for_veterans = {
-		innovativeness_gain = 0.5
-		army_tradition_decay = -0.01
-	}
-	tradition_hit_and_run = {
-		movement_speed = 0.10
-		cav_to_inf_ratio = 0.05
-	}
-	tradition_adaptive_skirmishing = {
-		discipline = 0.05
-	}
-	tradition_formation_fighting = {
-		reserves_organisation = 0.10
-	}
-	tradition_roman_legacy = {
-		land_maintenance_modifier = -0.1
-	}
-	tradition_noble_adoption = {
-		heir_chance = 0.50
-	}
-	tradition_eye_for_an_eye = {
-		spy_offence = 0.1
-		power_projection_from_insults = 0.2
-	}
-	bonus = {
-		development_cost = -0.1
-	}
-}
-
 
 dynamic-bengali-culture-num7_ideas = {
 	start = {
@@ -6889,44 +7031,6 @@ dynamic-greek-culture-num9_ideas = {
 		tolerance_own = 2
 	}
 }
-
-
-vetsyrtino_ideas = {
-	start = {
-		 num_accepted_cultures = 1
-		 advisor_pool = 1
-	}
-	trigger = {
-		culture = vetsyrtino
-	}
-	free = yes
-
-	tradition_poetry = {
-		dip_tech_cost_modifier = -0.15
-	}
-	tradition_philosopher_culture = {
-		adm_tech_cost_modifier = -0.15
-	}
-	tradition_seafaring = {
-		naval_forcelimit_modifier = 0.1
-	}
-	tradition_maritime_mercantilism = {
-		mercantilism_cost = -0.2
-	}
-	tradition_dryland_dwellers = {
-		development_cost = -0.1
-	}
-	tradition_ce1_ritual_washing = {
-		prestige = 1
-	}
-	tradition_fishermen = {
-		center_of_trade_upgrade_cost = -0.1
-	}
-	bonus = {
-		stability_cost_to_declare_war = 1
-	}
-}
-
 
 dynamic-chihan-sumpa-culture-num1_ideas = {
 	start = {

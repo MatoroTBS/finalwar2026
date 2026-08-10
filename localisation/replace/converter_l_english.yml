@@ -1802,9 +1802,9 @@
  dynamic-bengali-culture-num6_ideas: "Soghd Ideas"
  dynamic-bengali-culture-num6_ideas_start: "Soghd Traditions"
  dynamic-bengali-culture-num6_ideas_bonus: "Soghd Ambitions"
- valerian_ideas: "Valerian Ideas"
- valerian_ideas_start: "Valerian Traditions"
- valerian_ideas_bonus: "Valerian Ambitions"
+ coronelian_ideas: "Valerian Ideas"
+ coronelian_ideas_start: "Valerian Traditions"
+ coronelian_ideas_bonus: "Valerian Ambitions"
  dynamic-bengali-culture-num7_ideas: "Khawr Ideas"
  dynamic-bengali-culture-num7_ideas_start: "Khawr Traditions"
  dynamic-bengali-culture-num7_ideas_bonus: "Khawr Ambitions"
@@ -2564,6 +2564,14 @@
  rhomanian_ideas: "Rhomanian Ideas"
  rhomanian_ideas_start: "Rhomanian Traditions"
  rhomanian_ideas_bonus: "Rhomanian Ambitions"
+ 
+ rhomanian_empire_ideas: "Rhomanian Ideas"
+ rhomanian_empire_ideas_start: "Rhomanian Traditions"
+ rhomanian_empire_ideas_bonus: "Rhomanian Ambitions"
+ 
+ rhodanian_empire_ideas: "Rhônean Ideas"
+ rhodanian_empire_ideas_start: "Rhônean Traditions"
+ rhodanian_empire_ideas_bonus: "Rhônean Ambitions"
  
  RUM: "Cilicia"
  RUM_ADJ: "Cilician"
