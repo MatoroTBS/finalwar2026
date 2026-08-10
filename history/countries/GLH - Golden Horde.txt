@@ -1,7 +1,7 @@
-government = tribal
+government = monarchy
 add_government_reform = steppe_horde
-government_rank = 1
+government_rank = 3
 technology_group = nomad_group
-religion = sunni
-primary_culture = mishary
-capital = 303
+religion = zoroastrian
+primary_culture = sapmi
+capital = 11

@@ -37,11 +37,11 @@
  scythia_nation_title:0 "Unite Scythia"
  scythia_nation_desc:0 ""
  
- aarlud_khanate_title:0 "Restore Aarlud"
- aarlud_khanate_desc:0 ""
+ aarlud_nation_title:0 "Restore Aarlud"
+ aarlud_nation_desc:0 ""
  
- black_horde_title:0 "Black Horde Triumphant"
- black_horde_desc:0 ""
+ black_horde_nation_title:0 "Black Horde Triumphant"
+ black_horde_nation_desc:0 ""
  
  runestone_decision_title:0 "Raise a Runestone"
  runestone_decision_desc:0 "A centuries old tradition, runestones are usually raised to honor a deceased ancestor or to commemorate own achievements."

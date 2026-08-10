@@ -835,4 +835,118 @@ country_decisions = {
 			factor = 1
 		}
 	}
+	###########################################
+	aarlud_nation = {
+		major = yes
+		
+		potential = {
+			NOT = { has_country_flag = formed_aarlud_khanate_flag }
+			tag = SMI
+			was_never_end_game_tag_trigger = yes
+			NOT = { exists = GLH }
+		}
+		
+		provinces_to_highlight = {
+			OR = {
+				province_id = 18
+				province_id = 19
+				province_id = 21
+				province_id = 1776
+				province_id = 4152
+			}
+			NOT = { owned_by = ROOT }
+		}
+		
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			owns_or_subject_of = 18
+			owns_or_subject_of = 19
+			owns_or_subject_of = 21
+			owns_or_subject_of = 1776
+			owns_or_subject_of = 4152
+		}
+		
+		effect = {
+			change_tag = GLH
+			
+			set_country_flag = formed_aarlud_khanate_flag
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			set_government_rank = 3
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			hidden_effect = {
+				clr_country_flag = ZZZ_generated_converter_nation
+			}
+			add_prestige = 30
+			add_adm_power = 250
+			add_dip_power = 250
+			add_mil_power = 250
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	###########################################
+	black_horde_nation = {
+		major = yes
+		
+		potential = {
+			NOT = { has_country_flag = formed_black_horde_flag }
+			culture_group = tartar
+			was_never_end_game_tag_trigger = yes
+			NOT = { exists = TIM }
+		}
+		
+		provinces_to_highlight = {
+			OR = {
+				province_id = 4509
+				province_id = 576
+				province_id = 229
+			}
+			NOT = { owned_by = ROOT }
+		}
+		
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			num_of_provinces_in_states = 20
+			owns_or_subject_of = 4509
+			owns_or_subject_of = 576
+			owns_or_subject_of = 229
+		}
+		
+		effect = {
+			change_tag = TIM
+			set_country_flag = formed_black_horde_flag
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			set_government_rank = 3
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			hidden_effect = {
+				clr_country_flag = ZZZ_generated_converter_nation
+			}
+			add_prestige = 30
+			add_adm_power = 250
+			add_dip_power = 250
+			add_mil_power = 250
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
