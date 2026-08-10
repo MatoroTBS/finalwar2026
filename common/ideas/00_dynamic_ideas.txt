@@ -1,7 +1,6 @@
 ### National idea groups generated via cultural traditions. 
 # Ainoa muutos atm on Roomien aloitusidea
 
-
 rhomanian_empire_ideas = {
 	start = {
 		diplomatic_upkeep = 2
@@ -153,42 +152,45 @@ SPA_ideas = {
 	}
 }
 
-coronelian_ideas = {
+coronelian_ideas = { 
 	start = {
-		 yearly_army_professionalism = 0.01
-		 land_forcelimit = 4
+		global_sailors_modifier = 0.2
+		sunk_ship_morale_hit_recieved = -0.2
 	}
 	trigger = {
 		tag = Z1A #Coronel
 	}
 	free = yes
 
-	tradition_reverence_for_veterans = {
-		innovativeness_gain = 0.5
-		army_tradition_decay = -0.01
+	privateers = {
+		privateer_efficiency = 0.33
+		may_perform_slave_raid = yes
+		#coast_raid_range = 1 Is this needed?
 	}
 	tradition_hit_and_run = {
-		movement_speed = 0.10
-		cav_to_inf_ratio = 0.05
+		capture_ship_chance = 0.25
+		light_ship_cost = -0.1
 	}
-	tradition_adaptive_skirmishing = {
+	tradition_seafaring = {
+		naval_forcelimit_modifier = 0.25
+		trade_efficiency = 0.1
+	}
+	tradition_fp3_fierce_independence = {
 		discipline = 0.05
-	}
-	tradition_formation_fighting = {
-		reserves_organisation = 0.10
-	}
-	tradition_roman_legacy = {
-		land_maintenance_modifier = -0.1
-	}
-	tradition_noble_adoption = {
-		heir_chance = 0.50
 	}
 	tradition_eye_for_an_eye = {
 		spy_offence = 0.1
 		power_projection_from_insults = 0.2
 	}
+	tradition_reverence_for_veterans = {
+		sailor_maintenance_modifer = -0.1
+	}
+	tradition_roman_legacy = {
+		land_maintenance_modifier = -0.1
+		prestige = 1
+	}
 	bonus = {
-		development_cost = -0.1
+		global_trade_power = 0.1
 	}
 }
 
@@ -264,7 +266,6 @@ rhodanian_ideas = { #Generic Rhodanian
 		discipline = 0.025
 	}
 }
-
 
 dynamic-breton-culture-num1_ideas = {
 	start = {
