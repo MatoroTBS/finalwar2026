@@ -2606,6 +2606,8 @@
  HAI_ADJ: "Scaldian"
  BRI: "Brigantia"
  BRI_ADJ: "Brigantian"
+ GBR: "Great Brigantia"
+ GBR_ADJ: "Great Brigantian"
  WLS: "Ailé"
  WLS_ADJ: "Ailéan"
  LUX: "Treveria"
@@ -2624,6 +2626,14 @@
  BOH_ADJ: "Boii"
  HAN: "Saxonia"
  HAN_ADJ: "Saxon"
+ GMA: "Boihaemia Magna"
+ GMA_ADJ: "Boihaemia"
+ FRA: "Gaul"
+ FRA_ADJ: "Gaullish"
+ GER: "Germania"
+ GER_ADJ: "Germania"
+ RUS: "Sclavonia Magna"
+ RUS_AJ: "Sclavonian"
  
  BAD: "Auscia" #Repurposed Baden
  BAD_ADJ: "Auscian"
