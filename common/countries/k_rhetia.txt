@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 85 145 70 }
+color = { 130 224 92 }
 monarch_names = {
 	"Adiatorix #2" = 10
 	"Aigyptia #1" = -1

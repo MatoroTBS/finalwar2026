@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = africangfx
-color = { 81 58 223 }
+color = { 148 224 207 }
 revolutionary_colors = { 1 0 1 }
 historical_idea_groups = {
 	defensive_ideas

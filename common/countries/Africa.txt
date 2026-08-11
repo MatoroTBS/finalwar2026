@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 153 222 89 }
+color = { 34 138 102 }
 revolutionary_colors = { 12 14 0 }
 historical_idea_groups = {
 	trade_ideas

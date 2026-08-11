@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 208 176 215 }
+color = { 201 201 195 }
 monarch_names = {
 	"Anca #0" = -1
 	"Bajan #0" = 0
