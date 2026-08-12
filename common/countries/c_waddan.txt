@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 220 67 67 }
+color = { 184 91 37 }
 monarch_names = {
 	"Abdul-Rahman #1" = 10
 	"Ahumm #1" = 10

@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = inuitgfx
-color = { 75 75 76 }
+color = { 80 102 138 }
 monarch_names = {
 	"Abebe #0" = 0
 	"Adiatorix #3" = 10
