@@ -379,7 +379,7 @@ dynamic-breton-culture-num4_ideas = { #Z07, Aquitane
 	}
 	free = yes
 
-	tradition_seafaring = {
+	atlantic_nation = {
 		may_explore = yes
 		colonists = 1
 	}
@@ -419,7 +419,7 @@ dynamic-gothic-norwegian-culture-num1_ideas = { #Vandilo-Norwegian eli Fashionin
 	}
 	free = yes
 
-	tradition_seafaring = {
+	atlantic_nation = {
 		may_explore = yes
 		colonists = 1
 	}
@@ -460,7 +460,7 @@ Z09_ideas = {
 	}
 	free = yes
 
-	tradition_seafaring = {
+	atlantic_nation = {
 		may_explore = yes
 		colonists = 1
 	}
@@ -504,7 +504,7 @@ DAN_ideas = {
 	}
 	free = yes
 
-	tradition_seafaring = {
+	atlantic_nation = {
 		colonists = 1
 		light_ship_cost = -0.1
 	}
@@ -546,7 +546,7 @@ SAX_ideas = {
 	tradition_xenophilic = {
 		num_accepted_cultures = 1
 	}
-	tradition_maritime_mercantilism = {
+	maritime_settlers = {
 		colonists = 1
 		global_trade_power = 0.1
 	}
