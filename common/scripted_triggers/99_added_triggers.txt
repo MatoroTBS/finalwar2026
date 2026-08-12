@@ -5,6 +5,9 @@ was_never_end_game_tag_trigger = {	#Country Scope
 		custom_trigger_tooltip = {
 			tooltip = was_never_end_game_tag_trigger_tt
 			AND = {
+				NOT = { was_tag = Z01 }
+				NOT = { was_tag = Z02 }
+				NOT = { was_tag = SPA }
 				NOT = { was_tag = FRA }
 				NOT = { was_tag = MUG }
 				NOT = { was_tag = PER }
@@ -57,6 +60,8 @@ was_never_end_game_tag_trigger = {	#Country Scope
 				NOT = { was_tag = SCA }
 				NOT = { was_tag = MAL }
 				NOT = { was_tag = GJN }
+				NOT = { tag = Z01 }
+				NOT = { tag = Z02 }
 				NOT = { tag = FRA }
 				NOT = { tag = MUG }
 				NOT = { tag = PER }
