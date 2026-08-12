@@ -22,62 +22,71 @@ historical_units = {
 	muslim_mass_infantry
 }
 monarch_names = {
-	"Arishat #1" = -1
-	"Betten #1" = -1
-	"Billica #0" = -1
+	"Arishat #1" = -5
+	"Betten #1" = -5
 	"Ciubar #2" = 10
 	"Decimus #1" = 10
-	"Drusus #1" = 10
-	"Drusa #1" = -1
 	"Eufarex #0" = 0
 	"Eufrason #0" = 0
-	"Eufrosyne #1" = -1
+	"Eufrosyne #1" = -5
 	"Euphrasia #0" = -1
-	"Hari Singh #0" = 0
-	"Kolite #0" = -1
 	"Kyriake #1" = -1
 	"Nikoletta #0" = -1
 	"Nikomache #0" = -1
 	"Orfeus #1" = 10
 	"Parmeson #1" = 10
 	"Postumus #1" = 10
-	"Potitus #1" = 10
 	"Procula #1" = -1
 	"Secunda #0" = -1
 	"Silya #0" = -1
-	"Tullus #1" = 10
-	"Tumbinai Setsen #0" = 0
 	"Vibison #0" = 0
 	"Vibius #2" = 10
 	"Walhild #0" = -1
 	"Xeneson #0" = 0
-	"Áigesárri #0" = 0
+	"Hannisok #0" = 0
 }
 leader_names = {
-	"Barqa"
-	"Hamilcar"
-	"Hannibal"
-	"Hasdrubal"
-	"Mago"
+	"Hermeson"
+	"Parmebal"
+	"Handibal"
+	"Tulliuco"
+	"Magosh"
+	"Bomilcar"
+	"Ciubar"
+	"Sobekaton"
+	"Zuskaton"
+	"Demeeterkaton"
+	"Hanno"
+	"Hannihades"
+	"Hannisobek"
+	"Hannisok"
+	"Procuson"
+	"Luigi"
+	"Juba"
+	"Izem"
+	"Idirsobek"
+	"Tafsuson"
+	"Axuli"
+	"Annaruz"
+	"Sokrala"
+	"Vibius"
+	"Vibison"
+	"Wagguten"
+	"Tawenzalo"
+
 }
 ship_names = {
-	"Alim"
-	"Aziz"
-	"Bari"
-	"Fattah"
-	"Ghaffar"
-	"Jabbar"
-	"Khaliq"
-	"Malik"
-	"Mu'min"
-	"Muhaymin"
-	"Musawwir"
-	"Mutakabbir"
-	"Qahhar"
-	"Quddus"
-	"Rahim"
-	"Rahman"
-	"Razzaq"
-	"Salam"
-	"Wahhab"
+	"Orfeus"
+	"Procula"
+	"Hermes"
+	"Parmeson"
+	"Vibius"
+	"Vibison"
+	"Arishat"
+	"Vitasake"
+	"Ciubar"
+	"Eufrosyne"
+	"Eufrason"
+	"Betten"
+	"Betteson"
 }
