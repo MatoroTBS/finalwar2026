@@ -144,6 +144,9 @@ SPA_ideas = {
 	tradition_formation_fighting = {
 		land_maintenance_modifier = -0.1
 	}
+	tradition_hill_dwellers = {
+		global_colonial_growth = 10
+	}
 	tradition_eye_for_an_eye = {
 		spy_offence = 0.1
 		power_projection_from_insults = 0.2
@@ -154,9 +157,6 @@ SPA_ideas = {
 	}
 	tradition_hereditary_hierarchy = {
 		free_adm_policy = 1
-	}
-	tradition_hill_dwellers = {
-		development_cost = -0.1
 	}
 	tradition_religious_patronage = {
 		missionaries = 1
